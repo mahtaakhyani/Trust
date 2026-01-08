@@ -39,8 +39,8 @@ def test_action_set_performance():
 
 
 if __name__=="__main__":
-    test_plot_trait_observations_correlation_matrix()
-    test_action_set_performance()
-    test_update_performance_function()
-    
+    # test_plot_trait_observations_correlation_matrix()
+    # test_action_set_performance()
+    # test_update_performance_function()
+    hm.Human().trust_transition()
     logging.info("All tests done.")
