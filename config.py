@@ -1,3 +1,5 @@
+import numpy as np
+
 # ================================================================================
 # TRUST PARAMETERS
 # ================================================================================
@@ -11,26 +13,39 @@ BASE_TRUST_LEVEL = 4.0   # Neutral starting trust (on 1-7 scale)
 # ================================================================================
 # TRANSITION PARAMETERS MATRIX
 # ================================================================================
-# < All transition weights in one place -
-# these define how features map to trust >
+# < All transition weights in one place - these define how features map to trust >
+# --------------------------------------------------------------------------------
+T0 = 0.05  # temporal tolerance (JND) in seconds
+STRIDE_TIME = 1.0      # seconds
+OMEGA = 2 * np.pi / STRIDE_TIME # task angular frequency (Interpretation: Normal walking cadence. Adjust if cadence changes)
+PHI_PREF = 0.0 # preferred assistance phase
+# Interpretation:
+# Assistance aligned with expected phase
+# Shift only if you have phase-specific actuation
 
+g = 1.0 # perceptual gain
 # ===================================
 # Overall Performance Features Matrix
-# Feature weights: How each performance metric contributes to overall quality
 # ===================================
-
+# Feature weights: How each performance metric contributes to overall quality
+# -----------------------------------
 FEATURE_WEIGHTS = {
-    'walking_symmetry': 0.3,  # Weight for symmetry in performance calculation
-    'balance': 0.3,           # Weight for balance in performance calculation
-    'metabolic_cost': 0.4,    # Weight for metabolic benefit in performance calculation
-    'timing_vs_performance': [0.3, 0.7]  # [timing weight, performance weight] in overall quality
+    'walking_symmetry': 0.4,  # Weight for symmetry in performance error calculation
+    'balance': 0.5,           # balance is felt faster
+    'metabolic_cost': 0.3,    # metabolic cost is slowest
 }
-
 
 # =====================================
 # Personality Trait Transition Parameters
 # Structure: [trait_name] -> {parameter_name: value}
 # =====================================
+TRAIT_SCALE = 40 # Maximum trait score (used for normalization)
+
+# temporal sensitivity (Sharpness) -> (sigmoid slope )
+# -----------------
+BETA_MIN = 5.0 # Lower bound on sharpness
+BETA_MAX = 40.0 # Upper bound on sharpness
+
 
 TRAIT_PARAMETERS = {
     'conscientiousness': {
