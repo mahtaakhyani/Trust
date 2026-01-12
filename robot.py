@@ -58,6 +58,7 @@ class Action:
         self.performance = FunctionalPerformance.generate_random_performance()
         # The level of unpredictability of an action (aside from how good/bad the performance is)
         self.timing_delay: float = 0.0
+        self.perceived_risk: float = 0.0
         
     @property
     def norm_delay(self) -> float:

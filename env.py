@@ -9,6 +9,6 @@ import config as cfg
 
 class TrustTransition:
     def __init__(self) -> None:
-        pass
-    
-    
+        # Memory for trust history
+        self.cumulative_error_history = [] # recording all the errors in a session
+        self.cumulative_trust_history = []

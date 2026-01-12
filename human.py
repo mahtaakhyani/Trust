@@ -23,7 +23,23 @@ class Human:
         self.gender=gender
         self.anxiety_level=anxiety_level
         self.personality_traits=personality_traits if personality_traits else self.generate_random_personality()
+        # T_dispositional: baseline propensity to trust
+        self.T_dispositional = self._compute_dispositional_trust()
+        
+        # T_situational: context/environment (you don't have this yet)
+        self.T_situational = 0.0
+        
+        # T_learned: dynamic component (what you're trying to model)
+        self.T_learned = 0.0
+        
+        # Total trust
+        self.trust_level = self.T_dispositional + self.T_situational + self.T_learned
+        
         self.trust_level=trust_level if trust_level else np.random.randint(0, TRUST_SCALE)
+        # State tracking
+        self.fatigue_level = 0.0  # Increases over time
+        self.cognitive_load = 0.5  # Task difficulty
+        
         self.observations = self.set_default_observation()
         # Manually defined likelihood-style correlations between personality traits and observations
         # Rows = observations, Columns = traits
@@ -70,8 +86,27 @@ class Human:
         
         return observations
     
+    def _compute_dispositional_trust(self):
+        """Baseline propensity from personality"""
+        A, O, C, E, N = self.personality_traits / 40
+        
+        # Evidence from your own document:
+        # - Agreeableness: strongest predictor (r ≈ 0.35)
+        # - Neuroticism: negative (r ≈ -0.30)
+        # - Openness: positive for tech acceptance
+        
+        T_base = (
+            0.40 * A +      # Strongest predictor
+            0.20 * O +      # Tech acceptance
+            0.15 * C +      # Reliability focus
+            0.10 * E +      # Social trust
+            -0.35 * N       # Anxiety/distrust
+        )
+        
+        # Scale to your TRUST_SCALE (e.g., 0-10)
+        return T_base * TRUST_SCALE * 0.5  # Start at ~50% of max
     
-    def trait_trust_to_observation(self) -> np.array[tuple[int, int, int], float]:
+    def trait_trust_to_observation(self) -> np.array([tuple[int, int, int], float]):
         ''' 
         How likely observation i is for someone with trait k, at trust level t+1
                 - Positive = more likely at high trust
@@ -276,6 +311,31 @@ class Human:
 
         return beta
 
+    def compute_temporal_tolerance(self, t0_min=0.03, t0_max=0.10, age_ref=25):
+        """
+        Calculate temporal tolerance (t0) based on age.
+        
+        Older adults have wider Temporal Binding Window (TBW) and increased
+        tolerance for timing errors, while younger users are more sensitive.
+        
+        Parameters
+        ----------
+        t0_min : float, default=0.03
+            Minimum temporal tolerance for young adults (seconds).
+        t0_max : float, default=0.10
+            Maximum temporal tolerance for older adults (seconds).
+        age_ref : int, default=25
+            Reference age where t0 = t0_min (years).
+        
+        Returns
+        -------
+        t0 : float
+            Temporal tolerance window (seconds).
+        """
+        # Linear increase: t0 increases with age beyond reference
+        # Based on "age in error perception.md" - older adults have wider TBW
+        age_factor = max(0, (self.age - age_ref) / 60.0)  # normalize to ~85 years
+        return t0_min + age_factor * (t0_max - t0_min)
 
     def percieved_error(self,
                             A,
@@ -332,25 +392,101 @@ class Human:
 
         return g * mag * K
 
+
     def calculate_trust_loss(self, trait, action):
         '''
             Calculates trust loss for each personality trait based on their current trust level.
             
-            The current function is defined based on "BigFivePersonalityTraits_to_Trust.PDF" results,
-            but the scores are entirely estimated values and not supported by experiment.
         '''
-        normalized_trust_level = self.trust_level / TRUST_SCALE  # Normalize to 0-1 scale
+        beta = self.compute_sharpness_beta()
+        t_0 = self.compute_temporal_tolerance()
+        p_error = self.percieved_error(A = action.action_error, dt = action.timing_delay, beta = beta, t0 = t_0)
         
-        # Higher trait scores provide protection against trust loss except neuroticism (Negative Correlation)
-        if trait == 'neuroticism':
-            protection_factor = 1 - normalized_trust_level  # Higher neuroticism = less protection
-        else:
-            protection_factor = normalized_trust_level  # Higher trait = more protection
+      
+      
+      
+        
+def update_trust(self, perceived_error, action_quality, risk_level=0.5):
+    """
+    Three-layer model with asymmetric learned trust updates.
     
+    Parameters:
+    -----------
+    perceived_error : float
+        Output from your perceived_error() function
+    action_quality : float
+        1 - action.action_error (0=worst, 1=perfect)
+    risk_level : float
+        Perceived stakes/consequences (0-1)
+        Higher for balance-critical phases of gait
+    """
+    
+    # 1. Dispositional trust is CONSTANT (personality-based baseline)
+    # Already set in __init__
+    
+    # 2. Situational trust varies with context
+    self.T_situational = self._update_situational_trust(risk_level)
+    
+    # 3. Learned trust updates based on experience
+    delta_learned = self._update_learned_trust(
+        perceived_error, 
+        action_quality, 
+        risk_level
+    )
+    
+    self.T_learned = np.clip(
+        self.T_learned + delta_learned,
+        -self.T_dispositional,  # Can't go below negative of baseline
+        TRUST_SCALE - self.T_dispositional  # Can't exceed max
+    )
+    
+    # Total trust
+    self.trust_level = np.clip(
+        self.T_dispositional + self.T_situational + self.T_learned,
+        0, 
+        TRUST_SCALE
+    )
+    
+    return delta_learned
 
-         # Calculate weighted error based on trait sensitivity
-        weighted_error = (action.performance.performance_error * trait_weights[trait]['performance'] + 
-                        action.norm_delay * trait_weights[trait]['timing'])
+def _update_situational_trust(self, risk_level):
+    """Context-dependent trust modulation"""
+    # High risk → lower baseline trust in that moment
+    # Environmental factors: noise, obstacles, fatigue
+    
+    fatigue_factor = 0.0  # TODO: implement fatigue tracking
+    risk_penalty = -risk_level * TRUST_SCALE * 0.2
+    
+    return risk_penalty + fatigue_factor
+
+def _update_learned_trust(self, perceived_error, action_quality, risk_level):
+    """Asymmetric trust learning with personality modulation"""
+    
+    A, O, C, E, N = self.personality_traits / 40
+    
+    # Learning rates depend on personality
+    # High N → faster loss, slower recovery
+    # High A → faster recovery
+    alpha_loss = 0.2 + 0.5 * N  # Range: 0.2-0.7
+    alpha_gain = 0.03 + 0.12 * A  # Range: 0.03-0.15
+    
+    # Risk amplifies loss
+    alpha_loss *= (1 + risk_level)
+    
+    # Error threshold for trust loss
+    error_threshold = 0.2 - 0.1 * C  # Conscientious people more tolerant
+    
+    if perceived_error > error_threshold:
+        # Trust LOSS: fast, nonlinear
+        # Use exponential: small errors → small loss, large errors → catastrophic
+        loss_magnitude = 1 - np.exp(-3 * perceived_error)
+        delta = -alpha_loss * loss_magnitude * TRUST_SCALE
         
-        
-Human().plot_trait_trust_observations_correlation_matrix()
+    else:
+        # Trust GAIN: slow, requires sustained good performance
+        # Diminishing returns as trust approaches maximum
+        room_to_grow = 1 - (self.T_learned / (TRUST_SCALE - self.T_dispositional))
+        gain_magnitude = action_quality * room_to_grow
+        delta = alpha_gain * gain_magnitude * TRUST_SCALE
+    
+    return delta
