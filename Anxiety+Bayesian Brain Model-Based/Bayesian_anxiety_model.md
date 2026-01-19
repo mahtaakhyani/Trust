@@ -4,6 +4,8 @@
 
 In the Bayesian Brain framework, specifically within the Free Energy Principle and predictive processing accounts, anxiety can be conceptualized as the pathological over-weighting of sensory prediction errors [1,2]. This computational model provides a mechanistic explanation for why an anxious user of a robotic prosthetic or avatar cannot easily "ignore" minor kinematic irregularities (jitters, latency) that a calm user would naturally filter out through sensory attenuation [3,4].
 
+
+
 ---
 
 ## 1. The Bayesian Inference Framework
