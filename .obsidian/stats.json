@@ -1,0 +1,129 @@
+{
+  "history": {
+    "2026-01-29": {
+      "words": 398,
+      "characters": 3153,
+      "sentences": 0,
+      "pages": 1.1999999999999997,
+      "files": 40,
+      "footnotes": 0,
+      "citations": 0,
+      "totalWords": 48888,
+      "totalCharacters": 379386,
+      "totalSentences": 2973,
+      "totalFootnotes": 0,
+      "totalCitations": 0,
+      "totalPages": 162.60000000000002
+    },
+    "2026-01-30": {
+      "words": 53,
+      "characters": 695,
+      "sentences": 1,
+      "pages": 0.1,
+      "files": 40,
+      "footnotes": 0,
+      "citations": 0,
+      "totalWords": 48937,
+      "totalCharacters": 380051,
+      "totalSentences": 2972,
+      "totalFootnotes": 0,
+      "totalCitations": 0,
+      "totalPages": 162.7
+    },
+    "2026-02-01": {
+      "words": 48,
+      "characters": 359,
+      "sentences": 0,
+      "pages": 0.30000000000000004,
+      "files": 42,
+      "footnotes": 0,
+      "citations": 0,
+      "totalWords": 49633,
+      "totalCharacters": 385105,
+      "totalSentences": 3021,
+      "totalFootnotes": 0,
+      "totalCitations": 0,
+      "totalPages": 165.2
+    }
+  },
+  "modifiedFiles": {
+    "My Extractions/Modeling dispositional and initial learned trust in automated vehicles with predictability and explainability.md": {
+      "words": {
+        "initial": 279,
+        "current": 323
+      },
+      "characters": {
+        "initial": 2125,
+        "current": 2456
+      },
+      "sentences": {
+        "initial": 17,
+        "current": 17
+      },
+      "footnotes": {
+        "initial": 0,
+        "current": 0
+      },
+      "citations": {
+        "initial": 0,
+        "current": 0
+      },
+      "pages": {
+        "initial": 0.9,
+        "current": 1.1
+      }
+    },
+    "My Extractions/Why Anxiety?.md": {
+      "words": {
+        "initial": 72,
+        "current": 76
+      },
+      "characters": {
+        "initial": 737,
+        "current": 765
+      },
+      "sentences": {
+        "initial": 1,
+        "current": 1
+      },
+      "footnotes": {
+        "initial": 0,
+        "current": 0
+      },
+      "citations": {
+        "initial": 0,
+        "current": 0
+      },
+      "pages": {
+        "initial": 0.2,
+        "current": 0.3
+      }
+    },
+    "Consensus/Anxiety, Trust, and Evolution.md": {
+      "words": {
+        "initial": 745,
+        "current": 602
+      },
+      "characters": {
+        "initial": 5386,
+        "current": 4364
+      },
+      "sentences": {
+        "initial": 54,
+        "current": 44
+      },
+      "footnotes": {
+        "initial": 0,
+        "current": 0
+      },
+      "citations": {
+        "initial": 0,
+        "current": 0
+      },
+      "pages": {
+        "initial": 2.5,
+        "current": 2
+      }
+    }
+  }
+}

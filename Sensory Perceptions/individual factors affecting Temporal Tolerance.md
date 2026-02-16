@@ -9,7 +9,7 @@ In the supplied literature age and developmental status alter multisensory tempo
 
 - **Developmental trajectory evidence** Sighted children (6–15 years) show wider audio–tactile temporal binding windows than age-matched visually impaired children, whereas no TBW differences were found between visually impaired and sighted adults in the reported sample, suggesting developmental reorganization in childhood rather than continuing differences into adulthood [1]. 
  
-- **Temporal discrimination measures** The somatosensory temporal discrimination threshold (STDT) is conceptualized as the minimum interstimulus interval at which two successive somatosensory events are perceived as separate; detailed age-specific numeric STDT, TOJ, or SJ thresholds across infancy, adolescence, adulthood and aging are not provided in the supplied corpus and therefore cannot be stated here (insufficient evidence).  
+- **Temporal discrimination measures** The somatosensory temporal discrimination threshold (STDT) is conceptualized as the minimum interstimulus interval at which two successive somatosensory events are perceived as separate; detailed age-specific numeric STDT, [[TOJ]], or SJ thresholds across infancy, adolescence, adulthood and aging are not provided in the supplied corpus and therefore cannot be stated here (insufficient evidence).  
 
 - **Age-related TBW changes** The available developmental study reports a wider TBW in sighted children versus visually impaired children but does not provide a full lifespan curve or exact numeric TBW limits across ages [1].  
 

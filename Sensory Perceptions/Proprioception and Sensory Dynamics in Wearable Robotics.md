@@ -16,11 +16,16 @@ This report analyzes the impact of wearable robotics on human sensory precision,
 ---
 
 ## 1. Most Affected Sensory Precision
-In wearable robotics, **proprioception (specifically kinesthetic sense)** is the sensory modality most affected and carries the most weight in system performance.
+When using wearable robots , **proprioception (specifically kinesthetic sense)** is the sensory modality most affected and carries the most weight in system 
+performance.
+Wearable robots create a "closed-loop" system. Because the robot is physically coupled to the user, the user’s brain must integrate the robot’s movements into its internal body schema. ^why
 
-Wearable robots create a "closed-loop" system. Because the robot is physically coupled to the user, the user’s brain must integrate the robot’s movements into its internal body schema. The precision of **joint position sense** is often degraded due to mechanical misalignments and "parasitic forces" (unwanted forces caused by the robot's structure).
+The precision of **joint position sense** is often degraded due to mechanical misalignments and "parasitic forces" (unwanted forces caused by the robot's structure). #proprioception 
 
-* **Claim:** Proprioceptive precision—specifically the ability to perceive joint angles and limb velocity—is the most affected modality because the robot acts as a physical filter between the user and the environment.
+
+* **Claim:** 
+
+Proprioceptive precision—specifically the ability to perceive joint angles and limb velocity—is the most affected modality because the robot acts as a physical filter between the user and the environment. ^pro
 * **Citations:** * Schiele, A., & van der Helm, F. C. (2006). Kinematic design to improve ergonomics in human-machine interaction. *IEEE Transactions on Neural Systems and Rehabilitation Engineering*.
     * Gouzien, A., et al. (2017). Reachability of the integrated self: Exoskeletons and the body schema. *Scientific Reports*.
 
@@ -57,13 +62,17 @@ While proprioception deals with internal position, **tactile precision** deals w
 
 ---
 
-## 4. Proprioception in Trust & Psychological Dynamics
-In psychological models of wearable robotics, proprioception is the primary driver of **Embodiment**, which is subdivided into the **Sense of Ownership (SoO)** and the **Sense of Agency (SoA)**.
+## 4. Proprioception in Trust & Psychological Dynamics 
+#embodiment #proprioception #sense_of_agency
+
+In psychological models of wearable robotics, proprioception is the primary driver of **Embodiment**, which is subdivided into the **Sense of Ownership (SoO)** and the **Sense of Agency (SoA)**. ^proprioception-embodiment
 
 * **The Model:** The brain uses a "Forward Model" to predict what a movement should feel like. If the robot's proprioceptive feedback matches the brain's prediction, the user "trusts" the robot as part of their own body.
 * **Trust Dynamics:** High proprioceptive alignment leads to "System Transparency." When the robot is transparent, the user’s cognitive load drops, and trust in the robot's reliability increases.
 
-* **Claim:** Proprioception is the sensory mediator for the "Sense of Agency"; without precise proprioceptive feedback, the user cannot achieve the psychological state of "human-in-the-loop" trust.
+* **Claim:** 
+* 
+Proprioception is the sensory mediator for the "Sense of Agency"; without precise proprioceptive feedback, the user cannot achieve the psychological state of "human-in-the-loop" trust. ^w1
 * **Citations:**
     * Gallagher, S. (2000). Philosophical conceptions of the self: implications for cognitive science. *Trends in Cognitive Sciences*.
     * Caspar, E. A., et al. (2018). The influence of user-compliant control strategies on the sense of agency in wearable robotics. *Journal of NeuroEngineering and Rehabilitation*.
@@ -76,7 +85,8 @@ The relationship is **bidirectional**:
 1.  **Proprioception → Trust:** When a user can precisely feel where the robot is without looking, they develop **predictive trust**. They trust the robot to behave consistently with their intentions.
 2.  **Trust → Proprioception:** High trust in a device has been shown to increase **"Proprioceptive Drift."** This is a phenomenon where the user’s perceived location of their limb shifts toward the robot’s location, indicating the brain has "accepted" the robot into its body schema.
 
-* **Claim:** Trust acts as a modulator for embodiment; higher trust facilitates the neural integration of robotic feedback, effectively "sharpening" the user's perceived proprioceptive control.
+* **Claim:**
+* Trust acts as a modulator for embodiment; higher trust facilitates the neural integration of robotic feedback, effectively "sharpening" the user's perceived proprioceptive control. #proprioception ^trust-embodiment
 * **Citations:**
     * Iturrate, I., et al. (2015). Teaching robots to recognize outcomes from their users' brain potentials. *Scientific Reports*.
     * Kilteni, K., et al. (2012). The Sense of Embodiment in Virtual Reality. *Presence: Teleoperators and Virtual Environments*.

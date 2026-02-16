@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:The Critical Role of Anxiety in Wearable Robot Acceptance and Performance",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:/sensory perception",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "#cognitive/anxiety",
+      "color": {
+        "a": 1,
+        "rgb": 1900789
+      }
+    },
+    {
+      "query": "somatosensory_cortex",
+      "color": {
+        "a": 1,
+        "rgb": 380415
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -2.2,
+  "nodeSizeMultiplier": 1.58632945460302,
+  "lineSizeMultiplier": 2.83101401092377,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 20,
+  "linkStrength": 0.592361111111111,
+  "linkDistance": 500,
+  "scale": 0.06960839388709048,
+  "close": false
+}

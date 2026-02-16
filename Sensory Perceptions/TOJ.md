@@ -1,3 +1,5 @@
+#temporal_order_judgments
+#consensus
 # TOJ (Temporal-Order Judgments)
 TOJ judgments refer to Temporal-Order Judgments, a cognitive task in psychology and neuroscience where people decide which of two stimuli (visual, auditory, tactile) came first, measuring sensory processing speed, attention, and multisensory integration, revealing how the brain sequences events, often showing differences based on stimulus type, age, or task complexity. 
 

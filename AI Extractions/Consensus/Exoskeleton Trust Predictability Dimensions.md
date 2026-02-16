@@ -1,0 +1,9 @@
+Trust in exoskeletons as grouped into **purpose, process, and performance** dimensions as mentioned in conceptual framework discussed by [[#^db0e11|Stirling et al. (2024)]], who emphasize various factors such as safety, reliability, dependability, accessibility, integrity, understandability, and familiarity as key attributes influencing trust ([[#^db0e11|Stirling et al., 2024]]). 
+These dimensions indeed converge on the principle of **predictability**, which is critical for users to anticipate system behavior and outcomes. Research shows that when exoskeletons act consistently and transparently in alignment with user intentions, predictability is reinforced, thereby strengthening trust ([[#^e5e0e6|Wu & Stirling, 2023]]; [[#^db0e11|Stirling et al., 2024]]). Studies also highlight that perceived predictability significantly affects users' willingness to continue using exoskeletons, with error rates above 2-5% negatively impacting this perception ([[#^e5e0e6|Wu & Stirling, 2023]]). Thus, predictability serves as a central foundation for trust by ensuring users can reliably expect how the system will perform under various conditions.
+#robot/exoskeleton #trust_factors #trust_factors/robot_factors/predictability 
+
+## References
+
+Wu, M., & Stirling, L. (2023). Impact of Imperfect Exoskeleton Algorithms on Step Characteristics, Task Performance, and Perception of Exoskeleton Performance. _2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)_, 4088-4093. [https://doi.org/10.1109/iros55552.2023.10341368](https://doi.org/10.1109/iros55552.2023.10341368) ^e5e0e6
+
+Stirling, L., Wu, M., & Peng, X. (2024). Measuring Trust for Exoskeleton Systems. _ArXiv_, abs/2407.07200. [https://doi.org/10.48550/arxiv.2407.07200](https://doi.org/10.48550/arxiv.2407.07200) [[Measuring Trust for Exoskeleton Systems.pdf]] ^db0e11

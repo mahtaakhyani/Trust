@@ -1,0 +1,6 @@
+- does breath change when anxious? (composition, CO2, pH, etc.)
+- saliva biosensors available for purchase - how they work for inverse engineer (build it ourselves)
+- sweat biosensors for composition, etc.
+- what is **alpha-amylase**
+- temporoparietal junction (page 12 of [[Trust in wearable robots from a user pe...echnology - SciSpace Literature Review.pdf]], row 3 of the table)
+- affecting computing for anxiety measurement

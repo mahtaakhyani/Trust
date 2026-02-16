@@ -1,0 +1,10 @@
+- anxiety or fear or stress or threat
+- risk or safety
+- somatosensory_cortex and anxiety or proprioception
+- proprioception or motor_control or proprioceptive_feedback or prediction or predictability
+- somatosensory_cortex or gyrus or frontal lobe or M1 or M2 or norepinephrine or adrenaline or amygdala or bio or insula
+- anxiety or threat or safety or risk and (somatosensory_cortex or gyrus or frontal lobe or M1 or M2 or norepinephrine or adrenaline or amygdala or bio or insula) and (embodiment or ownership or agency or proprioception or trust)
+- (trust or performance) and (anxiety or risk or fear or threat)
+- cognitive or perception
+- prediction_error or predict and (anxiety or fear or threat or safe or risk)
+- bio or somatosensory_cortex or neurotransmitters or insula or amygdala or SNS or cortisol or cortesis or cortex or cerebellum or BNST or DAN or FPN or DMN or salience or somatic

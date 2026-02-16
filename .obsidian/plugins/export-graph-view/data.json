@@ -1,0 +1,18 @@
+{
+  "exportFormat": "dot",
+  "includeOrphans": false,
+  "includeAttachments": false,
+  "lastExported": "s",
+  "includeWeights": true,
+  "relationshipStrategy": "internalLinks",
+  "weightThreshold": 1,
+  "subgraphs": true,
+  "direction": "TD",
+  "maxEPerV": 10,
+  "enableAutoBridge": true,
+  "manualBackoff": false,
+  "maxNodes": 40,
+  "maxRelationships": 60,
+  "maxTags": 10,
+  "viewMode": "fullGraph"
+}

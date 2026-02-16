@@ -25,7 +25,8 @@ Visuomotor coordination is a primary driver in the development of **biomimetic c
 When an individual has visuomotor deficits (due to stroke or neurodegenerative conditions), the robot must transition from a passive assistant to an **active guide**.
 
 * **Personalization of Assistance:** Research suggests that "one-size-fits-all" controllers can hinder neuroplasticity. For users with high visuomotor error, robots must provide **"error augmentation"** (exaggerating mistakes to help the brain notice them) or **"haptic guidance"** (physically guiding the limb).
-* **Visual Biofeedback:** In users with slow adaptation rates, adding secondary visual aids (e.g., augmented reality displays) can "bypass" damaged natural visuomotor pathways to accelerate the learning of robot-assisted movement.
+* **Visual Biofeedback:** 
+* In users with slow adaptation rates, adding secondary visual aids (e.g., augmented reality displays) can "bypass" damaged natural visuomotor pathways to accelerate the learning of robot-assisted movement. ^aid
 * **Claim:** Robots must adapt by modulating "Assistance-as-Needed" (AAN) gains based on the user's specific rate of visuomotor adaptation, as rigid constraints can impede the acquisition of new motor skills.
 * **Citations:** * Schiele, A., & van der Helm, F. C. (2006). Kinematic design to improve ergonomics. *IEEE Transactions*.
     * Cazarez, M. (2021). *The Effect of Stance Visual Feedback on Exoskeleton Adaptation*. eScholarship.
@@ -33,13 +34,17 @@ When an individual has visuomotor deficits (due to stroke or neurodegenerative c
 ---
 
 ## 3. Redefining "Performance" in Wearable Robots
-The definition of "performance" is shifting from purely mechanical metrics to **human-machine fluency**.
+- The definition of "performance" is shifting from purely mechanical metrics to **human-machine fluency**. ^visuomotor
 
-* **Skill-Normalized Performance:** Performance is increasingly defined by the robot's ability to bridge the **"skill gap."** If a robot provides more benefit to a user with lower visuomotor skill than to an expert, its "performance" is considered higher for that specific context.
-* **Co-Adaptation as Success:** "Expert" performance is reached when the user’s visuomotor system has fully "internalized" the robot’s physics. This is measured by the stability of movement trajectories and a decrease in visual attention (cognitive load).
-* **Claim:** Visuomotor skill level is a predictor of learning capacity; therefore, robot performance is defined by the speed of the user’s "proprioceptive recalibration" and the reduction in visual error-correction effort.
+	* **Skill-Normalized Performance:** Performance is increasingly defined by the robot's ability to bridge the **"skill gap."** If a robot provides more benefit to a user with lower visuomotor skill than to an expert, its "performance" is considered higher for that specific context.
+	* **Co-Adaptation as Success:** "Expert" performance is reached when the user’s visuomotor system has fully "internalized" the robot’s physics. This is measured by the stability of movement trajectories and a decrease in visual attention (cognitive load).
+	* **Claim:** 
+
+	* Visuomotor skill level is a predictor of learning capacity; therefore, robot performance is defined by the speed of the user’s "proprioceptive recalibration" and the reduction in visual error-correction effort. ^m
+	* 
+	#trust_factors/robot_factors/performance 
 * **Citations:** * Beckerle, P., et al. (2017). Human-robot integration: From biology to technology. *Science Robotics*.
-    * Ruttle, J. (2021). *Factors impacting the time course of visuomotor reach adaptation*. YorkSpace.
+    * Ruttle, J. (2021). *Factors impacting the time course of visuomotor reach adaptation*. YorkSpace. ^tr-xnfh4d1iq
 
 ---
 

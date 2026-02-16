@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "6ce1818cafa69365",
+    "type": "split",
+    "children": [
+      {
+        "id": "acab6724811bf6da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39523ca4f4f5c920",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Extractions/unrelated to everything.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "unrelated to everything"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "446767349782d775",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "669234044c2b2c3a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "f3ba68e52cc3b4ba",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Feedback",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "f2653676086e25c6",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "9660a6e8a79940a6",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "81fbce429ba1e0ee",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "5bcd9c69f1b551fa",
+        "type": "leaf",
+        "state": {
+          "type": "tagfolder-view",
+          "state": {},
+          "icon": "stacked-levels",
+          "title": "Tag Folder"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4161bba4aa6ea026",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d2cf51b438ec86f1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "My Extractions/Why Anxiety?.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "c44eedb159155dfe",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "bfc4e029e6fb2c64",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "29a4bbdaeff0539d",
+        "type": "leaf",
+        "state": {
+          "type": "infranodus-graph-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "infranodus-graph-view"
+        }
+      },
+      {
+        "id": "c428b733eef84abb",
+        "type": "leaf",
+        "state": {
+          "type": "external-link-viewer",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "External Link Viewer"
+        }
+      },
+      {
+        "id": "3734a66b48f4546b",
+        "type": "leaf",
+        "state": {
+          "type": "notebook-navigator-calendar",
+          "state": {},
+          "icon": "notebook-navigator",
+          "title": "Calendar"
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
+      "notebook-navigator:Notebook Navigator": false,
+      "export-graph-view:Export graph view": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "css-editor:Open CSS editor quick switcher": false,
+      "obsidian-extlnkhelper-plugin:Search External Links": false,
+      "tags-routes:Open tags routes": false
+    }
+  },
+  "active": "39523ca4f4f5c920",
+  "lastOpenFiles": [
+    "Defining Anxiety as the Proxy of Trust.md",
+    "Sensory Perceptions/perceived_risk_and_safety.md",
+    "Consensus/Anxiety and Proprioception.md",
+    "My Extractions/Why Anxiety?.md",
+    "My Extractions/Embodiment for Robotic Lower-LimbExoskeletons A Narrative Review.md",
+    "My Extractions/Quantitative assessment of human-exoskeleton integration through a neurophysiological marker of embodiment.md",
+    "Papers/Quantitative assessment of human-exoskeleton integration through a neurophysiological marker of embodiment.pdf",
+    "My Extractions/Human–Robot Interactions A Pilot Study of Psychoaffective and Cognitive Factors to Boost the Acceptance and Usability of Assistive Wearable Devices.md",
+    "Papers/mti-3341859-supplementary.pdf",
+    "My Extractions/().md",
+    "Sensory Perceptions/Visuomotor Coordination in Wearable Robotics.md",
+    "Sensory Perceptions/TOJ.md",
+    "My Extractions/Measuring Trust for Exoskeleton Systems.md",
+    "Papers/Learned uncertainty The free energy principle in anxiety.pdf"
+  ]
+}

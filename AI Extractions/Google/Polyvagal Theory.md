@@ -1,0 +1,14 @@
+[Link](https://www.google.com/search?q=polyvagal+theory&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyDAgBEAAYFBiHAhiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQLhiABDIHCAcQABiABDIHCAgQABiABDIHCAkQLhiABNIBCDExMDhqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8&udm=50&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3p-ML-906rRL_m6h4jR-tdCeKIwp94h-QiJ4lJfObsqU79yRFgWBtc5FGpXu1cRl7V_Vs7GzJXhHBRsC979Zj1SIrZzg8kcXPI-d7yWQTcI3pcAoD_DHKJyuFfqrV100nMkdcSoYnpmgeAqA_Q3YheCScr1w1MKheUnbrn-CjhVIs8mWJQ&ved=2ahUKEwinkYr7itKSAxVxt1YBHX0XFQcQ0NsOegQIfBAA&aep=10&ntc=1&mstk=AUtExfBDX9lH3Z25LN68NM_UtXEld00I67gK8BigU-8FsgagmQJRdTBW99LKB25BAf1mbeTUS6ZbFzhJha_WEsgfPJa3QwAs9ig51R0ye0iX-Wu8JeKJF3dEj3WjyHWti1MaYKkrAJYYBEkkSkJQ8z06gimBUj67uMmtY5v57zboPrG0EDkYj4Re1MqHQKXomx9R1Pc9niz0DmvOdRLfj2-dtj5GBX-xWWNp4i9IFB1MCt0p7g5m23he3n3JBOCJWozC-8uLuYIWc1pzjp1J530oiZlDLnq5L3-dkRO5iBsfWqa7icXm7vO9-zxvWgCAsxiDDh0cmX9_--DHsw&csuir=1&mtid=3syMab2QDNTR2roP-8S4mQE)
+- Introduced by **Dr. Stephen Porges** in 1994, [Polyvagal Theory](https://www.polyvagalinstitute.org/whatispolyvagaltheory) ==provides a neurophysiological framework for understanding how our autonomic nervous system (ANS) subconsciously scans for safety and threat==. It shifts the focus from a simple "on/off" stress response to a hierarchical system that dictates how we connect with others and survive danger.
+- This hierarchy dictates that we cannot skip stages; to move from a state of complete shutdown to feeling safe, we must pass through the mobilized state first.
+
+The theory describes three distinct evolutionary stages of the ANS, often visualized as a "ladder": 
+- **Top: Ventral Vagal (Safe & Social):** The newest system, unique to mammals. When active, we feel safe, connected, and calm. This state facilitates social engagement, digestion, and immune recovery.
+- **Middle: Sympathetic (Fight or Flight):** A system of mobilization. When we perceive danger, the body floods with energy to either confront or escape the threat.
+- **Bottom: Dorsal Vagal (Shutdown/Freeze):** The most primitive system. When a threat is perceived as life-threatening or inescapable, the body conserves energy by shutting down, leading to immobilization, dissociation, or "fainting".
+
+### Core Principles
+
+1. **Neuroception:** This is the body’s "internal surveillance system" that scans the environment for cues of safety or danger without our conscious awareness.
+2. **Hierarchy:** The nervous system responds to challenges in a predictable order, starting with social engagement and descending into defense if safety is not found.
+3. **Co-regulation:** The biological need to connect with other safe individuals to help soothe our own nervous system.

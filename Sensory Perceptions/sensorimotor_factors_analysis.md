@@ -1,6 +1,9 @@
 ## TL;DR
 
-Sensory precision (especially proprioception), prior expectations/attention, motor noise, and cognitive traits drive individual differences in sensorimotor perception. Aging reduces sensory precision and increases reliance on priors; no single perfect model exists, with Bayesian, predictive coding, and optimal control approaches leading.
+Sensory precision (especially proprioception), prior expectations/attention, motor noise, and cognitive traits drive individual differences in sensorimotor perception. ^q
+
+Aging reduces sensory precision and increases reliance on priors; no single perfect model exists, with Bayesian, predictive coding, and optimal control approaches leading.
+
 
 ----
 
@@ -12,7 +15,8 @@ The literature groups determinants of sensorimotor perception into physical (sen
 - **Motor noise and control** Motor response variability and noise influence visuomotor corrections and are modeled as increased endogenous noise in older adults, producing slower corrective responses despite unchanged response onset latency [2].  
 - **Prior expectations** The strength and variance of priors bias perception; flatter or weaker priors account for individual differences in motion perception and are implemented in Bayesian models of perception [3].  
 - **Attention and precision weighting** Top‑down allocation of expected precision (attention) changes the relative influence of modalities (vision vs proprioception) in both perception and action under conflict [4].  
-- **Cognitive and trait factors** Working memory, past responses, and trait measures (e.g., autistic traits) modulate how sensory evidence and priors are combined across individuals [3] [5].  
+- **Cognitive and trait factors** Working memory, past responses, and trait measures (e.g., autistic traits) modulate how sensory evidence and priors are combined across individuals [3] [5].   
+
 - **Multisensory causal inference** Beliefs about a common cause (causal inference) determine cue combination weights and differ across development and individuals [6].
 
 References in this section support the categorical roles above and their interactions [1] [2] [3] [4] [6] [7] [5].

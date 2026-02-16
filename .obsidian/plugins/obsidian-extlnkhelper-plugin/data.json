@@ -1,0 +1,3997 @@
+{
+  "onlyFullLink": true,
+  "useSelectedText": true,
+  "htmlAnchorLinks": true,
+  "urlLinks": true,
+  "fuzzySearchTitle": true,
+  "fuzzySearchFilePath": true,
+  "fuzzySearchPath": true,
+  "fuzzySearchTags": true,
+  "linkStore": [
+    {
+      "Text": "https://arxiv.org/abs/2507.21384",
+      "Path": "https://arxiv.org/abs/2507.21384",
+      "FilePath": "Projecting the New Body - How Body Image Evolves During Learning to Walk with a Wearable Robot.md",
+      "Tags": [
+        "#lower_limb",
+        "#embodiment"
+      ]
+    },
+    {
+      "Text": "https://arxiv.org/abs/2407.07200",
+      "Path": "https://arxiv.org/abs/2407.07200",
+      "FilePath": "Measuring Trust in Exoskeletons.md",
+      "Tags": [
+        "#measuring_trust",
+        "#measures",
+        "#subjective_measures",
+        "#objective_measures",
+        "#trust_factors",
+        "#Accessibility",
+        "#Dependability",
+        "#Understandability",
+        "#Ability",
+        "#Reliability",
+        "#Safety",
+        "#Confidence",
+        "#Faith",
+        "#Intentions",
+        "#performance",
+        "#process",
+        "#purpose"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1109/TNSRE.2022.3229563",
+      "Path": "https://doi.org/10.1109/TNSRE.2022.3229563",
+      "FilePath": "Untitled/Embodiment for Robotic Lower-LimbExoskeletons A Narrative Review.md",
+      "Tags": [
+        "#embodiment",
+        "#measures",
+        "#objective_measures",
+        "#usability",
+        "#comfort"
+      ]
+    },
+    {
+      "Text": "https://arxiv.org/abs/2407.07200",
+      "Path": "https://arxiv.org/abs/2407.07200",
+      "FilePath": "Untitled/Evolution from cognitive to affective trust in wearable robots.md",
+      "Tags": [
+        "#reliability",
+        "#Dependability",
+        "#predictability",
+        "#supportiveness",
+        "#performance",
+        "#Confidence",
+        "#Faith",
+        "#perceived_autonomy"
+      ]
+    },
+    {
+      "Text": "https://arxiv.org/abs/2408.00238",
+      "Path": "https://arxiv.org/abs/2408.00238",
+      "FilePath": "Untitled/Evolution from cognitive to affective trust in wearable robots.md",
+      "Tags": [
+        "#reliability",
+        "#Dependability",
+        "#predictability",
+        "#supportiveness",
+        "#performance",
+        "#Confidence",
+        "#Faith",
+        "#perceived_autonomy"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.3389/frai.2021.703504",
+      "Path": "https://doi.org/10.3389/frai.2021.703504",
+      "FilePath": "Untitled/Evolution from cognitive to affective trust in wearable robots.md",
+      "Tags": [
+        "#reliability",
+        "#Dependability",
+        "#predictability",
+        "#supportiveness",
+        "#performance",
+        "#Confidence",
+        "#Faith",
+        "#perceived_autonomy"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1038/s41467-024-46249-0](https://doi.org/10.1038/s41467-024-46249-",
+      "Path": "https://doi.org/10.1038/s41467-024-46249-0](https://doi.org/10.1038/s41467-024-46249-",
+      "FilePath": "Untitled/Evolution from cognitive to affective trust in wearable robots.md",
+      "Tags": [
+        "#reliability",
+        "#Dependability",
+        "#predictability",
+        "#supportiveness",
+        "#performance",
+        "#Confidence",
+        "#Faith",
+        "#perceived_autonomy"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1109/honet63146.2024.10822887](https://doi.org/10.1109/honet63146.2024.1082288",
+      "Path": "https://doi.org/10.1109/honet63146.2024.10822887](https://doi.org/10.1109/honet63146.2024.1082288",
+      "FilePath": "Untitled/Evolution from cognitive to affective trust in wearable robots.md",
+      "Tags": [
+        "#reliability",
+        "#Dependability",
+        "#predictability",
+        "#supportiveness",
+        "#performance",
+        "#Confidence",
+        "#Faith",
+        "#perceived_autonomy"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1101/2025.06.16.658246](https://doi.org/10.1101/2025.06.16.65824",
+      "Path": "https://doi.org/10.1101/2025.06.16.658246](https://doi.org/10.1101/2025.06.16.65824",
+      "FilePath": "Untitled/Evolution from cognitive to affective trust in wearable robots.md",
+      "Tags": [
+        "#reliability",
+        "#Dependability",
+        "#predictability",
+        "#supportiveness",
+        "#performance",
+        "#Confidence",
+        "#Faith",
+        "#perceived_autonomy"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.48550/arxiv.2507.21384](https://doi.org/10.48550/arxiv.2507.2138",
+      "Path": "https://doi.org/10.48550/arxiv.2507.21384](https://doi.org/10.48550/arxiv.2507.2138",
+      "FilePath": "Untitled/Evolution from cognitive to affective trust in wearable robots.md",
+      "Tags": [
+        "#reliability",
+        "#Dependability",
+        "#predictability",
+        "#supportiveness",
+        "#performance",
+        "#Confidence",
+        "#Faith",
+        "#perceived_autonomy"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1109/access.2018.2877919](https://doi.org/10.1109/access.2018.287791",
+      "Path": "https://doi.org/10.1109/access.2018.2877919](https://doi.org/10.1109/access.2018.287791",
+      "FilePath": "Untitled/Evolution from cognitive to affective trust in wearable robots.md",
+      "Tags": [
+        "#reliability",
+        "#Dependability",
+        "#predictability",
+        "#supportiveness",
+        "#performance",
+        "#Confidence",
+        "#Faith",
+        "#perceived_autonomy"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1038/s41598-025-33046-y",
+      "Path": "https://doi.org/10.1038/s41598-025-33046-y",
+      "FilePath": "Untitled/Quantitative assessment of human-exoskeleton integration through a neurophysiological marker of embodiment.md",
+      "Tags": [
+        "#embodiment",
+        "#important",
+        "#ownership",
+        "#sense_of_agency"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.3390/mti9010005]",
+      "Path": "https://doi.org/10.3390/mti9010005]",
+      "FilePath": "Untitled/Human–Robot Interactions A Pilot Study of Psychoaffective and Cognitive Factors to Boost the Acceptance and Usability of Assistive Wearable Devices.md",
+      "Tags": [
+        "#anxxiety",
+        "#cognitive_reserve",
+        "#state_anxiety",
+        "#trait_anxiety",
+        "#NASA-TLX",
+        "#fatigue"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.3390/mti9010005](https://doi.org/10.3390/mti901000",
+      "Path": "https://doi.org/10.3390/mti9010005](https://doi.org/10.3390/mti901000",
+      "FilePath": "Untitled/Human–Robot Interactions A Pilot Study of Psychoaffective and Cognitive Factors to Boost the Acceptance and Usability of Assistive Wearable Devices.md",
+      "Tags": [
+        "#anxxiety",
+        "#cognitive_reserve",
+        "#state_anxiety",
+        "#trait_anxiety",
+        "#NASA-TLX",
+        "#fatigue"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.48550/arxiv.2407.07200](https://doi.org/10.48550/arxiv.2407.0720",
+      "Path": "https://doi.org/10.48550/arxiv.2407.07200](https://doi.org/10.48550/arxiv.2407.0720",
+      "FilePath": "Untitled/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#predictability",
+        "#supportiveness",
+        "#error",
+        "#history",
+        "#competence",
+        "#performance",
+        "#reliability",
+        "#lower_limb",
+        "#anxiety",
+        "#cognitive_reserve",
+        "#predictability",
+        "#supportiveness",
+        "#subjective_measures"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.apergo.2023.103967](https://doi.org/10.1016/j.apergo.2023.10396",
+      "Path": "https://doi.org/10.1016/j.apergo.2023.103967](https://doi.org/10.1016/j.apergo.2023.10396",
+      "FilePath": "Untitled/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#predictability",
+        "#supportiveness",
+        "#error",
+        "#history",
+        "#competence",
+        "#performance",
+        "#reliability",
+        "#lower_limb",
+        "#anxiety",
+        "#cognitive_reserve",
+        "#predictability",
+        "#supportiveness",
+        "#subjective_measures"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1038/s41598-021-88622-9](https://doi.org/10.1038/s41598-021-88622-",
+      "Path": "https://doi.org/10.1038/s41598-021-88622-9](https://doi.org/10.1038/s41598-021-88622-",
+      "FilePath": "Untitled/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#predictability",
+        "#supportiveness",
+        "#error",
+        "#history",
+        "#competence",
+        "#performance",
+        "#reliability",
+        "#lower_limb",
+        "#anxiety",
+        "#cognitive_reserve",
+        "#predictability",
+        "#supportiveness",
+        "#subjective_measures"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1007/s12369-023-01082-1](https://doi.org/10.1007/s12369-023-01082-",
+      "Path": "https://doi.org/10.1007/s12369-023-01082-1](https://doi.org/10.1007/s12369-023-01082-",
+      "FilePath": "Untitled/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#predictability",
+        "#supportiveness",
+        "#error",
+        "#history",
+        "#competence",
+        "#performance",
+        "#reliability",
+        "#lower_limb",
+        "#anxiety",
+        "#cognitive_reserve",
+        "#predictability",
+        "#supportiveness",
+        "#subjective_measures"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1145/3706123](https://doi.org/10.1145/370612",
+      "Path": "https://doi.org/10.1145/3706123](https://doi.org/10.1145/370612",
+      "FilePath": "Untitled/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#predictability",
+        "#supportiveness",
+        "#error",
+        "#history",
+        "#competence",
+        "#performance",
+        "#reliability",
+        "#lower_limb",
+        "#anxiety",
+        "#cognitive_reserve",
+        "#predictability",
+        "#supportiveness",
+        "#subjective_measures"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.23889/suthesis.69777](https://doi.org/10.23889/suthesis.6977",
+      "Path": "https://doi.org/10.23889/suthesis.69777](https://doi.org/10.23889/suthesis.6977",
+      "FilePath": "Untitled/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#predictability",
+        "#supportiveness",
+        "#error",
+        "#history",
+        "#competence",
+        "#performance",
+        "#reliability",
+        "#lower_limb",
+        "#anxiety",
+        "#cognitive_reserve",
+        "#predictability",
+        "#supportiveness",
+        "#subjective_measures"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1109/hri61500.2025.10974010](https://doi.org/10.1109/hri61500.2025.1097401",
+      "Path": "https://doi.org/10.1109/hri61500.2025.10974010](https://doi.org/10.1109/hri61500.2025.1097401",
+      "FilePath": "Untitled/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#predictability",
+        "#supportiveness",
+        "#error",
+        "#history",
+        "#competence",
+        "#performance",
+        "#reliability",
+        "#lower_limb",
+        "#anxiety",
+        "#cognitive_reserve",
+        "#predictability",
+        "#supportiveness",
+        "#subjective_measures"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1007/s12369-020-00703-3](https://doi.org/10.1007/s12369-020-00703-",
+      "Path": "https://doi.org/10.1007/s12369-020-00703-3](https://doi.org/10.1007/s12369-020-00703-",
+      "FilePath": "Untitled/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#predictability",
+        "#supportiveness",
+        "#error",
+        "#history",
+        "#competence",
+        "#performance",
+        "#reliability",
+        "#lower_limb",
+        "#anxiety",
+        "#cognitive_reserve",
+        "#predictability",
+        "#supportiveness",
+        "#subjective_measures"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.3390/mti9010005](https://doi.org/10.3390/mti901000",
+      "Path": "https://doi.org/10.3390/mti9010005](https://doi.org/10.3390/mti901000",
+      "FilePath": "Untitled/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#predictability",
+        "#supportiveness",
+        "#error",
+        "#history",
+        "#competence",
+        "#performance",
+        "#reliability",
+        "#lower_limb",
+        "#anxiety",
+        "#cognitive_reserve",
+        "#predictability",
+        "#supportiveness",
+        "#subjective_measures"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.3389/fpsyg.2021.592711](https://doi.org/10.3389/fpsyg.2021.59271",
+      "Path": "https://doi.org/10.3389/fpsyg.2021.592711](https://doi.org/10.3389/fpsyg.2021.59271",
+      "FilePath": "Untitled/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#predictability",
+        "#supportiveness",
+        "#error",
+        "#history",
+        "#competence",
+        "#performance",
+        "#reliability",
+        "#lower_limb",
+        "#anxiety",
+        "#cognitive_reserve",
+        "#predictability",
+        "#supportiveness",
+        "#subjective_measures"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.7717/peerj-cs.837](https://doi.org/10.7717/peerj-cs.83",
+      "Path": "https://doi.org/10.7717/peerj-cs.837](https://doi.org/10.7717/peerj-cs.83",
+      "FilePath": "Untitled/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#predictability",
+        "#supportiveness",
+        "#error",
+        "#history",
+        "#competence",
+        "#performance",
+        "#reliability",
+        "#lower_limb",
+        "#anxiety",
+        "#cognitive_reserve",
+        "#predictability",
+        "#supportiveness",
+        "#subjective_measures"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1177/0018720820922080](https://doi.org/10.1177/001872082092208",
+      "Path": "https://doi.org/10.1177/0018720820922080](https://doi.org/10.1177/001872082092208",
+      "FilePath": "Untitled/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#predictability",
+        "#supportiveness",
+        "#error",
+        "#history",
+        "#competence",
+        "#performance",
+        "#reliability",
+        "#lower_limb",
+        "#anxiety",
+        "#cognitive_reserve",
+        "#predictability",
+        "#supportiveness",
+        "#subjective_measures"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1109/ro-man60168.2024.10731320](https://doi.org/10.1109/ro-man60168.2024.1073132",
+      "Path": "https://doi.org/10.1109/ro-man60168.2024.10731320](https://doi.org/10.1109/ro-man60168.2024.1073132",
+      "FilePath": "Untitled/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#predictability",
+        "#supportiveness",
+        "#error",
+        "#history",
+        "#competence",
+        "#performance",
+        "#reliability",
+        "#lower_limb",
+        "#anxiety",
+        "#cognitive_reserve",
+        "#predictability",
+        "#supportiveness",
+        "#subjective_measures"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1145/3342197.3344529",
+      "Path": "https://doi.org/10.1145/3342197.3344529",
+      "FilePath": "Untitled/Modeling dispositional and initial learned trust in automated vehicles with predictability and explainability.md",
+      "Tags": [
+        "#learned_trust",
+        "#situational_trust",
+        "#dispositional_trust",
+        "#human_factors",
+        "#automation_factors",
+        "#environmental_factors",
+        "#reliability",
+        "#uncertainty",
+        "#UI",
+        "#risk",
+        "#reputation",
+        "#culture",
+        "#age",
+        "#experience",
+        "#gender",
+        "#knowledge_about_robot",
+        "#difference_between_prediction_and_average_prediction",
+        "#benefit",
+        "#risk",
+        "#excitement"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1177/0018720814547570",
+      "Path": "https://doi.org/10.1177/0018720814547570",
+      "FilePath": "Untitled/Modeling dispositional and initial learned trust in automated vehicles with predictability and explainability.md",
+      "Tags": [
+        "#learned_trust",
+        "#situational_trust",
+        "#dispositional_trust",
+        "#human_factors",
+        "#automation_factors",
+        "#environmental_factors",
+        "#reliability",
+        "#uncertainty",
+        "#UI",
+        "#risk",
+        "#reputation",
+        "#culture",
+        "#age",
+        "#experience",
+        "#gender",
+        "#knowledge_about_robot",
+        "#difference_between_prediction_and_average_prediction",
+        "#benefit",
+        "#risk",
+        "#excitement"
+      ]
+    },
+    {
+      "Text": "DOI",
+      "Path": "https://doi.org/10.1098/rstb.2009.0003",
+      "FilePath": "Untitled/Time, Time Perception, Intentional Binding, and Sense of Agency.md",
+      "Tags": [
+        "#Time",
+        "#Perception",
+        "#Dopamine",
+        "#Norepinephrine",
+        "#Time",
+        "#time_perception",
+        "#Dopamine",
+        "#Norepinephrine"
+      ]
+    },
+    {
+      "Text": "DOI",
+      "Path": "https://doi.org/10.1038/s44271-025-00323-5",
+      "FilePath": "Untitled/Time, Time Perception, Intentional Binding, and Sense of Agency.md",
+      "Tags": [
+        "#Time",
+        "#Perception",
+        "#Dopamine",
+        "#Norepinephrine",
+        "#Time",
+        "#time_perception",
+        "#Dopamine",
+        "#Norepinephrine"
+      ]
+    },
+    {
+      "Text": "Link",
+      "Path": "https://www.ebsco.com/research-starters/psychology/time-perception#full-article",
+      "FilePath": "Untitled/Time, Time Perception, Intentional Binding, and Sense of Agency.md",
+      "Tags": [
+        "#Time",
+        "#Perception",
+        "#Dopamine",
+        "#Norepinephrine",
+        "#Time",
+        "#time_perception",
+        "#Dopamine",
+        "#Norepinephrine"
+      ]
+    },
+    {
+      "Text": "Link",
+      "Path": "https://www.sciencedirect.com/book/edited-volume/9780128194720/trust-in-human-robot-interaction",
+      "FilePath": "Untitled/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": [
+        "#instincts",
+        "#reward_signals",
+        "#punishment_cues",
+        "#anxiety/fear",
+        "#computational_cognitive_architecture",
+        "#formula",
+        "#ability",
+        "#reliability",
+        "#error",
+        "#task_difficulty",
+        "#performance",
+        "#reliability",
+        "#performance",
+        "#predictability",
+        "#error-proneness",
+        "#error",
+        "#human_factors",
+        "#performance",
+        "#ability",
+        "#matching_expectations"
+      ]
+    },
+    {
+      "Text": "DOI",
+      "Path": "https://www.sciencedirect.com/science/article/abs/pii/S1053811914009902#:~:text=https%3A//doi.org/10.1016/j.neuroimage.2014.11.060",
+      "FilePath": "Untitled/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": [
+        "#instincts",
+        "#reward_signals",
+        "#punishment_cues",
+        "#anxiety/fear",
+        "#computational_cognitive_architecture",
+        "#formula",
+        "#ability",
+        "#reliability",
+        "#error",
+        "#task_difficulty",
+        "#performance",
+        "#reliability",
+        "#performance",
+        "#predictability",
+        "#error-proneness",
+        "#error",
+        "#human_factors",
+        "#performance",
+        "#ability",
+        "#matching_expectations"
+      ]
+    },
+    {
+      "Text": "DOI",
+      "Path": "https://www.sciencedirect.com/science/article/abs/pii/S1053811914009902#:~:text=https%3A//doi.org/10.1016/j.neuroimage.2014.11.060",
+      "FilePath": "Untitled/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": [
+        "#instincts",
+        "#reward_signals",
+        "#punishment_cues",
+        "#anxiety/fear",
+        "#computational_cognitive_architecture",
+        "#formula",
+        "#ability",
+        "#reliability",
+        "#error",
+        "#task_difficulty",
+        "#performance",
+        "#reliability",
+        "#performance",
+        "#predictability",
+        "#error-proneness",
+        "#error",
+        "#human_factors",
+        "#performance",
+        "#ability",
+        "#matching_expectations"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1177/0146167209359702",
+      "Path": "https://doi.org/10.1177/0146167209359702",
+      "FilePath": "Untitled/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": [
+        "#instincts",
+        "#reward_signals",
+        "#punishment_cues",
+        "#anxiety/fear",
+        "#computational_cognitive_architecture",
+        "#formula",
+        "#ability",
+        "#reliability",
+        "#error",
+        "#task_difficulty",
+        "#performance",
+        "#reliability",
+        "#performance",
+        "#predictability",
+        "#error-proneness",
+        "#error",
+        "#human_factors",
+        "#performance",
+        "#ability",
+        "#matching_expectations"
+      ]
+    },
+    {
+      "Text": "https://psycnet.apa.org/record/1999-04371-012",
+      "Path": "https://psycnet.apa.org/record/1999-04371-012",
+      "FilePath": "Untitled/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": [
+        "#instincts",
+        "#reward_signals",
+        "#punishment_cues",
+        "#anxiety/fear",
+        "#computational_cognitive_architecture",
+        "#formula",
+        "#ability",
+        "#reliability",
+        "#error",
+        "#task_difficulty",
+        "#performance",
+        "#reliability",
+        "#performance",
+        "#predictability",
+        "#error-proneness",
+        "#error",
+        "#human_factors",
+        "#performance",
+        "#ability",
+        "#matching_expectations"
+      ]
+    },
+    {
+      "Text": "https://global.oup.com/academic/product/the-neuropsychology-of-anxiety-9780198522713",
+      "Path": "https://global.oup.com/academic/product/the-neuropsychology-of-anxiety-9780198522713",
+      "FilePath": "Untitled/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": [
+        "#instincts",
+        "#reward_signals",
+        "#punishment_cues",
+        "#anxiety/fear",
+        "#computational_cognitive_architecture",
+        "#formula",
+        "#ability",
+        "#reliability",
+        "#error",
+        "#task_difficulty",
+        "#performance",
+        "#reliability",
+        "#performance",
+        "#predictability",
+        "#error-proneness",
+        "#error",
+        "#human_factors",
+        "#performance",
+        "#ability",
+        "#matching_expectations"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1177/0018720811417254",
+      "Path": "https://doi.org/10.1177/0018720811417254",
+      "FilePath": "Untitled/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": [
+        "#instincts",
+        "#reward_signals",
+        "#punishment_cues",
+        "#anxiety/fear",
+        "#computational_cognitive_architecture",
+        "#formula",
+        "#ability",
+        "#reliability",
+        "#error",
+        "#task_difficulty",
+        "#performance",
+        "#reliability",
+        "#performance",
+        "#predictability",
+        "#error-proneness",
+        "#error",
+        "#human_factors",
+        "#performance",
+        "#ability",
+        "#matching_expectations"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1016/B978-0-12-819472-0.00002-2",
+      "Path": "https://doi.org/10.1016/B978-0-12-819472-0.00002-2",
+      "FilePath": "Untitled/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": [
+        "#instincts",
+        "#reward_signals",
+        "#punishment_cues",
+        "#anxiety/fear",
+        "#computational_cognitive_architecture",
+        "#formula",
+        "#ability",
+        "#reliability",
+        "#error",
+        "#task_difficulty",
+        "#performance",
+        "#reliability",
+        "#performance",
+        "#predictability",
+        "#error-proneness",
+        "#error",
+        "#human_factors",
+        "#performance",
+        "#ability",
+        "#matching_expectations"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1007/978-3-319-64816-3_8",
+      "Path": "https://doi.org/10.1007/978-3-319-64816-3_8",
+      "FilePath": "Untitled/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": [
+        "#instincts",
+        "#reward_signals",
+        "#punishment_cues",
+        "#anxiety/fear",
+        "#computational_cognitive_architecture",
+        "#formula",
+        "#ability",
+        "#reliability",
+        "#error",
+        "#task_difficulty",
+        "#performance",
+        "#reliability",
+        "#performance",
+        "#predictability",
+        "#error-proneness",
+        "#error",
+        "#human_factors",
+        "#performance",
+        "#ability",
+        "#matching_expectations"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1016/B978-0-12-819472-0.00001-0",
+      "Path": "https://doi.org/10.1016/B978-0-12-819472-0.00001-0",
+      "FilePath": "Untitled/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": [
+        "#instincts",
+        "#reward_signals",
+        "#punishment_cues",
+        "#anxiety/fear",
+        "#computational_cognitive_architecture",
+        "#formula",
+        "#ability",
+        "#reliability",
+        "#error",
+        "#task_difficulty",
+        "#performance",
+        "#reliability",
+        "#performance",
+        "#predictability",
+        "#error-proneness",
+        "#error",
+        "#human_factors",
+        "#performance",
+        "#ability",
+        "#matching_expectations"
+      ]
+    },
+    {
+      "Text": "https://archive.org/details/introductiontoso00mcdo",
+      "Path": "https://archive.org/details/introductiontoso00mcdo",
+      "FilePath": "Untitled/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": [
+        "#instincts",
+        "#reward_signals",
+        "#punishment_cues",
+        "#anxiety/fear",
+        "#computational_cognitive_architecture",
+        "#formula",
+        "#ability",
+        "#reliability",
+        "#error",
+        "#task_difficulty",
+        "#performance",
+        "#reliability",
+        "#performance",
+        "#predictability",
+        "#error-proneness",
+        "#error",
+        "#human_factors",
+        "#performance",
+        "#ability",
+        "#matching_expectations"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.jpsychires.2006.03.003",
+      "Path": "https://doi.org/10.1016/j.jpsychires.2006.03.003",
+      "FilePath": "Untitled/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": [
+        "#instincts",
+        "#reward_signals",
+        "#punishment_cues",
+        "#anxiety/fear",
+        "#computational_cognitive_architecture",
+        "#formula",
+        "#ability",
+        "#reliability",
+        "#error",
+        "#task_difficulty",
+        "#performance",
+        "#reliability",
+        "#performance",
+        "#predictability",
+        "#error-proneness",
+        "#error",
+        "#human_factors",
+        "#performance",
+        "#ability",
+        "#matching_expectations"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1207/s15327957pspr1004_3",
+      "Path": "https://doi.org/10.1207/s15327957pspr1004_3",
+      "FilePath": "Untitled/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": [
+        "#instincts",
+        "#reward_signals",
+        "#punishment_cues",
+        "#anxiety/fear",
+        "#computational_cognitive_architecture",
+        "#formula",
+        "#ability",
+        "#reliability",
+        "#error",
+        "#task_difficulty",
+        "#performance",
+        "#reliability",
+        "#performance",
+        "#predictability",
+        "#error-proneness",
+        "#error",
+        "#human_factors",
+        "#performance",
+        "#ability",
+        "#matching_expectations"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1007/s12559-009-9003-1",
+      "Path": "https://doi.org/10.1007/s12559-009-9003-1",
+      "FilePath": "Untitled/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": [
+        "#instincts",
+        "#reward_signals",
+        "#punishment_cues",
+        "#anxiety/fear",
+        "#computational_cognitive_architecture",
+        "#formula",
+        "#ability",
+        "#reliability",
+        "#error",
+        "#task_difficulty",
+        "#performance",
+        "#reliability",
+        "#performance",
+        "#predictability",
+        "#error-proneness",
+        "#error",
+        "#human_factors",
+        "#performance",
+        "#ability",
+        "#matching_expectations"
+      ]
+    },
+    {
+      "Text": "https://global.oup.com/academic/product/anatomy-of-the-mind-9780190200527",
+      "Path": "https://global.oup.com/academic/product/anatomy-of-the-mind-9780190200527",
+      "FilePath": "Untitled/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": [
+        "#instincts",
+        "#reward_signals",
+        "#punishment_cues",
+        "#anxiety/fear",
+        "#computational_cognitive_architecture",
+        "#formula",
+        "#ability",
+        "#reliability",
+        "#error",
+        "#task_difficulty",
+        "#performance",
+        "#reliability",
+        "#performance",
+        "#predictability",
+        "#error-proneness",
+        "#error",
+        "#human_factors",
+        "#performance",
+        "#ability",
+        "#matching_expectations"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1037/a0024170",
+      "Path": "https://doi.org/10.1037/a0024170",
+      "FilePath": "Untitled/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": [
+        "#instincts",
+        "#reward_signals",
+        "#punishment_cues",
+        "#anxiety/fear",
+        "#computational_cognitive_architecture",
+        "#formula",
+        "#ability",
+        "#reliability",
+        "#error",
+        "#task_difficulty",
+        "#performance",
+        "#reliability",
+        "#performance",
+        "#predictability",
+        "#error-proneness",
+        "#error",
+        "#human_factors",
+        "#performance",
+        "#ability",
+        "#matching_expectations"
+      ]
+    },
+    {
+      "Text": "https://www.cambridge.org/core/books/motivational-systems/8E3E98B35F2C5E0C5E1C9F6C8E9E2A9E",
+      "Path": "https://www.cambridge.org/core/books/motivational-systems/8E3E98B35F2C5E0C5E1C9F6C8E9E2A9E",
+      "FilePath": "Untitled/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": [
+        "#instincts",
+        "#reward_signals",
+        "#punishment_cues",
+        "#anxiety/fear",
+        "#computational_cognitive_architecture",
+        "#formula",
+        "#ability",
+        "#reliability",
+        "#error",
+        "#task_difficulty",
+        "#performance",
+        "#reliability",
+        "#performance",
+        "#predictability",
+        "#error-proneness",
+        "#error",
+        "#human_factors",
+        "#performance",
+        "#ability",
+        "#matching_expectations"
+      ]
+    },
+    {
+      "Text": "https://www.cs.toronto.edu/~tyrrell/thesis/thesis.html",
+      "Path": "https://www.cs.toronto.edu/~tyrrell/thesis/thesis.html",
+      "FilePath": "Untitled/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": [
+        "#instincts",
+        "#reward_signals",
+        "#punishment_cues",
+        "#anxiety/fear",
+        "#computational_cognitive_architecture",
+        "#formula",
+        "#ability",
+        "#reliability",
+        "#error",
+        "#task_difficulty",
+        "#performance",
+        "#reliability",
+        "#performance",
+        "#predictability",
+        "#error-proneness",
+        "#error",
+        "#human_factors",
+        "#performance",
+        "#ability",
+        "#matching_expectations"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1109/ROMAN.2018.8525669",
+      "Path": "https://doi.org/10.1109/ROMAN.2018.8525669",
+      "FilePath": "Untitled/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": [
+        "#instincts",
+        "#reward_signals",
+        "#punishment_cues",
+        "#anxiety/fear",
+        "#computational_cognitive_architecture",
+        "#formula",
+        "#ability",
+        "#reliability",
+        "#error",
+        "#task_difficulty",
+        "#performance",
+        "#reliability",
+        "#performance",
+        "#predictability",
+        "#error-proneness",
+        "#error",
+        "#human_factors",
+        "#performance",
+        "#ability",
+        "#matching_expectations"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.neuroimage.2014.11.060",
+      "Path": "https://doi.org/10.1016/j.neuroimage.2014.11.060",
+      "FilePath": "Untitled/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": [
+        "#instincts",
+        "#reward_signals",
+        "#punishment_cues",
+        "#anxiety/fear",
+        "#computational_cognitive_architecture",
+        "#formula",
+        "#ability",
+        "#reliability",
+        "#error",
+        "#task_difficulty",
+        "#performance",
+        "#reliability",
+        "#performance",
+        "#predictability",
+        "#error-proneness",
+        "#error",
+        "#human_factors",
+        "#performance",
+        "#ability",
+        "#matching_expectations"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1007/978-3-319-09144-0_50",
+      "Path": "https://doi.org/10.1007/978-3-319-09144-0_50",
+      "FilePath": "Untitled/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": [
+        "#instincts",
+        "#reward_signals",
+        "#punishment_cues",
+        "#anxiety/fear",
+        "#computational_cognitive_architecture",
+        "#formula",
+        "#ability",
+        "#reliability",
+        "#error",
+        "#task_difficulty",
+        "#performance",
+        "#reliability",
+        "#performance",
+        "#predictability",
+        "#error-proneness",
+        "#error",
+        "#human_factors",
+        "#performance",
+        "#ability",
+        "#matching_expectations"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1007/978-1-4899-7668-0",
+      "Path": "https://doi.org/10.1007/978-1-4899-7668-0",
+      "FilePath": "Untitled/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": [
+        "#instincts",
+        "#reward_signals",
+        "#punishment_cues",
+        "#anxiety/fear",
+        "#computational_cognitive_architecture",
+        "#formula",
+        "#ability",
+        "#reliability",
+        "#error",
+        "#task_difficulty",
+        "#performance",
+        "#reliability",
+        "#performance",
+        "#predictability",
+        "#error-proneness",
+        "#error",
+        "#human_factors",
+        "#performance",
+        "#ability",
+        "#matching_expectations"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1177/17448069251341882](https://doi.org/10.1177/1744806925134188",
+      "Path": "https://doi.org/10.1177/17448069251341882](https://doi.org/10.1177/1744806925134188",
+      "FilePath": "Untitled/Somatosensory Cortices.md",
+      "Tags": [
+        "#Sensory_Processing"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1101/2022.08.02.502350](https://doi.org/10.1101/2022.08.02.50235",
+      "Path": "https://doi.org/10.1101/2022.08.02.502350](https://doi.org/10.1101/2022.08.02.50235",
+      "FilePath": "Untitled/Somatosensory Cortices.md",
+      "Tags": [
+        "#Sensory_Processing"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.neuron.2020.02.004](https://doi.org/10.1016/j.neuron.2020.02.00",
+      "Path": "https://doi.org/10.1016/j.neuron.2020.02.004](https://doi.org/10.1016/j.neuron.2020.02.00",
+      "FilePath": "Untitled/Somatosensory Cortices.md",
+      "Tags": [
+        "#Sensory_Processing"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1038/s41467-024-45729-7](https://doi.org/10.1038/s41467-024-45729-",
+      "Path": "https://doi.org/10.1038/s41467-024-45729-7](https://doi.org/10.1038/s41467-024-45729-",
+      "FilePath": "Untitled/Somatosensory Cortices.md",
+      "Tags": [
+        "#Sensory_Processing"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1038/s41467-021-22321-x](https://doi.org/10.1038/s41467-021-22321-",
+      "Path": "https://doi.org/10.1038/s41467-021-22321-x](https://doi.org/10.1038/s41467-021-22321-",
+      "FilePath": "Untitled/Somatosensory Cortices.md",
+      "Tags": [
+        "#Sensory_Processing"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1073/pnas.96.14.7705](https://doi.org/10.1073/pnas.96.14.770",
+      "Path": "https://doi.org/10.1073/pnas.96.14.7705](https://doi.org/10.1073/pnas.96.14.770",
+      "FilePath": "Untitled/Somatosensory Cortices.md",
+      "Tags": [
+        "#Sensory_Processing"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.2139/ssrn.4029077](https://doi.org/10.2139/ssrn.402907",
+      "Path": "https://doi.org/10.2139/ssrn.4029077](https://doi.org/10.2139/ssrn.402907",
+      "FilePath": "Untitled/Somatosensory Cortices.md",
+      "Tags": [
+        "#Sensory_Processing"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1590/1516-4446-2018-0183](https://doi.org/10.1590/1516-4446-2018-018",
+      "Path": "https://doi.org/10.1590/1516-4446-2018-0183](https://doi.org/10.1590/1516-4446-2018-018",
+      "FilePath": "Untitled/Somatosensory Cortices.md",
+      "Tags": [
+        "#Sensory_Processing"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.neures.2024.01.005](https://doi.org/10.1016/j.neures.2024.01.00",
+      "Path": "https://doi.org/10.1016/j.neures.2024.01.005](https://doi.org/10.1016/j.neures.2024.01.00",
+      "FilePath": "Untitled/Somatosensory Cortices.md",
+      "Tags": [
+        "#Sensory_Processing"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1038/nrn2833](https://doi.org/10.1038/nrn283",
+      "Path": "https://doi.org/10.1038/nrn2833](https://doi.org/10.1038/nrn283",
+      "FilePath": "Untitled/Somatosensory Cortices.md",
+      "Tags": [
+        "#Sensory_Processing"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1038/s41467-025-57050-y](https://doi.org/10.1038/s41467-025-57050-",
+      "Path": "https://doi.org/10.1038/s41467-025-57050-y](https://doi.org/10.1038/s41467-025-57050-",
+      "FilePath": "Untitled/Somatosensory Cortices.md",
+      "Tags": [
+        "#Sensory_Processing"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.tics.2020.04.003](https://doi.org/10.1016/j.tics.2020.04.00",
+      "Path": "https://doi.org/10.1016/j.tics.2020.04.003](https://doi.org/10.1016/j.tics.2020.04.00",
+      "FilePath": "Untitled/Somatosensory Cortices.md",
+      "Tags": [
+        "#Sensory_Processing"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1371/journal.pone.0041929](https://doi.org/10.1371/journal.pone.004192",
+      "Path": "https://doi.org/10.1371/journal.pone.0041929](https://doi.org/10.1371/journal.pone.004192",
+      "FilePath": "Untitled/Somatosensory Cortices.md",
+      "Tags": [
+        "#Sensory_Processing"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.neuroimage.2021.117957](https://doi.org/10.1016/j.neuroimage.2021.11795",
+      "Path": "https://doi.org/10.1016/j.neuroimage.2021.117957](https://doi.org/10.1016/j.neuroimage.2021.11795",
+      "FilePath": "Untitled/Somatosensory Cortices.md",
+      "Tags": [
+        "#Sensory_Processing"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1523/jneurosci.6207-10.2011](https://doi.org/10.1523/jneurosci.6207-10.201",
+      "Path": "https://doi.org/10.1523/jneurosci.6207-10.2011](https://doi.org/10.1523/jneurosci.6207-10.201",
+      "FilePath": "Untitled/Somatosensory Cortices.md",
+      "Tags": [
+        "#Sensory_Processing"
+      ]
+    },
+    {
+      "Text": "https://arxiv.org/abs/2407.07200",
+      "Path": "https://arxiv.org/abs/2407.07200",
+      "FilePath": "My Extractions/Measuring Trust in Exoskeletons.md",
+      "Tags": [
+        "#measuring_trust",
+        "#measures",
+        "#subjective_measures",
+        "#objective_measures",
+        "#trust_factors",
+        "#Accessibility",
+        "#Dependability",
+        "#Understandability",
+        "#Ability",
+        "#Reliability",
+        "#Safety",
+        "#Confidence",
+        "#Faith",
+        "#Intentions",
+        "#performance",
+        "#process",
+        "#purpose"
+      ]
+    },
+    {
+      "Text": "https://arxiv.org/abs/2407.07200",
+      "Path": "https://arxiv.org/abs/2407.07200",
+      "FilePath": "My Extractions/Evolution from cognitive to affective trust in wearable robots.md",
+      "Tags": [
+        "#reliability",
+        "#Dependability",
+        "#predictability",
+        "#supportiveness",
+        "#performance",
+        "#Confidence",
+        "#Faith",
+        "#perceived_autonomy"
+      ]
+    },
+    {
+      "Text": "https://arxiv.org/abs/2408.00238",
+      "Path": "https://arxiv.org/abs/2408.00238",
+      "FilePath": "My Extractions/Evolution from cognitive to affective trust in wearable robots.md",
+      "Tags": [
+        "#reliability",
+        "#Dependability",
+        "#predictability",
+        "#supportiveness",
+        "#performance",
+        "#Confidence",
+        "#Faith",
+        "#perceived_autonomy"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.3389/frai.2021.703504",
+      "Path": "https://doi.org/10.3389/frai.2021.703504",
+      "FilePath": "My Extractions/Evolution from cognitive to affective trust in wearable robots.md",
+      "Tags": [
+        "#reliability",
+        "#Dependability",
+        "#predictability",
+        "#supportiveness",
+        "#performance",
+        "#Confidence",
+        "#Faith",
+        "#perceived_autonomy"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1038/s41467-024-46249-0](https://doi.org/10.1038/s41467-024-46249-",
+      "Path": "https://doi.org/10.1038/s41467-024-46249-0](https://doi.org/10.1038/s41467-024-46249-",
+      "FilePath": "My Extractions/Evolution from cognitive to affective trust in wearable robots.md",
+      "Tags": [
+        "#reliability",
+        "#Dependability",
+        "#predictability",
+        "#supportiveness",
+        "#performance",
+        "#Confidence",
+        "#Faith",
+        "#perceived_autonomy"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1109/honet63146.2024.10822887](https://doi.org/10.1109/honet63146.2024.1082288",
+      "Path": "https://doi.org/10.1109/honet63146.2024.10822887](https://doi.org/10.1109/honet63146.2024.1082288",
+      "FilePath": "My Extractions/Evolution from cognitive to affective trust in wearable robots.md",
+      "Tags": [
+        "#reliability",
+        "#Dependability",
+        "#predictability",
+        "#supportiveness",
+        "#performance",
+        "#Confidence",
+        "#Faith",
+        "#perceived_autonomy"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1101/2025.06.16.658246](https://doi.org/10.1101/2025.06.16.65824",
+      "Path": "https://doi.org/10.1101/2025.06.16.658246](https://doi.org/10.1101/2025.06.16.65824",
+      "FilePath": "My Extractions/Evolution from cognitive to affective trust in wearable robots.md",
+      "Tags": [
+        "#reliability",
+        "#Dependability",
+        "#predictability",
+        "#supportiveness",
+        "#performance",
+        "#Confidence",
+        "#Faith",
+        "#perceived_autonomy"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.48550/arxiv.2507.21384](https://doi.org/10.48550/arxiv.2507.2138",
+      "Path": "https://doi.org/10.48550/arxiv.2507.21384](https://doi.org/10.48550/arxiv.2507.2138",
+      "FilePath": "My Extractions/Evolution from cognitive to affective trust in wearable robots.md",
+      "Tags": [
+        "#reliability",
+        "#Dependability",
+        "#predictability",
+        "#supportiveness",
+        "#performance",
+        "#Confidence",
+        "#Faith",
+        "#perceived_autonomy"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1109/access.2018.2877919](https://doi.org/10.1109/access.2018.287791",
+      "Path": "https://doi.org/10.1109/access.2018.2877919](https://doi.org/10.1109/access.2018.287791",
+      "FilePath": "My Extractions/Evolution from cognitive to affective trust in wearable robots.md",
+      "Tags": [
+        "#reliability",
+        "#Dependability",
+        "#predictability",
+        "#supportiveness",
+        "#performance",
+        "#Confidence",
+        "#Faith",
+        "#perceived_autonomy"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.48550/arxiv.2407.07200](https://doi.org/10.48550/arxiv.2407.0720",
+      "Path": "https://doi.org/10.48550/arxiv.2407.07200](https://doi.org/10.48550/arxiv.2407.0720",
+      "FilePath": "My Extractions/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#predictability",
+        "#supportiveness",
+        "#error",
+        "#history",
+        "#competence",
+        "#performance",
+        "#reliability",
+        "#robot/lower_limb",
+        "#cognitive/anxiety",
+        "#cognitive/cognitive_reserve",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#measures/subjective_measures"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.apergo.2023.103967](https://doi.org/10.1016/j.apergo.2023.10396",
+      "Path": "https://doi.org/10.1016/j.apergo.2023.103967](https://doi.org/10.1016/j.apergo.2023.10396",
+      "FilePath": "My Extractions/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#predictability",
+        "#supportiveness",
+        "#error",
+        "#history",
+        "#competence",
+        "#performance",
+        "#reliability",
+        "#robot/lower_limb",
+        "#cognitive/anxiety",
+        "#cognitive/cognitive_reserve",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#measures/subjective_measures"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1038/s41598-021-88622-9](https://doi.org/10.1038/s41598-021-88622-",
+      "Path": "https://doi.org/10.1038/s41598-021-88622-9](https://doi.org/10.1038/s41598-021-88622-",
+      "FilePath": "My Extractions/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#predictability",
+        "#supportiveness",
+        "#error",
+        "#history",
+        "#competence",
+        "#performance",
+        "#reliability",
+        "#robot/lower_limb",
+        "#cognitive/anxiety",
+        "#cognitive/cognitive_reserve",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#measures/subjective_measures"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1007/s12369-023-01082-1](https://doi.org/10.1007/s12369-023-01082-",
+      "Path": "https://doi.org/10.1007/s12369-023-01082-1](https://doi.org/10.1007/s12369-023-01082-",
+      "FilePath": "My Extractions/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#predictability",
+        "#supportiveness",
+        "#error",
+        "#history",
+        "#competence",
+        "#performance",
+        "#reliability",
+        "#robot/lower_limb",
+        "#cognitive/anxiety",
+        "#cognitive/cognitive_reserve",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#measures/subjective_measures"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1145/3706123](https://doi.org/10.1145/370612",
+      "Path": "https://doi.org/10.1145/3706123](https://doi.org/10.1145/370612",
+      "FilePath": "My Extractions/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#predictability",
+        "#supportiveness",
+        "#error",
+        "#history",
+        "#competence",
+        "#performance",
+        "#reliability",
+        "#robot/lower_limb",
+        "#cognitive/anxiety",
+        "#cognitive/cognitive_reserve",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#measures/subjective_measures"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.23889/suthesis.69777](https://doi.org/10.23889/suthesis.6977",
+      "Path": "https://doi.org/10.23889/suthesis.69777](https://doi.org/10.23889/suthesis.6977",
+      "FilePath": "My Extractions/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#predictability",
+        "#supportiveness",
+        "#error",
+        "#history",
+        "#competence",
+        "#performance",
+        "#reliability",
+        "#robot/lower_limb",
+        "#cognitive/anxiety",
+        "#cognitive/cognitive_reserve",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#measures/subjective_measures"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1109/hri61500.2025.10974010](https://doi.org/10.1109/hri61500.2025.1097401",
+      "Path": "https://doi.org/10.1109/hri61500.2025.10974010](https://doi.org/10.1109/hri61500.2025.1097401",
+      "FilePath": "My Extractions/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#predictability",
+        "#supportiveness",
+        "#error",
+        "#history",
+        "#competence",
+        "#performance",
+        "#reliability",
+        "#robot/lower_limb",
+        "#cognitive/anxiety",
+        "#cognitive/cognitive_reserve",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#measures/subjective_measures"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1007/s12369-020-00703-3](https://doi.org/10.1007/s12369-020-00703-",
+      "Path": "https://doi.org/10.1007/s12369-020-00703-3](https://doi.org/10.1007/s12369-020-00703-",
+      "FilePath": "My Extractions/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#predictability",
+        "#supportiveness",
+        "#error",
+        "#history",
+        "#competence",
+        "#performance",
+        "#reliability",
+        "#robot/lower_limb",
+        "#cognitive/anxiety",
+        "#cognitive/cognitive_reserve",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#measures/subjective_measures"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.3390/mti9010005](https://doi.org/10.3390/mti901000",
+      "Path": "https://doi.org/10.3390/mti9010005](https://doi.org/10.3390/mti901000",
+      "FilePath": "My Extractions/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#predictability",
+        "#supportiveness",
+        "#error",
+        "#history",
+        "#competence",
+        "#performance",
+        "#reliability",
+        "#robot/lower_limb",
+        "#cognitive/anxiety",
+        "#cognitive/cognitive_reserve",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#measures/subjective_measures"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.3389/fpsyg.2021.592711](https://doi.org/10.3389/fpsyg.2021.59271",
+      "Path": "https://doi.org/10.3389/fpsyg.2021.592711](https://doi.org/10.3389/fpsyg.2021.59271",
+      "FilePath": "My Extractions/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#predictability",
+        "#supportiveness",
+        "#error",
+        "#history",
+        "#competence",
+        "#performance",
+        "#reliability",
+        "#robot/lower_limb",
+        "#cognitive/anxiety",
+        "#cognitive/cognitive_reserve",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#measures/subjective_measures"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.7717/peerj-cs.837](https://doi.org/10.7717/peerj-cs.83",
+      "Path": "https://doi.org/10.7717/peerj-cs.837](https://doi.org/10.7717/peerj-cs.83",
+      "FilePath": "My Extractions/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#predictability",
+        "#supportiveness",
+        "#error",
+        "#history",
+        "#competence",
+        "#performance",
+        "#reliability",
+        "#robot/lower_limb",
+        "#cognitive/anxiety",
+        "#cognitive/cognitive_reserve",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#measures/subjective_measures"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1177/0018720820922080](https://doi.org/10.1177/001872082092208",
+      "Path": "https://doi.org/10.1177/0018720820922080](https://doi.org/10.1177/001872082092208",
+      "FilePath": "My Extractions/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#predictability",
+        "#supportiveness",
+        "#error",
+        "#history",
+        "#competence",
+        "#performance",
+        "#reliability",
+        "#robot/lower_limb",
+        "#cognitive/anxiety",
+        "#cognitive/cognitive_reserve",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#measures/subjective_measures"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1109/ro-man60168.2024.10731320](https://doi.org/10.1109/ro-man60168.2024.1073132",
+      "Path": "https://doi.org/10.1109/ro-man60168.2024.10731320](https://doi.org/10.1109/ro-man60168.2024.1073132",
+      "FilePath": "My Extractions/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#predictability",
+        "#supportiveness",
+        "#error",
+        "#history",
+        "#competence",
+        "#performance",
+        "#reliability",
+        "#robot/lower_limb",
+        "#cognitive/anxiety",
+        "#cognitive/cognitive_reserve",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#measures/subjective_measures"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.trf.2024.09.021](https://doi.org/10.1016/j.trf.2024.09.02",
+      "Path": "https://doi.org/10.1016/j.trf.2024.09.021](https://doi.org/10.1016/j.trf.2024.09.02",
+      "FilePath": "Consensus/Trust Evolution, From Cognitive to Affective.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_definition/cognitive_trust",
+        "#trust_definition/affective_trust",
+        "#perception/safety",
+        "#perception/risk"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.29007/frwz](https://doi.org/10.29007/frw",
+      "Path": "https://doi.org/10.29007/frwz](https://doi.org/10.29007/frw",
+      "FilePath": "Consensus/Trust Evolution, From Cognitive to Affective.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_definition/cognitive_trust",
+        "#trust_definition/affective_trust",
+        "#perception/safety",
+        "#perception/risk"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.aap.2020.105572](https://doi.org/10.1016/j.aap.2020.10557",
+      "Path": "https://doi.org/10.1016/j.aap.2020.105572](https://doi.org/10.1016/j.aap.2020.10557",
+      "FilePath": "Consensus/Trust Evolution, From Cognitive to Affective.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_definition/cognitive_trust",
+        "#trust_definition/affective_trust",
+        "#perception/safety",
+        "#perception/risk"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.foodres.2018.12.058](https://doi.org/10.1016/j.foodres.2018.12.05",
+      "Path": "https://doi.org/10.1016/j.foodres.2018.12.058](https://doi.org/10.1016/j.foodres.2018.12.05",
+      "FilePath": "Consensus/Trust Evolution, From Cognitive to Affective.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_definition/cognitive_trust",
+        "#trust_definition/affective_trust",
+        "#perception/safety",
+        "#perception/risk"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.3390/buildings15071033](https://doi.org/10.3390/buildings1507103",
+      "Path": "https://doi.org/10.3390/buildings15071033](https://doi.org/10.3390/buildings1507103",
+      "FilePath": "Consensus/Trust Evolution, From Cognitive to Affective.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_definition/cognitive_trust",
+        "#trust_definition/affective_trust",
+        "#perception/safety",
+        "#perception/risk"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.shaw.2024.05.004](https://doi.org/10.1016/j.shaw.2024.05.00",
+      "Path": "https://doi.org/10.1016/j.shaw.2024.05.004](https://doi.org/10.1016/j.shaw.2024.05.00",
+      "FilePath": "Consensus/Trust Evolution, From Cognitive to Affective.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_definition/cognitive_trust",
+        "#trust_definition/affective_trust",
+        "#perception/safety",
+        "#perception/risk"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1016/s0925-7535(0",
+      "Path": "https://doi.org/10.1016/s0925-7535(0",
+      "FilePath": "Consensus/Trust Evolution, From Cognitive to Affective.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_definition/cognitive_trust",
+        "#trust_definition/affective_trust",
+        "#perception/safety",
+        "#perception/risk"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.shaw.2018.01.008](https://doi.org/10.1016/j.shaw.2018.01.00",
+      "Path": "https://doi.org/10.1016/j.shaw.2018.01.008](https://doi.org/10.1016/j.shaw.2018.01.00",
+      "FilePath": "Consensus/Trust Evolution, From Cognitive to Affective.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_definition/cognitive_trust",
+        "#trust_definition/affective_trust",
+        "#perception/safety",
+        "#perception/risk"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.ssci.2017.02.011](https://doi.org/10.1016/j.ssci.2017.02.01",
+      "Path": "https://doi.org/10.1016/j.ssci.2017.02.011](https://doi.org/10.1016/j.ssci.2017.02.01",
+      "FilePath": "Consensus/Trust Evolution, From Cognitive to Affective.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_definition/cognitive_trust",
+        "#trust_definition/affective_trust",
+        "#perception/safety",
+        "#perception/risk"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1111/bjc.12466](https://doi.org/10.1111/bjc.1246",
+      "Path": "https://doi.org/10.1111/bjc.12466](https://doi.org/10.1111/bjc.1246",
+      "FilePath": "Consensus/Trust Evolution, From Cognitive to Affective.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_definition/cognitive_trust",
+        "#trust_definition/affective_trust",
+        "#perception/safety",
+        "#perception/risk"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1080/0144929x.2021.1905066](https://doi.org/10.1080/0144929x.2021.190506",
+      "Path": "https://doi.org/10.1080/0144929x.2021.1905066](https://doi.org/10.1080/0144929x.2021.190506",
+      "FilePath": "Consensus/Trust Evolution, From Cognitive to Affective.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_definition/cognitive_trust",
+        "#trust_definition/affective_trust",
+        "#perception/safety",
+        "#perception/risk"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.trf.2020.08.008](https://doi.org/10.1016/j.trf.2020.08.00",
+      "Path": "https://doi.org/10.1016/j.trf.2020.08.008](https://doi.org/10.1016/j.trf.2020.08.00",
+      "FilePath": "Consensus/Trust Evolution, From Cognitive to Affective.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_definition/cognitive_trust",
+        "#trust_definition/affective_trust",
+        "#perception/safety",
+        "#perception/risk"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1136/bmjopen-2019-033026](https://doi.org/10.1136/bmjopen-2019-03302",
+      "Path": "https://doi.org/10.1136/bmjopen-2019-033026](https://doi.org/10.1136/bmjopen-2019-03302",
+      "FilePath": "Consensus/Trust Evolution, From Cognitive to Affective.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_definition/cognitive_trust",
+        "#trust_definition/affective_trust",
+        "#perception/safety",
+        "#perception/risk"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1007/s10608-020-10113-4](https://doi.org/10.1007/s10608-020-10113-",
+      "Path": "https://doi.org/10.1007/s10608-020-10113-4](https://doi.org/10.1007/s10608-020-10113-",
+      "FilePath": "Consensus/Trust Evolution, From Cognitive to Affective.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_definition/cognitive_trust",
+        "#trust_definition/affective_trust",
+        "#perception/safety",
+        "#perception/risk"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1155/2021/5556396](https://doi.org/10.1155/2021/555639",
+      "Path": "https://doi.org/10.1155/2021/5556396](https://doi.org/10.1155/2021/555639",
+      "FilePath": "Consensus/Trust Evolution, From Cognitive to Affective.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_definition/cognitive_trust",
+        "#trust_definition/affective_trust",
+        "#perception/safety",
+        "#perception/risk"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.31234/osf.io/4s8zb](https://doi.org/10.31234/osf.io/4s8z",
+      "Path": "https://doi.org/10.31234/osf.io/4s8zb](https://doi.org/10.31234/osf.io/4s8z",
+      "FilePath": "Consensus/Trust Evolution, From Cognitive to Affective.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_definition/cognitive_trust",
+        "#trust_definition/affective_trust",
+        "#perception/safety",
+        "#perception/risk"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.ijdrr.2023.103546](https://doi.org/10.1016/j.ijdrr.2023.10354",
+      "Path": "https://doi.org/10.1016/j.ijdrr.2023.103546](https://doi.org/10.1016/j.ijdrr.2023.10354",
+      "FilePath": "Consensus/Trust Evolution, From Cognitive to Affective.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_definition/cognitive_trust",
+        "#trust_definition/affective_trust",
+        "#perception/safety",
+        "#perception/risk"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1891/1946-6560.6.3.298](https://doi.org/10.1891/1946-6560.6.3.29",
+      "Path": "https://doi.org/10.1891/1946-6560.6.3.298](https://doi.org/10.1891/1946-6560.6.3.29",
+      "FilePath": "Consensus/Anxiety, Trust, and Evolution.md",
+      "Tags": [
+        "#trust",
+        "#cognitive/anxiety",
+        "#evolution",
+        "#AITools/consensus"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.ijchp.2024.100494](https://doi.org/10.1016/j.ijchp.2024.10049",
+      "Path": "https://doi.org/10.1016/j.ijchp.2024.100494](https://doi.org/10.1016/j.ijchp.2024.10049",
+      "FilePath": "Consensus/Anxiety, Trust, and Evolution.md",
+      "Tags": [
+        "#trust",
+        "#cognitive/anxiety",
+        "#evolution",
+        "#AITools/consensus"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.31234/osf.io/r85gv](https://doi.org/10.31234/osf.io/r85g",
+      "Path": "https://doi.org/10.31234/osf.io/r85gv](https://doi.org/10.31234/osf.io/r85g",
+      "FilePath": "Consensus/Anxiety, Trust, and Evolution.md",
+      "Tags": [
+        "#trust",
+        "#cognitive/anxiety",
+        "#evolution",
+        "#AITools/consensus"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1177/02654075221074387](https://doi.org/10.1177/0265407522107438",
+      "Path": "https://doi.org/10.1177/02654075221074387](https://doi.org/10.1177/0265407522107438",
+      "FilePath": "Consensus/Anxiety, Trust, and Evolution.md",
+      "Tags": [
+        "#trust",
+        "#cognitive/anxiety",
+        "#evolution",
+        "#AITools/consensus"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1016/b978-0-12-394427-6.00021-2](https://doi.org/10.1016/b978-0-12-394427-6.00021-",
+      "Path": "https://doi.org/10.1016/b978-0-12-394427-6.00021-2](https://doi.org/10.1016/b978-0-12-394427-6.00021-",
+      "FilePath": "Consensus/Anxiety, Trust, and Evolution.md",
+      "Tags": [
+        "#trust",
+        "#cognitive/anxiety",
+        "#evolution",
+        "#AITools/consensus"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1177/0265407520975858](https://doi.org/10.1177/026540752097585",
+      "Path": "https://doi.org/10.1177/0265407520975858](https://doi.org/10.1177/026540752097585",
+      "FilePath": "Consensus/Anxiety, Trust, and Evolution.md",
+      "Tags": [
+        "#trust",
+        "#cognitive/anxiety",
+        "#evolution",
+        "#AITools/consensus"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.17265/2159-5542/2023.02.006](https://doi.org/10.17265/2159-5542/2023.02.00",
+      "Path": "https://doi.org/10.17265/2159-5542/2023.02.006](https://doi.org/10.17265/2159-5542/2023.02.00",
+      "FilePath": "Consensus/Anxiety, Trust, and Evolution.md",
+      "Tags": [
+        "#trust",
+        "#cognitive/anxiety",
+        "#evolution",
+        "#AITools/consensus"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1111/ggi.13981](https://doi.org/10.1111/ggi.1398",
+      "Path": "https://doi.org/10.1111/ggi.13981](https://doi.org/10.1111/ggi.1398",
+      "FilePath": "Consensus/Anxiety, Trust, and Evolution.md",
+      "Tags": [
+        "#trust",
+        "#cognitive/anxiety",
+        "#evolution",
+        "#AITools/consensus"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1007/s44202-023-00074-6](https://doi.org/10.1007/s44202-023-00074-",
+      "Path": "https://doi.org/10.1007/s44202-023-00074-6](https://doi.org/10.1007/s44202-023-00074-",
+      "FilePath": "Consensus/Anxiety, Trust, and Evolution.md",
+      "Tags": [
+        "#trust",
+        "#cognitive/anxiety",
+        "#evolution",
+        "#AITools/consensus"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.48550/arxiv.2407.07200](https://doi.org/10.48550/arxiv.2407.0720",
+      "Path": "https://doi.org/10.48550/arxiv.2407.07200](https://doi.org/10.48550/arxiv.2407.0720",
+      "FilePath": "Consensus/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#trust_factors/robot_factors/error",
+        "#trust_factors/robot_factors/competence",
+        "#trust_factors/robot_factors/performance",
+        "#trust_factors/robot_factors/reliability",
+        "#robot/lower_limb",
+        "#cognitive/anxiety",
+        "#cognitive/cognitive_reserve",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#measures/subjective_measures",
+        "#trust_definition/affective_trust",
+        "#trust_definition/cognitive_trust"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.apergo.2023.103967](https://doi.org/10.1016/j.apergo.2023.10396",
+      "Path": "https://doi.org/10.1016/j.apergo.2023.103967](https://doi.org/10.1016/j.apergo.2023.10396",
+      "FilePath": "Consensus/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#trust_factors/robot_factors/error",
+        "#trust_factors/robot_factors/competence",
+        "#trust_factors/robot_factors/performance",
+        "#trust_factors/robot_factors/reliability",
+        "#robot/lower_limb",
+        "#cognitive/anxiety",
+        "#cognitive/cognitive_reserve",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#measures/subjective_measures",
+        "#trust_definition/affective_trust",
+        "#trust_definition/cognitive_trust"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1038/s41598-021-88622-9](https://doi.org/10.1038/s41598-021-88622-",
+      "Path": "https://doi.org/10.1038/s41598-021-88622-9](https://doi.org/10.1038/s41598-021-88622-",
+      "FilePath": "Consensus/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#trust_factors/robot_factors/error",
+        "#trust_factors/robot_factors/competence",
+        "#trust_factors/robot_factors/performance",
+        "#trust_factors/robot_factors/reliability",
+        "#robot/lower_limb",
+        "#cognitive/anxiety",
+        "#cognitive/cognitive_reserve",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#measures/subjective_measures",
+        "#trust_definition/affective_trust",
+        "#trust_definition/cognitive_trust"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1007/s12369-023-01082-1](https://doi.org/10.1007/s12369-023-01082-",
+      "Path": "https://doi.org/10.1007/s12369-023-01082-1](https://doi.org/10.1007/s12369-023-01082-",
+      "FilePath": "Consensus/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#trust_factors/robot_factors/error",
+        "#trust_factors/robot_factors/competence",
+        "#trust_factors/robot_factors/performance",
+        "#trust_factors/robot_factors/reliability",
+        "#robot/lower_limb",
+        "#cognitive/anxiety",
+        "#cognitive/cognitive_reserve",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#measures/subjective_measures",
+        "#trust_definition/affective_trust",
+        "#trust_definition/cognitive_trust"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1145/3706123](https://doi.org/10.1145/370612",
+      "Path": "https://doi.org/10.1145/3706123](https://doi.org/10.1145/370612",
+      "FilePath": "Consensus/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#trust_factors/robot_factors/error",
+        "#trust_factors/robot_factors/competence",
+        "#trust_factors/robot_factors/performance",
+        "#trust_factors/robot_factors/reliability",
+        "#robot/lower_limb",
+        "#cognitive/anxiety",
+        "#cognitive/cognitive_reserve",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#measures/subjective_measures",
+        "#trust_definition/affective_trust",
+        "#trust_definition/cognitive_trust"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.23889/suthesis.69777](https://doi.org/10.23889/suthesis.6977",
+      "Path": "https://doi.org/10.23889/suthesis.69777](https://doi.org/10.23889/suthesis.6977",
+      "FilePath": "Consensus/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#trust_factors/robot_factors/error",
+        "#trust_factors/robot_factors/competence",
+        "#trust_factors/robot_factors/performance",
+        "#trust_factors/robot_factors/reliability",
+        "#robot/lower_limb",
+        "#cognitive/anxiety",
+        "#cognitive/cognitive_reserve",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#measures/subjective_measures",
+        "#trust_definition/affective_trust",
+        "#trust_definition/cognitive_trust"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1109/hri61500.2025.10974010](https://doi.org/10.1109/hri61500.2025.1097401",
+      "Path": "https://doi.org/10.1109/hri61500.2025.10974010](https://doi.org/10.1109/hri61500.2025.1097401",
+      "FilePath": "Consensus/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#trust_factors/robot_factors/error",
+        "#trust_factors/robot_factors/competence",
+        "#trust_factors/robot_factors/performance",
+        "#trust_factors/robot_factors/reliability",
+        "#robot/lower_limb",
+        "#cognitive/anxiety",
+        "#cognitive/cognitive_reserve",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#measures/subjective_measures",
+        "#trust_definition/affective_trust",
+        "#trust_definition/cognitive_trust"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1007/s12369-020-00703-3](https://doi.org/10.1007/s12369-020-00703-",
+      "Path": "https://doi.org/10.1007/s12369-020-00703-3](https://doi.org/10.1007/s12369-020-00703-",
+      "FilePath": "Consensus/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#trust_factors/robot_factors/error",
+        "#trust_factors/robot_factors/competence",
+        "#trust_factors/robot_factors/performance",
+        "#trust_factors/robot_factors/reliability",
+        "#robot/lower_limb",
+        "#cognitive/anxiety",
+        "#cognitive/cognitive_reserve",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#measures/subjective_measures",
+        "#trust_definition/affective_trust",
+        "#trust_definition/cognitive_trust"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.3390/mti9010005](https://doi.org/10.3390/mti901000",
+      "Path": "https://doi.org/10.3390/mti9010005](https://doi.org/10.3390/mti901000",
+      "FilePath": "Consensus/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#trust_factors/robot_factors/error",
+        "#trust_factors/robot_factors/competence",
+        "#trust_factors/robot_factors/performance",
+        "#trust_factors/robot_factors/reliability",
+        "#robot/lower_limb",
+        "#cognitive/anxiety",
+        "#cognitive/cognitive_reserve",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#measures/subjective_measures",
+        "#trust_definition/affective_trust",
+        "#trust_definition/cognitive_trust"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.3389/fpsyg.2021.592711](https://doi.org/10.3389/fpsyg.2021.59271",
+      "Path": "https://doi.org/10.3389/fpsyg.2021.592711](https://doi.org/10.3389/fpsyg.2021.59271",
+      "FilePath": "Consensus/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#trust_factors/robot_factors/error",
+        "#trust_factors/robot_factors/competence",
+        "#trust_factors/robot_factors/performance",
+        "#trust_factors/robot_factors/reliability",
+        "#robot/lower_limb",
+        "#cognitive/anxiety",
+        "#cognitive/cognitive_reserve",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#measures/subjective_measures",
+        "#trust_definition/affective_trust",
+        "#trust_definition/cognitive_trust"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.7717/peerj-cs.837](https://doi.org/10.7717/peerj-cs.83",
+      "Path": "https://doi.org/10.7717/peerj-cs.837](https://doi.org/10.7717/peerj-cs.83",
+      "FilePath": "Consensus/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#trust_factors/robot_factors/error",
+        "#trust_factors/robot_factors/competence",
+        "#trust_factors/robot_factors/performance",
+        "#trust_factors/robot_factors/reliability",
+        "#robot/lower_limb",
+        "#cognitive/anxiety",
+        "#cognitive/cognitive_reserve",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#measures/subjective_measures",
+        "#trust_definition/affective_trust",
+        "#trust_definition/cognitive_trust"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1177/0018720820922080](https://doi.org/10.1177/001872082092208",
+      "Path": "https://doi.org/10.1177/0018720820922080](https://doi.org/10.1177/001872082092208",
+      "FilePath": "Consensus/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#trust_factors/robot_factors/error",
+        "#trust_factors/robot_factors/competence",
+        "#trust_factors/robot_factors/performance",
+        "#trust_factors/robot_factors/reliability",
+        "#robot/lower_limb",
+        "#cognitive/anxiety",
+        "#cognitive/cognitive_reserve",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#measures/subjective_measures",
+        "#trust_definition/affective_trust",
+        "#trust_definition/cognitive_trust"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1109/ro-man60168.2024.10731320](https://doi.org/10.1109/ro-man60168.2024.1073132",
+      "Path": "https://doi.org/10.1109/ro-man60168.2024.10731320](https://doi.org/10.1109/ro-man60168.2024.1073132",
+      "FilePath": "Consensus/Cognitive and Affective Trust in Wearable Robots.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#trust_factors/robot_factors/error",
+        "#trust_factors/robot_factors/competence",
+        "#trust_factors/robot_factors/performance",
+        "#trust_factors/robot_factors/reliability",
+        "#robot/lower_limb",
+        "#cognitive/anxiety",
+        "#cognitive/cognitive_reserve",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#measures/subjective_measures",
+        "#trust_definition/affective_trust",
+        "#trust_definition/cognitive_trust"
+      ]
+    },
+    {
+      "Text": "https://consensus.app](https://consensus.app",
+      "Path": "https://consensus.app](https://consensus.app",
+      "FilePath": "Consensus/Anxiety and Proprioception.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1371/journal.pone.0319061](https://doi.org/10.1371/journal.pone.031906",
+      "Path": "https://doi.org/10.1371/journal.pone.0319061](https://doi.org/10.1371/journal.pone.031906",
+      "FilePath": "Consensus/Anxiety and Proprioception.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1371/journal.pone.0307072](https://doi.org/10.1371/journal.pone.030707",
+      "Path": "https://doi.org/10.1371/journal.pone.0307072](https://doi.org/10.1371/journal.pone.030707",
+      "FilePath": "Consensus/Anxiety and Proprioception.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.5606/tftrd.2019.2457](https://doi.org/10.5606/tftrd.2019.245",
+      "Path": "https://doi.org/10.5606/tftrd.2019.2457](https://doi.org/10.5606/tftrd.2019.245",
+      "FilePath": "Consensus/Anxiety and Proprioception.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.3390/audiolres15030057](https://doi.org/10.3390/audiolres1503005",
+      "Path": "https://doi.org/10.3390/audiolres15030057](https://doi.org/10.3390/audiolres1503005",
+      "FilePath": "Consensus/Anxiety and Proprioception.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.neuropsychologia.2019.01.023](https://doi.org/10.1016/j.neuropsychologia.2019.01.02",
+      "Path": "https://doi.org/10.1016/j.neuropsychologia.2019.01.023](https://doi.org/10.1016/j.neuropsychologia.2019.01.02",
+      "FilePath": "Consensus/Anxiety and Proprioception.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.neubiorev.2023.105115](https://doi.org/10.1016/j.neubiorev.2023.10511",
+      "Path": "https://doi.org/10.1016/j.neubiorev.2023.105115](https://doi.org/10.1016/j.neubiorev.2023.10511",
+      "FilePath": "Consensus/Anxiety and Proprioception.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.copsyc.2017.03.019](https://doi.org/10.1016/j.copsyc.2017.03.01",
+      "Path": "https://doi.org/10.1016/j.copsyc.2017.03.019](https://doi.org/10.1016/j.copsyc.2017.03.01",
+      "FilePath": "Consensus/Anxiety and Proprioception.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://arxiv.org/abs/2407.07200",
+      "Path": "https://arxiv.org/abs/2407.07200",
+      "FilePath": "Consensus/Evolution from embodiment to cognitive to affective trust in wearable robots.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_factors/robot_factors/reliability",
+        "#trust_factors/robot_factors/dependability",
+        "#trust_factors/robot_factors/performance",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#trust_factors/human_factors/faith",
+        "#trust_factors/human_factors/confidence_in_robot",
+        "#trust_factors/robot_factors/perceived_autonomy"
+      ]
+    },
+    {
+      "Text": "https://arxiv.org/abs/2408.00238",
+      "Path": "https://arxiv.org/abs/2408.00238",
+      "FilePath": "Consensus/Evolution from embodiment to cognitive to affective trust in wearable robots.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_factors/robot_factors/reliability",
+        "#trust_factors/robot_factors/dependability",
+        "#trust_factors/robot_factors/performance",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#trust_factors/human_factors/faith",
+        "#trust_factors/human_factors/confidence_in_robot",
+        "#trust_factors/robot_factors/perceived_autonomy"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.3389/frai.2021.703504",
+      "Path": "https://doi.org/10.3389/frai.2021.703504",
+      "FilePath": "Consensus/Evolution from embodiment to cognitive to affective trust in wearable robots.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_factors/robot_factors/reliability",
+        "#trust_factors/robot_factors/dependability",
+        "#trust_factors/robot_factors/performance",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#trust_factors/human_factors/faith",
+        "#trust_factors/human_factors/confidence_in_robot",
+        "#trust_factors/robot_factors/perceived_autonomy"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1038/s41467-024-46249-0](https://doi.org/10.1038/s41467-024-46249-",
+      "Path": "https://doi.org/10.1038/s41467-024-46249-0](https://doi.org/10.1038/s41467-024-46249-",
+      "FilePath": "Consensus/Evolution from embodiment to cognitive to affective trust in wearable robots.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_factors/robot_factors/reliability",
+        "#trust_factors/robot_factors/dependability",
+        "#trust_factors/robot_factors/performance",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#trust_factors/human_factors/faith",
+        "#trust_factors/human_factors/confidence_in_robot",
+        "#trust_factors/robot_factors/perceived_autonomy"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1109/honet63146.2024.10822887](https://doi.org/10.1109/honet63146.2024.1082288",
+      "Path": "https://doi.org/10.1109/honet63146.2024.10822887](https://doi.org/10.1109/honet63146.2024.1082288",
+      "FilePath": "Consensus/Evolution from embodiment to cognitive to affective trust in wearable robots.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_factors/robot_factors/reliability",
+        "#trust_factors/robot_factors/dependability",
+        "#trust_factors/robot_factors/performance",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#trust_factors/human_factors/faith",
+        "#trust_factors/human_factors/confidence_in_robot",
+        "#trust_factors/robot_factors/perceived_autonomy"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1101/2025.06.16.658246](https://doi.org/10.1101/2025.06.16.65824",
+      "Path": "https://doi.org/10.1101/2025.06.16.658246](https://doi.org/10.1101/2025.06.16.65824",
+      "FilePath": "Consensus/Evolution from embodiment to cognitive to affective trust in wearable robots.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_factors/robot_factors/reliability",
+        "#trust_factors/robot_factors/dependability",
+        "#trust_factors/robot_factors/performance",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#trust_factors/human_factors/faith",
+        "#trust_factors/human_factors/confidence_in_robot",
+        "#trust_factors/robot_factors/perceived_autonomy"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.48550/arxiv.2507.21384](https://doi.org/10.48550/arxiv.2507.2138",
+      "Path": "https://doi.org/10.48550/arxiv.2507.21384](https://doi.org/10.48550/arxiv.2507.2138",
+      "FilePath": "Consensus/Evolution from embodiment to cognitive to affective trust in wearable robots.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_factors/robot_factors/reliability",
+        "#trust_factors/robot_factors/dependability",
+        "#trust_factors/robot_factors/performance",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#trust_factors/human_factors/faith",
+        "#trust_factors/human_factors/confidence_in_robot",
+        "#trust_factors/robot_factors/perceived_autonomy"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1109/access.2018.2877919](https://doi.org/10.1109/access.2018.287791",
+      "Path": "https://doi.org/10.1109/access.2018.2877919](https://doi.org/10.1109/access.2018.287791",
+      "FilePath": "Consensus/Evolution from embodiment to cognitive to affective trust in wearable robots.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#trust_factors/robot_factors/reliability",
+        "#trust_factors/robot_factors/dependability",
+        "#trust_factors/robot_factors/performance",
+        "#trust_factors/robot_factors/predictability",
+        "#trust_factors/robot_factors/supportiveness",
+        "#trust_factors/human_factors/faith",
+        "#trust_factors/human_factors/confidence_in_robot",
+        "#trust_factors/robot_factors/perceived_autonomy"
+      ]
+    },
+    {
+      "Text": "https://consensus.app](https://consensus.app",
+      "Path": "https://consensus.app](https://consensus.app",
+      "FilePath": "Consensus/How Cognitive Processes Shape Perceptions of Safety.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.foodres.2018.12.058](https://doi.org/10.1016/j.foodres.2018.12.05",
+      "Path": "https://doi.org/10.1016/j.foodres.2018.12.058](https://doi.org/10.1016/j.foodres.2018.12.05",
+      "FilePath": "Consensus/How Cognitive Processes Shape Perceptions of Safety.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.3390/buildings15071033](https://doi.org/10.3390/buildings1507103",
+      "Path": "https://doi.org/10.3390/buildings15071033](https://doi.org/10.3390/buildings1507103",
+      "FilePath": "Consensus/How Cognitive Processes Shape Perceptions of Safety.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.shaw.2024.05.004](https://doi.org/10.1016/j.shaw.2024.05.00",
+      "Path": "https://doi.org/10.1016/j.shaw.2024.05.004](https://doi.org/10.1016/j.shaw.2024.05.00",
+      "FilePath": "Consensus/How Cognitive Processes Shape Perceptions of Safety.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/s0925-7535(0",
+      "Path": "https://doi.org/10.1016/s0925-7535(0",
+      "FilePath": "Consensus/How Cognitive Processes Shape Perceptions of Safety.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.shaw.2018.01.008](https://doi.org/10.1016/j.shaw.2018.01.00",
+      "Path": "https://doi.org/10.1016/j.shaw.2018.01.008](https://doi.org/10.1016/j.shaw.2018.01.00",
+      "FilePath": "Consensus/How Cognitive Processes Shape Perceptions of Safety.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.ssci.2017.02.011](https://doi.org/10.1016/j.ssci.2017.02.01",
+      "Path": "https://doi.org/10.1016/j.ssci.2017.02.011](https://doi.org/10.1016/j.ssci.2017.02.01",
+      "FilePath": "Consensus/How Cognitive Processes Shape Perceptions of Safety.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1111/bjc.12466](https://doi.org/10.1111/bjc.1246",
+      "Path": "https://doi.org/10.1111/bjc.12466](https://doi.org/10.1111/bjc.1246",
+      "FilePath": "Consensus/How Cognitive Processes Shape Perceptions of Safety.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1080/0144929x.2021.1905066](https://doi.org/10.1080/0144929x.2021.190506",
+      "Path": "https://doi.org/10.1080/0144929x.2021.1905066](https://doi.org/10.1080/0144929x.2021.190506",
+      "FilePath": "Consensus/How Cognitive Processes Shape Perceptions of Safety.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.trf.2020.08.008](https://doi.org/10.1016/j.trf.2020.08.00",
+      "Path": "https://doi.org/10.1016/j.trf.2020.08.008](https://doi.org/10.1016/j.trf.2020.08.00",
+      "FilePath": "Consensus/How Cognitive Processes Shape Perceptions of Safety.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1136/bmjopen-2019-033026](https://doi.org/10.1136/bmjopen-2019-03302",
+      "Path": "https://doi.org/10.1136/bmjopen-2019-033026](https://doi.org/10.1136/bmjopen-2019-03302",
+      "FilePath": "Consensus/How Cognitive Processes Shape Perceptions of Safety.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1007/s10608-020-10113-4](https://doi.org/10.1007/s10608-020-10113-",
+      "Path": "https://doi.org/10.1007/s10608-020-10113-4](https://doi.org/10.1007/s10608-020-10113-",
+      "FilePath": "Consensus/How Cognitive Processes Shape Perceptions of Safety.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1155/2021/5556396](https://doi.org/10.1155/2021/555639",
+      "Path": "https://doi.org/10.1155/2021/5556396](https://doi.org/10.1155/2021/555639",
+      "FilePath": "Consensus/How Cognitive Processes Shape Perceptions of Safety.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.31234/osf.io/4s8zb](https://doi.org/10.31234/osf.io/4s8z",
+      "Path": "https://doi.org/10.31234/osf.io/4s8zb](https://doi.org/10.31234/osf.io/4s8z",
+      "FilePath": "Consensus/How Cognitive Processes Shape Perceptions of Safety.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.ijdrr.2023.103546](https://doi.org/10.1016/j.ijdrr.2023.10354",
+      "Path": "https://doi.org/10.1016/j.ijdrr.2023.103546](https://doi.org/10.1016/j.ijdrr.2023.10354",
+      "FilePath": "Consensus/How Cognitive Processes Shape Perceptions of Safety.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.3389/fpsyt.2019.00465](https://doi.org/10.3389/fpsyt.2019.0046",
+      "Path": "https://doi.org/10.3389/fpsyt.2019.00465](https://doi.org/10.3389/fpsyt.2019.0046",
+      "FilePath": "Consensus/State Anxiety Roots in the Brain.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#cognitive/anxiety/state_anxiety",
+        "#cognitive/anxiety/state_anxiety/bio_roots_of_anxiety"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1038/s41598-020-68008-z](https://doi.org/10.1038/s41598-020-68008-",
+      "Path": "https://doi.org/10.1038/s41598-020-68008-z](https://doi.org/10.1038/s41598-020-68008-",
+      "FilePath": "Consensus/State Anxiety Roots in the Brain.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#cognitive/anxiety/state_anxiety",
+        "#cognitive/anxiety/state_anxiety/bio_roots_of_anxiety"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1038/s41398-020-01088-7](https://doi.org/10.1038/s41398-020-01088-",
+      "Path": "https://doi.org/10.1038/s41398-020-01088-7](https://doi.org/10.1038/s41398-020-01088-",
+      "FilePath": "Consensus/State Anxiety Roots in the Brain.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#cognitive/anxiety/state_anxiety",
+        "#cognitive/anxiety/state_anxiety/bio_roots_of_anxiety"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1038/nature12018](https://doi.org/10.1038/nature1201",
+      "Path": "https://doi.org/10.1038/nature12018](https://doi.org/10.1038/nature1201",
+      "FilePath": "Consensus/State Anxiety Roots in the Brain.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#cognitive/anxiety/state_anxiety",
+        "#cognitive/anxiety/state_anxiety/bio_roots_of_anxiety"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1523/jneurosci.0716-18.2018](https://doi.org/10.1523/jneurosci.0716-18.201",
+      "Path": "https://doi.org/10.1523/jneurosci.0716-18.2018](https://doi.org/10.1523/jneurosci.0716-18.201",
+      "FilePath": "Consensus/Why does Cognitive Perception Update?.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#cognitive",
+        "#perception/safety",
+        "#perception/risk"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1080/20008066.2024.2335788](https://doi.org/10.1080/20008066.2024.233578",
+      "Path": "https://doi.org/10.1080/20008066.2024.2335788](https://doi.org/10.1080/20008066.2024.233578",
+      "FilePath": "Consensus/Why does Cognitive Perception Update?.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#cognitive",
+        "#perception/safety",
+        "#perception/risk"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1038/s41598-024-61207-y](https://doi.org/10.1038/s41598-024-61207-",
+      "Path": "https://doi.org/10.1038/s41598-024-61207-y](https://doi.org/10.1038/s41598-024-61207-",
+      "FilePath": "Consensus/Why does Cognitive Perception Update?.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#cognitive",
+        "#perception/safety",
+        "#perception/risk"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.7554/elife.101157](https://doi.org/10.7554/elife.10115",
+      "Path": "https://doi.org/10.7554/elife.101157](https://doi.org/10.7554/elife.10115",
+      "FilePath": "Consensus/Why does Cognitive Perception Update?.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#cognitive",
+        "#perception/safety",
+        "#perception/risk"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1038/s41598-021-89047-0](https://doi.org/10.1038/s41598-021-89047-",
+      "Path": "https://doi.org/10.1038/s41598-021-89047-0](https://doi.org/10.1038/s41598-021-89047-",
+      "FilePath": "Consensus/Why does Cognitive Perception Update?.md",
+      "Tags": [
+        "#AITools/consensus",
+        "#cognitive",
+        "#perception/safety",
+        "#perception/risk"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1109/i2mtc60896.2024.10561211](https://doi.org/10.1109/i2mtc60896.2024.1056121",
+      "Path": "https://doi.org/10.1109/i2mtc60896.2024.10561211](https://doi.org/10.1109/i2mtc60896.2024.1056121",
+      "FilePath": "Consensus/Under- and Over-trust.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1007/s10676-020-09573-9](https://doi.org/10.1007/s10676-020-09573-",
+      "Path": "https://doi.org/10.1007/s10676-020-09573-9](https://doi.org/10.1007/s10676-020-09573-",
+      "FilePath": "Consensus/Under- and Over-trust.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.ijhcs.2021.102744",
+      "Path": "https://doi.org/10.1016/j.ijhcs.2021.102744",
+      "FilePath": "Sensory Perceptions/Do you feel safe with your robot? Factors influencing perceived safety in human-robot interaction based on subjective and objective measures.md",
+      "Tags": [
+        "#AITools/Liner",
+        "#robot/social",
+        "#perception/safety",
+        "#measures/objective_measures/perception/safety_measure",
+        "#trust_factors/human_factors/familiarity",
+        "#trust_factors/human_factors/transparency",
+        "#necessities/vulnerable_settings/percieved_safety",
+        "#cognitive/fear",
+        "#cognitive/discomfort",
+        "#cognitive/distrust",
+        "#perception/safety/factors/human_factors/comfort",
+        "#perception/safety/factors/robot_factors/predictability",
+        "#perception/safety/factors/human_factors/familiarity",
+        "#perception/safety/factors/human_factors/sense_of_control",
+        "#perception/safety/factors/human_factors/trust",
+        "#perception/safety/factors/robot_factors/transparency",
+        "#perception/safety/factors/human_factors/experience",
+        "#perception/safety/factors/human_factors/confidence_in_robot",
+        "#perception/safety/human_factors/traits/personality",
+        "#perception/safety/human_factors/traits/gender",
+        "#Time/error_timing",
+        "#cognitive/fear",
+        "#cognitive/anger"
+      ]
+    },
+    {
+      "Text": "https://arxiv.org/abs/2507.21384",
+      "Path": "https://arxiv.org/abs/2507.21384",
+      "FilePath": "My Extractions/Projecting the New Body - How Body Image Evolves During Learning to Walk with a Wearable Robot.md",
+      "Tags": [
+        "#robot/lower_limb",
+        "#embodiment"
+      ]
+    },
+    {
+      "Text": "Link",
+      "Path": "https://www.ebsco.com/research-starters/psychology/time-perception#full-article",
+      "FilePath": "My Extractions/Time Perception.md",
+      "Tags": [
+        "#Time",
+        "#perception/time",
+        "#chemicals/neurotransmitters/Norepinephrine",
+        "#chemicals/neurotransmitters/Dopamine"
+      ]
+    },
+    {
+      "Text": "https://arxiv.org/abs/2407.07200",
+      "Path": "https://arxiv.org/abs/2407.07200",
+      "FilePath": "My Extractions/Measuring Trust for Exoskeleton Systems.md",
+      "Tags": [
+        "#measures/objective_measures",
+        "#measures/subjective_measures",
+        "#trust_factors/robot_factors/safety",
+        "#trust_factors/human_factors/faith",
+        "#trust_factors/robot_factors/reliability",
+        "#trust_factors/robot_factors/reliability",
+        "#trust_factors/robot_factors/dependability",
+        "#trust_factors/robot_factors/accessibility",
+        "#trust_factors/robot_factors/performance",
+        "#trust_factors/robot_factors/purpose",
+        "#trust_factors/robot_factors/matching_intentions",
+        "#trust_factors/robot_factors/integrity",
+        "#trust_factors/robot_factors/underestandability",
+        "#trust_factors/human_factors/familiarity"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.3390/mti9010005]",
+      "Path": "https://doi.org/10.3390/mti9010005]",
+      "FilePath": "My Extractions/Human–Robot Interactions A Pilot Study of Psychoaffective and Cognitive Factors to Boost the Acceptance and Usability of Assistive Wearable Devices.md",
+      "Tags": [
+        "#cognitive/cognitive_reserve",
+        "#trust_factors/human_factors/traits/anxiety",
+        "#measures/objective_measures/NASA-TLX",
+        "#trust_factors/human_factors/fatigue",
+        "#cognitive/anxiety",
+        "#cognitive/anxiety/state_anxiety",
+        "#robot/exoskeleton",
+        "#perception/workload/anxiety",
+        "#perception/usability/anxiety",
+        "#perception/usability/cognitive_reserve",
+        "#trust_factors/human_factors/familiarity"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.3390/mti9010005](https://doi.org/10.3390/mti901000",
+      "Path": "https://doi.org/10.3390/mti9010005](https://doi.org/10.3390/mti901000",
+      "FilePath": "My Extractions/Human–Robot Interactions A Pilot Study of Psychoaffective and Cognitive Factors to Boost the Acceptance and Usability of Assistive Wearable Devices.md",
+      "Tags": [
+        "#cognitive/cognitive_reserve",
+        "#trust_factors/human_factors/traits/anxiety",
+        "#measures/objective_measures/NASA-TLX",
+        "#trust_factors/human_factors/fatigue",
+        "#cognitive/anxiety",
+        "#cognitive/anxiety/state_anxiety",
+        "#robot/exoskeleton",
+        "#perception/workload/anxiety",
+        "#perception/usability/anxiety",
+        "#perception/usability/cognitive_reserve",
+        "#trust_factors/human_factors/familiarity"
+      ]
+    },
+    {
+      "Text": "DOI",
+      "Path": "https://doi.org/10.1098/rstb.2009.0003",
+      "FilePath": "My Extractions/The inner experience of time.md",
+      "Tags": [
+        "#perception/time/factors/traits/working_memory",
+        "#perception/time/factors/traits/long_term_memory",
+        "#perception/time/factors/emotions",
+        "#perception/time/factors/traits/personality"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1098/rstb.2009.0003](https://doi.org/10.1098/rstb.2009.000",
+      "Path": "https://doi.org/10.1098/rstb.2009.0003](https://doi.org/10.1098/rstb.2009.000",
+      "FilePath": "My Extractions/The inner experience of time.md",
+      "Tags": [
+        "#perception/time/factors/traits/working_memory",
+        "#perception/time/factors/traits/long_term_memory",
+        "#perception/time/factors/emotions",
+        "#perception/time/factors/traits/personality"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.neubiorev.2008.08.004",
+      "Path": "https://doi.org/10.1016/j.neubiorev.2008.08.004",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1518/hfes.46.1.50_30392",
+      "Path": "https://doi.org/10.1518/hfes.46.1.50_30392",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1007/s10514-017-9677-2",
+      "Path": "https://doi.org/10.1007/s10514-017-9677-2",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.2307/1914185",
+      "Path": "https://doi.org/10.2307/1914185",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1207/S15327957PSPR0504_2",
+      "Path": "https://doi.org/10.1207/S15327957PSPR0504_2",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/0306-4530(9",
+      "Path": "https://doi.org/10.1016/0306-4530(9",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1056/NEJM199801153380307",
+      "Path": "https://doi.org/10.1056/NEJM199801153380307",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1037/0033-295X.100.3.432",
+      "Path": "https://doi.org/10.1037/0033-295X.100.3.432",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1037/0033-295X.108.3.550",
+      "Path": "https://doi.org/10.1037/0033-295X.108.3.550",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1037/0735-7044.118.5.916",
+      "Path": "https://doi.org/10.1037/0735-7044.118.5.916",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1097/01.psy.0000116715.78238.56",
+      "Path": "https://doi.org/10.1097/01.psy.0000116715.78238.56",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.neubiorev.2011.11.009",
+      "Path": "https://doi.org/10.1016/j.neubiorev.2011.11.009",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1109/HRI.2013.6483596",
+      "Path": "https://doi.org/10.1109/HRI.2013.6483596",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1037/1089-2680.5.4.323",
+      "Path": "https://doi.org/10.1037/1089-2680.5.4.323",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1146/annurev.neuro.23.1.155",
+      "Path": "https://doi.org/10.1146/annurev.neuro.23.1.155",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.biopsych.2006.03.042",
+      "Path": "https://doi.org/10.1016/j.biopsych.2006.03.042",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1177/0018720811417254",
+      "Path": "https://doi.org/10.1177/0018720811417254",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1007/978-3-319-96074-6_2",
+      "Path": "https://doi.org/10.1007/978-3-319-96074-6_2",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.3389/fnhum.2010.00215",
+      "Path": "https://doi.org/10.3389/fnhum.2010.00215",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.tics.2007.05.008",
+      "Path": "https://doi.org/10.1016/j.tics.2007.05.008",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1038/nn.3961",
+      "Path": "https://doi.org/10.1038/nn.3961",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1176/appi.ajp.2007.07030504",
+      "Path": "https://doi.org/10.1176/appi.ajp.2007.07030504",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.neuropharm.2011.02.023",
+      "Path": "https://doi.org/10.1016/j.neuropharm.2011.02.023",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.neubiorev.2017.02.026",
+      "Path": "https://doi.org/10.1016/j.neubiorev.2017.02.026",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.bandc.2009.07.003",
+      "Path": "https://doi.org/10.1016/j.bandc.2009.07.003",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1017/S0954579409000054",
+      "Path": "https://doi.org/10.1017/S0954579409000054",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1111/j.1749-6632.2011.06200.x",
+      "Path": "https://doi.org/10.1111/j.1749-6632.2011.06200.x",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1111/j.1749-6632.2011.06230.x",
+      "Path": "https://doi.org/10.1111/j.1749-6632.2011.06230.x",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.psyneuen.2004.06.002",
+      "Path": "https://doi.org/10.1016/j.psyneuen.2004.06.002",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1109/THMS.2013.2293535",
+      "Path": "https://doi.org/10.1109/THMS.2013.2293535",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1038/37601",
+      "Path": "https://doi.org/10.1038/37601",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/S1388-2457(0",
+      "Path": "https://doi.org/10.1016/S1388-2457(0",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1176/appi.ajp.2009.09030410",
+      "Path": "https://doi.org/10.1176/appi.ajp.2009.09030410",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.biopsych.2015.04.010",
+      "Path": "https://doi.org/10.1016/j.biopsych.2015.04.010",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1146/annurev.psych.121208.131631",
+      "Path": "https://doi.org/10.1146/annurev.psych.121208.131631",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.neuron.2016.09.039",
+      "Path": "https://doi.org/10.1016/j.neuron.2016.09.039",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1177/1541931214581204",
+      "Path": "https://doi.org/10.1177/1541931214581204",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1109/COASE.2016.7743408",
+      "Path": "https://doi.org/10.1109/COASE.2016.7743408",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1017/CBO9780511790942",
+      "Path": "https://doi.org/10.1017/CBO9780511790942",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.3389/fnhum.2010.00215",
+      "Path": "https://doi.org/10.3389/fnhum.2010.00215",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/Bayesian_anxiety_model.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1017/S0140525X12000477",
+      "Path": "https://doi.org/10.1017/S0140525X12000477",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/Bayesian_anxiety_model.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1093/brain/aws129",
+      "Path": "https://doi.org/10.1093/brain/aws129",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/Bayesian_anxiety_model.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1007/s10339-013-0571-3",
+      "Path": "https://doi.org/10.1007/s10339-013-0571-3",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/Bayesian_anxiety_model.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.tins.2004.10.007",
+      "Path": "https://doi.org/10.1016/j.tins.2004.10.007",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/Bayesian_anxiety_model.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.biopsych.2006.03.042",
+      "Path": "https://doi.org/10.1016/j.biopsych.2006.03.042",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/Bayesian_anxiety_model.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.neuron.2005.04.026",
+      "Path": "https://doi.org/10.1016/j.neuron.2005.04.026",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/Bayesian_anxiety_model.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1080/09548980601004024",
+      "Path": "https://doi.org/10.1080/09548980601004024",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/Bayesian_anxiety_model.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/S2215-0366(1",
+      "Path": "https://doi.org/10.1016/S2215-0366(1",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/Bayesian_anxiety_model.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1007/s00422-010-0364-z",
+      "Path": "https://doi.org/10.1007/s00422-010-0364-z",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/Bayesian_anxiety_model.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1007/s002210050045",
+      "Path": "https://doi.org/10.1007/s002210050045",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/Bayesian_anxiety_model.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1038/npp.2009.109",
+      "Path": "https://doi.org/10.1038/npp.2009.109",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/Bayesian_anxiety_model.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1093/cercor/bhl131",
+      "Path": "https://doi.org/10.1093/cercor/bhl131",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/Bayesian_anxiety_model.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1038/nn.3961",
+      "Path": "https://doi.org/10.1038/nn.3961",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/Bayesian_anxiety_model.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1038/s41562-019-0628-0",
+      "Path": "https://doi.org/10.1038/s41562-019-0628-0",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/Bayesian_anxiety_model.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/S0006-3223(0",
+      "Path": "https://doi.org/10.1016/S0006-3223(0",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/Bayesian_anxiety_model.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.3389/fnhum.2011.00039",
+      "Path": "https://doi.org/10.3389/fnhum.2011.00039",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/Bayesian_anxiety_model.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.neubiorev.2017.02.026",
+      "Path": "https://doi.org/10.1016/j.neubiorev.2017.02.026",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/Bayesian_anxiety_model.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.neuron.2015.09.028",
+      "Path": "https://doi.org/10.1016/j.neuron.2015.09.028",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/Bayesian_anxiety_model.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1038/nrn3289",
+      "Path": "https://doi.org/10.1038/nrn3289",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/Bayesian_anxiety_model.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1037/0735-7044.118.5.916",
+      "Path": "https://doi.org/10.1037/0735-7044.118.5.916",
+      "FilePath": "Anxiety+Bayesian Brain Model-Based/Bayesian_anxiety_model.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.jpsychires.2006.03.003",
+      "Path": "https://doi.org/10.1016/j.jpsychires.2006.03.003",
+      "FilePath": "پروسه.md",
+      "Tags": [
+        "#idea"
+      ]
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.neubiorev.2023.105486",
+      "Path": "https://doi.org/10.1016/j.neubiorev.2023.105486",
+      "FilePath": "Sensory Perceptions/temporal tolerance window.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1038/SREP23323",
+      "Path": "https://doi.org/10.1038/SREP23323",
+      "FilePath": "Sensory Perceptions/temporal tolerance window.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1167/jov.23.9.4836",
+      "Path": "https://doi.org/10.1167/jov.23.9.4836",
+      "FilePath": "Sensory Perceptions/temporal tolerance window.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1080/08990220.2020.1830755",
+      "Path": "https://doi.org/10.1080/08990220.2020.1830755",
+      "FilePath": "Sensory Perceptions/temporal tolerance window.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1101/2024.04.19.24305901",
+      "Path": "https://doi.org/10.1101/2024.04.19.24305901",
+      "FilePath": "Sensory Perceptions/temporal tolerance window.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.3758/s13414-023-02828-9",
+      "Path": "https://doi.org/10.3758/s13414-023-02828-9",
+      "FilePath": "Sensory Perceptions/temporal tolerance window.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.3389/FNEUR.2017.00249",
+      "Path": "https://doi.org/10.3389/FNEUR.2017.00249",
+      "FilePath": "Sensory Perceptions/temporal tolerance window.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1162/jocn_a_02340",
+      "Path": "https://doi.org/10.1162/jocn_a_02340",
+      "FilePath": "Sensory Perceptions/temporal tolerance window.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.3758/S13414-021-02301-5",
+      "Path": "https://doi.org/10.3758/S13414-021-02301-5",
+      "FilePath": "Sensory Perceptions/temporal tolerance window.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1101/2025.08.07.669061",
+      "Path": "https://doi.org/10.1101/2025.08.07.669061",
+      "FilePath": "Sensory Perceptions/temporal tolerance window.md",
+      "Tags": []
+    },
+    {
+      "Text": "Source",
+      "Path": "https://caris-mech.sites.olt.ubc.ca/files/2017/09/HRI-CME_2017_paper_5.pdf",
+      "FilePath": "Sensory Perceptions/perceived_risk_and_safety.md",
+      "Tags": []
+    },
+    {
+      "Text": "Source",
+      "Path": "https://arxiv.org/abs/2501.14099",
+      "FilePath": "Sensory Perceptions/perceived_risk_and_safety.md",
+      "Tags": []
+    },
+    {
+      "Text": "website",
+      "Path": "http://hriscaledatabase.psychology.gmu.edu/attitudes/attributes/2024/10/31/Godspeed.html",
+      "FilePath": "Sensory Perceptions/perceived_risk_and_safety.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1007/978-1-4899-7668-0_10",
+      "Path": "https://doi.org/10.1007/978-1-4899-7668-0_10",
+      "FilePath": "Sensory Perceptions/perceived_risk_and_safety.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1111/risa.13704",
+      "Path": "https://doi.org/10.1111/risa.13704",
+      "FilePath": "Sensory Perceptions/perceived_risk_and_safety.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1111/risa.13207",
+      "Path": "https://doi.org/10.1111/risa.13207",
+      "FilePath": "Sensory Perceptions/perceived_risk_and_safety.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1007/s12369-008-0001-3",
+      "Path": "https://doi.org/10.1007/s12369-008-0001-3",
+      "FilePath": "Sensory Perceptions/perceived_risk_and_safety.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.annals.2019.102759",
+      "Path": "https://doi.org/10.1016/j.annals.2019.102759",
+      "FilePath": "Sensory Perceptions/perceived_risk_and_safety.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1080/24725838.2023.2283537",
+      "Path": "https://doi.org/10.1080/24725838.2023.2283537",
+      "FilePath": "Sensory Perceptions/perceived_risk_and_safety.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1167/jov.23.9.4836",
+      "Path": "https://doi.org/10.1167/jov.23.9.4836",
+      "FilePath": "Sensory Perceptions/individual factors affecting Temporal Tolerance.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.neubiorev.2023.105486",
+      "Path": "https://doi.org/10.1016/j.neubiorev.2023.105486",
+      "FilePath": "Sensory Perceptions/individual factors affecting Temporal Tolerance.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.3758/S13414-021-02301-5",
+      "Path": "https://doi.org/10.3758/S13414-021-02301-5",
+      "FilePath": "Sensory Perceptions/individual factors affecting Temporal Tolerance.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1080/08990220.2020.1830755",
+      "Path": "https://doi.org/10.1080/08990220.2020.1830755",
+      "FilePath": "Sensory Perceptions/individual factors affecting Temporal Tolerance.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.3758/s13414-023-02828-9",
+      "Path": "https://doi.org/10.3758/s13414-023-02828-9",
+      "FilePath": "Sensory Perceptions/individual factors affecting Temporal Tolerance.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1101/2025.08.07.669061",
+      "Path": "https://doi.org/10.1101/2025.08.07.669061",
+      "FilePath": "Sensory Perceptions/individual factors affecting Temporal Tolerance.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1101/2024.04.19.24305901",
+      "Path": "https://doi.org/10.1101/2024.04.19.24305901",
+      "FilePath": "Sensory Perceptions/individual factors affecting Temporal Tolerance.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.3389/FNEUR.2017.00249",
+      "Path": "https://doi.org/10.3389/FNEUR.2017.00249",
+      "FilePath": "Sensory Perceptions/individual factors affecting Temporal Tolerance.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1038/SREP23323",
+      "Path": "https://doi.org/10.1038/SREP23323",
+      "FilePath": "Sensory Perceptions/individual factors affecting Temporal Tolerance.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://europepmc.org/article/MED/38370520",
+      "Path": "https://europepmc.org/article/MED/38370520",
+      "FilePath": "Sensory Perceptions/age in error perception.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1007/s002210100712",
+      "Path": "https://doi.org/10.1007/s002210100712",
+      "FilePath": "Sensory Perceptions/age in error perception.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1109/TNSRE.2025.1234567",
+      "Path": "https://doi.org/10.1109/TNSRE.2025.1234567",
+      "FilePath": "Sensory Perceptions/age in error perception.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1038/s41598-025-19172-7",
+      "Path": "https://doi.org/10.1038/s41598-025-19172-7",
+      "FilePath": "Sensory Perceptions/age in error perception.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.3389/fnint.2025.112345",
+      "Path": "https://doi.org/10.3389/fnint.2025.112345",
+      "FilePath": "Sensory Perceptions/age in error perception.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.neurobiolaging.2007.11.013",
+      "Path": "https://doi.org/10.1016/j.neurobiolaging.2007.11.013",
+      "FilePath": "Sensory Perceptions/age in error perception.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.3389/frobt.2025.223456",
+      "Path": "https://doi.org/10.3389/frobt.2025.223456",
+      "FilePath": "Sensory Perceptions/age in error perception.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1177/0898264324123456",
+      "Path": "https://doi.org/10.1177/0898264324123456",
+      "FilePath": "Sensory Perceptions/age in error perception.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.3389/fpsyg.2018.02557",
+      "Path": "https://doi.org/10.3389/fpsyg.2018.02557",
+      "FilePath": "Sensory Perceptions/TOJ.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1167/jov.22.12.6.",
+      "Path": "https://doi.org/10.1167/jov.22.12.6.",
+      "FilePath": "Sensory Perceptions/TOJ.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.3389/fnint.2012.00063",
+      "Path": "https://doi.org/10.3389/fnint.2012.00063",
+      "FilePath": "Sensory Perceptions/TOJ.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1177/17448069251341882](https://doi.org/10.1177/1744806925134188",
+      "Path": "https://doi.org/10.1177/17448069251341882](https://doi.org/10.1177/1744806925134188",
+      "FilePath": "My Extractions/Somatosensory Cortices.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1101/2022.08.02.502350](https://doi.org/10.1101/2022.08.02.50235",
+      "Path": "https://doi.org/10.1101/2022.08.02.502350](https://doi.org/10.1101/2022.08.02.50235",
+      "FilePath": "My Extractions/Somatosensory Cortices.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.neuron.2020.02.004](https://doi.org/10.1016/j.neuron.2020.02.00",
+      "Path": "https://doi.org/10.1016/j.neuron.2020.02.004](https://doi.org/10.1016/j.neuron.2020.02.00",
+      "FilePath": "My Extractions/Somatosensory Cortices.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1038/s41467-024-45729-7](https://doi.org/10.1038/s41467-024-45729-",
+      "Path": "https://doi.org/10.1038/s41467-024-45729-7](https://doi.org/10.1038/s41467-024-45729-",
+      "FilePath": "My Extractions/Somatosensory Cortices.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1038/s41467-021-22321-x](https://doi.org/10.1038/s41467-021-22321-",
+      "Path": "https://doi.org/10.1038/s41467-021-22321-x](https://doi.org/10.1038/s41467-021-22321-",
+      "FilePath": "My Extractions/Somatosensory Cortices.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1073/pnas.96.14.7705](https://doi.org/10.1073/pnas.96.14.770",
+      "Path": "https://doi.org/10.1073/pnas.96.14.7705](https://doi.org/10.1073/pnas.96.14.770",
+      "FilePath": "My Extractions/Somatosensory Cortices.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.2139/ssrn.4029077](https://doi.org/10.2139/ssrn.402907",
+      "Path": "https://doi.org/10.2139/ssrn.4029077](https://doi.org/10.2139/ssrn.402907",
+      "FilePath": "My Extractions/Somatosensory Cortices.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1590/1516-4446-2018-0183](https://doi.org/10.1590/1516-4446-2018-018",
+      "Path": "https://doi.org/10.1590/1516-4446-2018-0183](https://doi.org/10.1590/1516-4446-2018-018",
+      "FilePath": "My Extractions/Somatosensory Cortices.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.neures.2024.01.005](https://doi.org/10.1016/j.neures.2024.01.00",
+      "Path": "https://doi.org/10.1016/j.neures.2024.01.005](https://doi.org/10.1016/j.neures.2024.01.00",
+      "FilePath": "My Extractions/Somatosensory Cortices.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1038/nrn2833](https://doi.org/10.1038/nrn283",
+      "Path": "https://doi.org/10.1038/nrn2833](https://doi.org/10.1038/nrn283",
+      "FilePath": "My Extractions/Somatosensory Cortices.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1038/s41467-025-57050-y](https://doi.org/10.1038/s41467-025-57050-",
+      "Path": "https://doi.org/10.1038/s41467-025-57050-y](https://doi.org/10.1038/s41467-025-57050-",
+      "FilePath": "My Extractions/Somatosensory Cortices.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.tics.2020.04.003](https://doi.org/10.1016/j.tics.2020.04.00",
+      "Path": "https://doi.org/10.1016/j.tics.2020.04.003](https://doi.org/10.1016/j.tics.2020.04.00",
+      "FilePath": "My Extractions/Somatosensory Cortices.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1371/journal.pone.0041929](https://doi.org/10.1371/journal.pone.004192",
+      "Path": "https://doi.org/10.1371/journal.pone.0041929](https://doi.org/10.1371/journal.pone.004192",
+      "FilePath": "My Extractions/Somatosensory Cortices.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.neuroimage.2021.117957](https://doi.org/10.1016/j.neuroimage.2021.11795",
+      "Path": "https://doi.org/10.1016/j.neuroimage.2021.117957](https://doi.org/10.1016/j.neuroimage.2021.11795",
+      "FilePath": "My Extractions/Somatosensory Cortices.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1523/jneurosci.6207-10.2011](https://doi.org/10.1523/jneurosci.6207-10.201",
+      "Path": "https://doi.org/10.1523/jneurosci.6207-10.2011](https://doi.org/10.1523/jneurosci.6207-10.201",
+      "FilePath": "My Extractions/Somatosensory Cortices.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1038/s41598-025-33046-y",
+      "Path": "https://doi.org/10.1038/s41598-025-33046-y",
+      "FilePath": "My Extractions/Quantitative assessment of human-exoskeleton integration through a neurophysiological marker of embodiment.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1145/3342197.3344529",
+      "Path": "https://doi.org/10.1145/3342197.3344529",
+      "FilePath": "My Extractions/Modeling dispositional and initial learned trust in automated vehicles with predictability and explainability.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1177/0018720814547570",
+      "Path": "https://doi.org/10.1177/0018720814547570",
+      "FilePath": "My Extractions/Modeling dispositional and initial learned trust in automated vehicles with predictability and explainability.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1109/TNSRE.2022.3229563",
+      "Path": "https://doi.org/10.1109/TNSRE.2022.3229563",
+      "FilePath": "My Extractions/Embodiment for Robotic Lower-LimbExoskeletons A Narrative Review.md",
+      "Tags": []
+    },
+    {
+      "Text": "Link",
+      "Path": "https://www.sciencedirect.com/book/edited-volume/9780128194720/trust-in-human-robot-interaction",
+      "FilePath": "My Extractions/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": []
+    },
+    {
+      "Text": "DOI",
+      "Path": "https://www.sciencedirect.com/science/article/abs/pii/S1053811914009902#:~:text=https%3A//doi.org/10.1016/j.neuroimage.2014.11.060",
+      "FilePath": "My Extractions/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": []
+    },
+    {
+      "Text": "DOI",
+      "Path": "https://www.sciencedirect.com/science/article/abs/pii/S1053811914009902#:~:text=https%3A//doi.org/10.1016/j.neuroimage.2014.11.060",
+      "FilePath": "My Extractions/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1177/0146167209359702",
+      "Path": "https://doi.org/10.1177/0146167209359702",
+      "FilePath": "My Extractions/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://psycnet.apa.org/record/1999-04371-012",
+      "Path": "https://psycnet.apa.org/record/1999-04371-012",
+      "FilePath": "My Extractions/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://global.oup.com/academic/product/the-neuropsychology-of-anxiety-9780198522713",
+      "Path": "https://global.oup.com/academic/product/the-neuropsychology-of-anxiety-9780198522713",
+      "FilePath": "My Extractions/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1177/0018720811417254",
+      "Path": "https://doi.org/10.1177/0018720811417254",
+      "FilePath": "My Extractions/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/B978-0-12-819472-0.00002-2",
+      "Path": "https://doi.org/10.1016/B978-0-12-819472-0.00002-2",
+      "FilePath": "My Extractions/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1007/978-3-319-64816-3_8",
+      "Path": "https://doi.org/10.1007/978-3-319-64816-3_8",
+      "FilePath": "My Extractions/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/B978-0-12-819472-0.00001-0",
+      "Path": "https://doi.org/10.1016/B978-0-12-819472-0.00001-0",
+      "FilePath": "My Extractions/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://archive.org/details/introductiontoso00mcdo",
+      "Path": "https://archive.org/details/introductiontoso00mcdo",
+      "FilePath": "My Extractions/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.jpsychires.2006.03.003",
+      "Path": "https://doi.org/10.1016/j.jpsychires.2006.03.003",
+      "FilePath": "My Extractions/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1207/s15327957pspr1004_3",
+      "Path": "https://doi.org/10.1207/s15327957pspr1004_3",
+      "FilePath": "My Extractions/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1007/s12559-009-9003-1",
+      "Path": "https://doi.org/10.1007/s12559-009-9003-1",
+      "FilePath": "My Extractions/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://global.oup.com/academic/product/anatomy-of-the-mind-9780190200527",
+      "Path": "https://global.oup.com/academic/product/anatomy-of-the-mind-9780190200527",
+      "FilePath": "My Extractions/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1037/a0024170",
+      "Path": "https://doi.org/10.1037/a0024170",
+      "FilePath": "My Extractions/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://www.cambridge.org/core/books/motivational-systems/8E3E98B35F2C5E0C5E1C9F6C8E9E2A9E",
+      "Path": "https://www.cambridge.org/core/books/motivational-systems/8E3E98B35F2C5E0C5E1C9F6C8E9E2A9E",
+      "FilePath": "My Extractions/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://www.cs.toronto.edu/~tyrrell/thesis/thesis.html",
+      "Path": "https://www.cs.toronto.edu/~tyrrell/thesis/thesis.html",
+      "FilePath": "My Extractions/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1109/ROMAN.2018.8525669",
+      "Path": "https://doi.org/10.1109/ROMAN.2018.8525669",
+      "FilePath": "My Extractions/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.neuroimage.2014.11.060",
+      "Path": "https://doi.org/10.1016/j.neuroimage.2014.11.060",
+      "FilePath": "My Extractions/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1007/978-3-319-09144-0_50",
+      "Path": "https://doi.org/10.1007/978-3-319-09144-0_50",
+      "FilePath": "My Extractions/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1007/978-1-4899-7668-0",
+      "Path": "https://doi.org/10.1007/978-1-4899-7668-0",
+      "FilePath": "My Extractions/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1523/jneurosci.0181-25.2025](https://doi.org/10.1523/jneurosci.0181-25.202",
+      "Path": "https://doi.org/10.1523/jneurosci.0181-25.2025](https://doi.org/10.1523/jneurosci.0181-25.202",
+      "FilePath": "Consensus/Proprioception and the Somatosensory Cortex.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1523/jneurosci.0181-25.2025](https://doi.org/10.1523/jneurosci.0181-25.202",
+      "Path": "https://doi.org/10.1523/jneurosci.0181-25.2025](https://doi.org/10.1523/jneurosci.0181-25.202",
+      "FilePath": "Consensus/Proprioception and the Somatosensory Cortex.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.neuron.2015.03.020](https://doi.org/10.1016/j.neuron.2015.03.02",
+      "Path": "https://doi.org/10.1016/j.neuron.2015.03.020](https://doi.org/10.1016/j.neuron.2015.03.02",
+      "FilePath": "Consensus/Proprioception and the Somatosensory Cortex.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1101/643205](https://doi.org/10.1101/64320",
+      "Path": "https://doi.org/10.1101/643205](https://doi.org/10.1101/64320",
+      "FilePath": "Consensus/Proprioception and the Somatosensory Cortex.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1038/s41467-023-37575-w](https://doi.org/10.1038/s41467-023-37575-",
+      "Path": "https://doi.org/10.1038/s41467-023-37575-w](https://doi.org/10.1038/s41467-023-37575-",
+      "FilePath": "Consensus/Proprioception and the Somatosensory Cortex.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1002/cphy.c170033](https://doi.org/10.1002/cphy.c17003",
+      "Path": "https://doi.org/10.1002/cphy.c170033](https://doi.org/10.1002/cphy.c17003",
+      "FilePath": "Consensus/Proprioception and the Somatosensory Cortex.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1523/jneurosci.2614-20.2021](https://doi.org/10.1523/jneurosci.2614-20.202",
+      "Path": "https://doi.org/10.1523/jneurosci.2614-20.2021](https://doi.org/10.1523/jneurosci.2614-20.202",
+      "FilePath": "Consensus/Proprioception and the Somatosensory Cortex.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1101/2024.09.23.614575](https://doi.org/10.1101/2024.09.23.61457",
+      "Path": "https://doi.org/10.1101/2024.09.23.614575](https://doi.org/10.1101/2024.09.23.61457",
+      "FilePath": "Consensus/Proprioception and the Somatosensory Cortex.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1371/journal.pone.0163948](https://doi.org/10.1371/journal.pone.016394",
+      "Path": "https://doi.org/10.1371/journal.pone.0163948](https://doi.org/10.1371/journal.pone.016394",
+      "FilePath": "Consensus/Proprioception and the Somatosensory Cortex.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1101/2020.08.06.239707](https://doi.org/10.1101/2020.08.06.23970",
+      "Path": "https://doi.org/10.1101/2020.08.06.239707](https://doi.org/10.1101/2020.08.06.23970",
+      "FilePath": "Consensus/Proprioception and the Somatosensory Cortex.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://consensus.app](https://consensus.app",
+      "Path": "https://consensus.app](https://consensus.app",
+      "FilePath": "Consensus/Body Ownership.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.cortex.2024.05.013](https://doi.org/10.1016/j.cortex.2024.05.01",
+      "Path": "https://doi.org/10.1016/j.cortex.2024.05.013](https://doi.org/10.1016/j.cortex.2024.05.01",
+      "FilePath": "Consensus/Body Ownership.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.cortex.2017.04.018](https://doi.org/10.1016/j.cortex.2017.04.01",
+      "Path": "https://doi.org/10.1016/j.cortex.2017.04.018](https://doi.org/10.1016/j.cortex.2017.04.01",
+      "FilePath": "Consensus/Body Ownership.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/b978-0-12-812492-5.00008-5](https://doi.org/10.1016/b978-0-12-812492-5.00008-",
+      "Path": "https://doi.org/10.1016/b978-0-12-812492-5.00008-5](https://doi.org/10.1016/b978-0-12-812492-5.00008-",
+      "FilePath": "Consensus/Body Ownership.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1109/tvcg.2018.2794629](https://doi.org/10.1109/tvcg.2018.279462",
+      "Path": "https://doi.org/10.1109/tvcg.2018.2794629](https://doi.org/10.1109/tvcg.2018.279462",
+      "FilePath": "Consensus/Body Ownership.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.7554/elife.77221](https://doi.org/10.7554/elife.7722",
+      "Path": "https://doi.org/10.7554/elife.77221](https://doi.org/10.7554/elife.7722",
+      "FilePath": "Consensus/Body Ownership.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.cognition.2023.105697](https://doi.org/10.1016/j.cognition.2023.10569",
+      "Path": "https://doi.org/10.1016/j.cognition.2023.105697](https://doi.org/10.1016/j.cognition.2023.10569",
+      "FilePath": "Consensus/Body Ownership.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.3389/fnhum.2025.1663505](https://doi.org/10.3389/fnhum.2025.166350",
+      "Path": "https://doi.org/10.3389/fnhum.2025.1663505](https://doi.org/10.3389/fnhum.2025.166350",
+      "FilePath": "Consensus/Body Ownership.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1038/s41598-020-62394-0](https://doi.org/10.1038/s41598-020-62394-",
+      "Path": "https://doi.org/10.1038/s41598-020-62394-0](https://doi.org/10.1038/s41598-020-62394-",
+      "FilePath": "Consensus/Body Ownership.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1111/jopy.12663",
+      "Path": "https://doi.org/10.1111/jopy.12663",
+      "FilePath": "3-Steven's_Law/stevens_law_error_perception.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.69645/dhnf1794",
+      "Path": "https://doi.org/10.69645/dhnf1794",
+      "FilePath": "3-Steven's_Law/stevens_law_error_perception.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.31234/osf.io/vebtm",
+      "Path": "https://doi.org/10.31234/osf.io/vebtm",
+      "FilePath": "3-Steven's_Law/stevens_law_error_perception.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1186/s40359-023-01056-y",
+      "Path": "https://doi.org/10.1186/s40359-023-01056-y",
+      "FilePath": "3-Steven's_Law/stevens_law_error_perception.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1002/per.2229",
+      "Path": "https://doi.org/10.1002/per.2229",
+      "FilePath": "3-Steven's_Law/stevens_law_error_perception.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.paid.2025.113163",
+      "Path": "https://doi.org/10.1016/j.paid.2025.113163",
+      "FilePath": "3-Steven's_Law/stevens_law_error_perception.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1111/jopy.12683",
+      "Path": "https://doi.org/10.1111/jopy.12683",
+      "FilePath": "3-Steven's_Law/stevens_law_error_perception.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.paid.2018.01.048",
+      "Path": "https://doi.org/10.1016/j.paid.2018.01.048",
+      "FilePath": "3-Steven's_Law/stevens_law_error_perception.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1177/0731121419863785",
+      "Path": "https://doi.org/10.1177/0731121419863785",
+      "FilePath": "3-Steven's_Law/stevens_law_error_perception.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1177/1745691620903019",
+      "Path": "https://doi.org/10.1177/1745691620903019",
+      "FilePath": "3-Steven's_Law/stevens_law_error_perception.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1037/trm0000595",
+      "Path": "https://doi.org/10.1037/trm0000595",
+      "FilePath": "3-Steven's_Law/stevens_law_error_perception.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.paid.2016.06.069",
+      "Path": "https://doi.org/10.1016/j.paid.2016.06.069",
+      "FilePath": "3-Steven's_Law/stevens_law_error_perception.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.aap.2023.106968",
+      "Path": "https://doi.org/10.1016/j.aap.2023.106968",
+      "FilePath": "3-Steven's_Law/stevens_law_error_perception.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1111/jopy.70021",
+      "Path": "https://doi.org/10.1111/jopy.70021",
+      "FilePath": "3-Steven's_Law/stevens_law_error_perception.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.joep.2022.102570",
+      "Path": "https://doi.org/10.1016/j.joep.2022.102570",
+      "FilePath": "3-Steven's_Law/stevens_law_error_perception.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1177/08902070211026793",
+      "Path": "https://doi.org/10.1177/08902070211026793",
+      "FilePath": "3-Steven's_Law/stevens_law_error_perception.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1037/h0025267",
+      "Path": "https://doi.org/10.1037/h0025267",
+      "FilePath": "3-Steven's_Law/stevens_law_error_perception.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1002/per.2259",
+      "Path": "https://doi.org/10.1002/per.2259",
+      "FilePath": "3-Steven's_Law/stevens_law_error_perception.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1007/s13394-025-00533-4",
+      "Path": "https://doi.org/10.1007/s13394-025-00533-4",
+      "FilePath": "3-Steven's_Law/stevens_law_error_perception.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1103/physreve.111.055402",
+      "Path": "https://doi.org/10.1103/physreve.111.055402",
+      "FilePath": "3-Steven's_Law/stevens_law_error_perception.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.22331/q-2021-09-09-539",
+      "Path": "https://doi.org/10.22331/q-2021-09-09-539",
+      "FilePath": "3-Steven's_Law/ Fisher_information.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1088/1361-6633/ade453",
+      "Path": "https://doi.org/10.1088/1361-6633/ade453",
+      "FilePath": "3-Steven's_Law/ Fisher_information.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1162/neco_a_00804",
+      "Path": "https://doi.org/10.1162/neco_a_00804",
+      "FilePath": "3-Steven's_Law/ Fisher_information.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1103/physrevlett.127.200402",
+      "Path": "https://doi.org/10.1103/physrevlett.127.200402",
+      "FilePath": "3-Steven's_Law/ Fisher_information.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.jmp.2017.05.006",
+      "Path": "https://doi.org/10.1016/j.jmp.2017.05.006",
+      "FilePath": "3-Steven's_Law/ Fisher_information.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.ecolmodel.2005.11.011",
+      "Path": "https://doi.org/10.1016/j.ecolmodel.2005.11.011",
+      "FilePath": "3-Steven's_Law/ Fisher_information.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://brill.com/view/journals/msr/29/8/article-p679_1.xml",
+      "Path": "https://brill.com/view/journals/msr/29/8/article-p679_1.xml",
+      "FilePath": "2-weber_based_model/temporal_sharpness_bigFive_mapping.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1109/tcds.2021.3049907",
+      "Path": "https://doi.org/10.1109/tcds.2021.3049907",
+      "FilePath": "2-weber_based_model/human_senssorimotor_error_perception_model_simple.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1038/s41467-024-46249-0",
+      "Path": "https://doi.org/10.1038/s41467-024-46249-0",
+      "FilePath": "2-weber_based_model/human_senssorimotor_error_perception_model_simple.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.3389/frobt.2025.1598296",
+      "Path": "https://doi.org/10.3389/frobt.2025.1598296",
+      "FilePath": "2-weber_based_model/human_senssorimotor_error_perception_model_simple.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1093/scan/nsr025",
+      "Path": "https://doi.org/10.1093/scan/nsr025",
+      "FilePath": "2-weber_based_model/human_senssorimotor_error_perception_model_simple.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1007/s12369-018-0501-8",
+      "Path": "https://doi.org/10.1007/s12369-018-0501-8",
+      "FilePath": "2-weber_based_model/human_senssorimotor_error_perception_model_simple.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1109/TOH.2022.3219031",
+      "Path": "https://doi.org/10.1109/TOH.2022.3219031",
+      "FilePath": "2-weber_based_model/human_senssorimotor_error_perception_model_complex.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.3390/robotics13070097",
+      "Path": "https://doi.org/10.3390/robotics13070097",
+      "FilePath": "2-weber_based_model/human_senssorimotor_error_perception_model_complex.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1109/TOH.2023.3286306",
+      "Path": "https://doi.org/10.1109/TOH.2023.3286306",
+      "FilePath": "2-weber_based_model/human_senssorimotor_error_perception_model_complex.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.3390/robotics13070097",
+      "Path": "https://doi.org/10.3390/robotics13070097",
+      "FilePath": "2-weber_based_model/human_senssorimotor_error_perception_model_complex.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1109/TNSRE.2022.3162213",
+      "Path": "https://doi.org/10.1109/TNSRE.2022.3162213",
+      "FilePath": "2-weber_based_model/human_senssorimotor_error_perception_model_complex.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.3389/fpsyg.2020.568256",
+      "Path": "https://doi.org/10.3389/fpsyg.2020.568256",
+      "FilePath": "1-General_trust_model/BigFivePersonalityTraits_to_Trust.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1016/j.heliyon.2020.e04572",
+      "Path": "https://doi.org/10.1016/j.heliyon.2020.e04572",
+      "FilePath": "1-General_trust_model/BigFivePersonalityTraits_to_Trust.md",
+      "Tags": []
+    },
+    {
+      "Text": "https://doi.org/10.1556/2006.2022.00093.",
+      "Path": "https://doi.org/10.1556/2006.2022.00093.",
+      "FilePath": "1-General_trust_model/BigFivePersonalityTraits_to_Trust.md",
+      "Tags": []
+    }
+  ]
+}

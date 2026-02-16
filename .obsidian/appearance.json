@@ -1,0 +1,10 @@
+{
+  "accentColor": "#5ce6f0",
+  "baseFontSizeAction": true,
+  "translucency": false,
+  "enabledCssSnippets": [
+    "appearance"
+  ],
+  "baseFontSize": 24,
+  "theme": "moonstone"
+}

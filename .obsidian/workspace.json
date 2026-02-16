@@ -1,0 +1,577 @@
+{
+  "main": {
+    "id": "d02085835097621f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d718fb205c3ef673",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0d31cdf5159c506",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Extractions/Cognitive Therapy of Anxiety Disorders.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cognitive Therapy of Anxiety Disorders"
+            }
+          },
+          {
+            "id": "7e8efd2303ffa26b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Experiment and Controller Design.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Experiment and Controller Design"
+            }
+          },
+          {
+            "id": "a5e96958558e3dae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Extractions/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction"
+            }
+          },
+          {
+            "id": "cdcd5b1fe431a922",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Extractions/Consensus/Perception vs Neuroception Anxiety.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Perception vs Neuroception Anxiety"
+            }
+          },
+          {
+            "id": "40e5fb3931781000",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Defining Anxiety as the Proxy of Trust.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Defining Anxiety as the Proxy of Trust"
+            }
+          },
+          {
+            "id": "3063df0dca127dd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Qs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Qs"
+            }
+          },
+          {
+            "id": "8e253b25a5eaeb2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Defining Anxiety as the Proxy of Trust - Slides.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Defining Anxiety as the Proxy of Trust - Slides"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c874e8da044cef56",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d5e6bceba974e79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95310bda33e43ec0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fcbe06fd70e9b158",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "worklo",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e7574cd601b48704",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
+          },
+          {
+            "id": "aa37e92b36d18762",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7a8a17e81fb912c3",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
+          },
+          {
+            "id": "9bf45ee46ab613d4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 358.5
+  },
+  "right": {
+    "id": "fe52b97a82c85564",
+    "type": "split",
+    "children": [
+      {
+        "id": "92b39d0c84942ecf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "784d7b3a27d2518c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TagSummaries/Target word 'anxiety or fear or stress or threat'.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Target word 'anxiety or fear or stress or threat'"
+            }
+          },
+          {
+            "id": "191b13d8e2e90289",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TagSummaries/Target word 'anxiety or fear or stress or threat'.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Target word 'anxiety or fear or stress or threat'"
+            }
+          },
+          {
+            "id": "f7b09ff2e56d05f5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "cac5796982aeb3da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TagSummaries/Target word 'anxiety or fear or stress or threat'.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Target word 'anxiety or fear or stress or threat'"
+            }
+          },
+          {
+            "id": "b1c37ee9740a1985",
+            "type": "leaf",
+            "state": {
+              "type": "external-link-viewer",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "External Link Viewer"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "fea003fccc889010",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47e9d877cb2cb7f3",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator-calendar",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 212.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "css-editor:Open CSS editor quick switcher": false,
+      "obsidian-extlnkhelper-plugin:Search External Links": false,
+      "notebook-navigator:Notebook Navigator": false,
+      "workspaces:Manage workspace layouts": false,
+      "obisidian-note-linker:Note Linker": false,
+      "export-graph-view:Export graph view": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "tags-routes:Open tags routes": false
+    }
+  },
+  "floating": {
+    "id": "9e2c93585e1ee5e7",
+    "type": "floating",
+    "children": [
+      {
+        "id": "4c85d763385354d1",
+        "type": "window",
+        "children": [
+          {
+            "id": "209383c640b44175",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5a10ac142d44b778",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Defining Anxiety as the Proxy of Trust.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Defining Anxiety as the Proxy of Trust"
+                }
+              },
+              {
+                "id": "a72402fed988f1e1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "AI Extractions/Consensus/Appraisal-based definition and Components of the Appraisal Process of anxiety.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Appraisal-based definition and Components of the Appraisal Process of anxiety"
+                }
+              },
+              {
+                "id": "c59777022e678235",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Experiment and Controller Design.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Experiment and Controller Design"
+                }
+              },
+              {
+                "id": "77e1fc8bdac6f0ba",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "AI Extractions/Consensus/Anxiety Definition.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Anxiety Definition"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "vertical",
+        "x": 1810,
+        "y": 161,
+        "width": 1180,
+        "height": 789,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "8e253b25a5eaeb2d",
+  "lastOpenFiles": [
+    "AI Extractions/Consensus/Anxiety Definition.md",
+    "AI Extractions/our_conversation_20260213_041044.md",
+    "AI Extractions/unrelated to everything.md",
+    "graphs/2026-02-13_11-50-39.svg",
+    "graphs/2026-02-13_04-14-32.svg",
+    "graphs",
+    "Defining Anxiety as the Proxy of Trust.md",
+    "Codes/attempt_1/graphs/2026-02-12_22-02-02.npz",
+    "graphs/2026-02-12_22-02-39.svg",
+    "graphs/2026-02-12_22-02-39.npz",
+    "Codes/attempt_1/2026-02-12_22-02-02.npz",
+    "graphs/2026-02-12_22-02-02.npz",
+    "graphs/2026-02-12_22-02-02.svg",
+    "Codes/attempt_1/graphs/2026-02-12_22-00-15.svg",
+    "Codes/attempt_1/graphs/2026-02-12_22-00-15.npz",
+    "graphs/2026-02-12_22-00-15.svg",
+    "graphs/2026-02-12_22-00-15.npz",
+    "Codes/attempt_1/replay_graph.py",
+    "Codes/attempt_1/graphs/2026-02-12_21-54-54.svg",
+    "Codes/attempt_1/graphs/graphs/2026-02-12_21-54-54.svg",
+    "Codes/attempt_1/graphs/graphs",
+    "graphs/2026-02-12_21-54-54.svg",
+    "Codes/attempt_1/graphs/2026-02-12_21-52-31.svg",
+    "Codes/attempt_1/graphs",
+    "AI Extractions/Consensus/Perception vs Neuroception Anxiety.md",
+    "Defining Anxiety as the Proxy of Trust - Slides.md",
+    "My Extractions/Cognitive Therapy of Anxiety Disorders.md",
+    "Experiment and Controller Design.md",
+    "Qs.md",
+    "templates/tpl-footer.md",
+    "AI Extractions/Consensus/Cognitive and Affective Trust in Wearable Robots.md",
+    "My Extractions/Human–Robot Interactions A Pilot Study of Psychoaffective and Cognitive Factors to Boost the Acceptance and Usability of Assistive Wearable Devices.md",
+    "AI Extractions/Consensus/State Anxiety Roots in the Brain.md",
+    "AI Extractions/GSR measurement devices.md",
+    "AI Extractions/Consensus/Anxiety and Proprioception.md",
+    "My Extractions/The Altered Somatic Brain Network in State Anxiety.md",
+    "My Extractions/Modeling dispositional and initial learned trust in automated vehicles with predictability and explainability.md",
+    "AI Extractions/Google/Polyvagal Theory.md",
+    "AI Extractions/Affective computing Objective measurements.md",
+    "AI Extractions/Consensus/Trust Bio in Brain.md",
+    "AI Extractions/Consensus/Appraisal-based definition and Components of the Appraisal Process of anxiety.md",
+    "TagSummaries/Target word 'bio or somatosensory_cortex or neurotransmitters or insula or amygdala or SNS or cortisol or cortesis or cortex or cerebellum or BNST or DAN or FPN or DMN or salience or somatic'.md",
+    "Scripts/UpdateSummaries.md",
+    "TagSummaries/KeyTags.md",
+    "TagSummaries/Target word 'cognitive or perception'.md",
+    "TagSummaries/Target word 'somatosensory_cortex or gyrus or frontal lobe or M1 or M2 or norepinephrine or adrenaline or amygdala or bio or insula'.md",
+    "Untitled 1.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled.canvas"
+  ]
+}
