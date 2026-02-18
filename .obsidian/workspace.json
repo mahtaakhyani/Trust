@@ -58,36 +58,12 @@
             }
           },
           {
-            "id": "a5e96958558e3dae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Extractions/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction"
-            }
-          },
-          {
             "id": "cdcd5b1fe431a922",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Extractions/Consensus/Perception vs Neuroception Anxiety.md",
+                "file": "Generated/The Critical Role of Anxiety in Wearable Robot Acceptance and Performance.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -102,37 +78,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Perception vs Neuroception Anxiety"
+              "title": "The Critical Role of Anxiety in Wearable Robot Acceptance and Performance"
             }
           },
           {
-            "id": "40e5fb3931781000",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Defining Anxiety as the Proxy of Trust.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Defining Anxiety as the Proxy of Trust"
-            }
-          },
-          {
-            "id": "3063df0dca127dd7",
+            "id": "daea3e1b6444cf44",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,12 +106,12 @@
             }
           },
           {
-            "id": "8e253b25a5eaeb2d",
+            "id": "61361e50461718ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Defining Anxiety as the Proxy of Trust - Slides.md",
+                "file": "Modeling/Human Psychology.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -176,11 +126,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Defining Anxiety as the Proxy of Trust - Slides"
+              "title": "Human Psychology"
+            }
+          },
+          {
+            "id": "f0d77f3918fd9d38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TagsRoutes/reports/TagReport_#somatosensory_cortex.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TagReport_#somatosensory_cortex"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -394,7 +368,8 @@
       "obisidian-note-linker:Note Linker": false,
       "export-graph-view:Export graph view": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "tags-routes:Open tags routes": false
+      "tags-routes:Open tags routes": false,
+      "vscode-editor:Create Code File": false
     }
   },
   "floating": {
@@ -402,15 +377,25 @@
     "type": "floating",
     "children": [
       {
-        "id": "4c85d763385354d1",
+        "id": "fd7b287bbf99b2e3",
         "type": "window",
         "children": [
           {
-            "id": "209383c640b44175",
+            "id": "123f0fe68bfdf7e4",
             "type": "tabs",
             "children": [
               {
-                "id": "5a10ac142d44b778",
+                "id": "145f96ccb175c983",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              },
+              {
+                "id": "40e5fb3931781000",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -434,141 +419,69 @@
                   "icon": "lucide-file",
                   "title": "Defining Anxiety as the Proxy of Trust"
                 }
-              },
-              {
-                "id": "a72402fed988f1e1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "AI Extractions/Consensus/Appraisal-based definition and Components of the Appraisal Process of anxiety.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Appraisal-based definition and Components of the Appraisal Process of anxiety"
-                }
-              },
-              {
-                "id": "c59777022e678235",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Experiment and Controller Design.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Experiment and Controller Design"
-                }
-              },
-              {
-                "id": "77e1fc8bdac6f0ba",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "AI Extractions/Consensus/Anxiety Definition.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Anxiety Definition"
-                }
               }
             ],
-            "currentTab": 3
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 1810,
-        "y": 161,
-        "width": 1180,
+        "x": 1819,
+        "y": 290,
+        "width": 1037,
         "height": 789,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "8e253b25a5eaeb2d",
+  "active": "61361e50461718ff",
   "lastOpenFiles": [
+    "Models/simulated actrphi human/server.py",
+    "Models/simulated actrphi human/__pycache__/human.cpython-314.pyc",
+    "Models/simulated actrphi human/__pycache__",
+    "Models/simulated actrphi human/README.md",
+    "Models/simulated actrphi human/config.example.json",
+    "Models/simulated actrphi human/human.py",
+    "Models/simulated actrphi human",
+    "Modeling/act-r_phi/user-loads/Docs/Context/Traits/Traits-Adiposity/MorbidlyObese.DOCS",
+    "Modeling/act-r_phi/user-loads/Structure/AminoAcid/TissueH2O/LymphWater/Torso_Upper_LymphWater.DES",
+    "Modeling/act-r_phi/user-loads/Structure/AminoAcid/TissueH2O/LymphWater/Torso_Lower_LymphWater.DES",
+    "Modeling/act-r_phi/user-loads/Structure/AminoAcid/TissueH2O/LymphWater/Torso_Middle_LymphWater.DES",
+    "Modeling/act-r_phi/user-loads/Structure/AminoAcid/TissueH2O/LymphWater/LymphWater.DES",
+    "Modeling/act-r_phi/environment/GUI/dialogs/what.gif",
+    "Modeling/act-r_phi/environment/GUI/dialogs/smalllogo.gif",
+    "Modeling/act-r_phi/environment/GUI/dialogs/ref-brain.gif",
+    "Modeling/act-r_phi/environment/GUI/AGI-images/ref-brain.gif",
+    "Modeling/act-r_phi/environment/GUI/AGI-images/smalllogo.gif",
+    "Modeling/act-r_phi/environment/GUI/logo.gif",
+    "Modeling/act-r_phi/README.md",
+    "Models/act-r_phi/environment/GUI/dialogs/smalllogo.gif",
+    "Models/act-r_phi/environment/GUI/dialogs/what.gif",
+    "Models/act-r_phi/environment/GUI/dialogs/ref-brain.gif",
+    "Models/act-r_phi/environment/GUI/AGI-images/ref-brain.gif",
+    "Models/act-r_phi/README.md",
+    "Modeling/Human Physiology.md",
+    "Modeling/Human Psychology.md",
+    "AI Extractions/Google/CC-POMCP.md",
+    "AI Extractions/Consensus/Dynamic Bayesian Network (DBN)-based trust model.md",
+    "To Read About.md",
+    "Defining Anxiety as the Proxy of Trust.md",
+    "Defining Anxiety as the Proxy of Trust - Slides.md",
+    "AI Extractions/Google/Threat cues - LFN.md",
+    "Qs.md",
+    "AI Extractions/Consensus/Perception vs Neuroception Anxiety.md",
+    "TagSummaries/Target word 'somatosensory_cortex and anxiety or proprioception'.md",
+    "TagSummaries/Target word 'somatosensory_cortex or gyrus or frontal lobe or M1 or M2 or norepinephrine or adrenaline or amygdala or bio or insula'.md",
+    "TagsRoutes/reports/TagReport_#somatosensory_cortex.md",
+    "TagsRoutes/reports/TagReport_#Sensory_Processing__somatosensory_cortex.md",
+    "AI Extractions/Consensus/Interoception.md",
+    "Generated/The Critical Role of Anxiety in Wearable Robot Acceptance and Performance.md",
+    "My Extractions/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
     "AI Extractions/Consensus/Anxiety Definition.md",
     "AI Extractions/our_conversation_20260213_041044.md",
     "AI Extractions/unrelated to everything.md",
-    "graphs/2026-02-13_11-50-39.svg",
-    "graphs/2026-02-13_04-14-32.svg",
-    "graphs",
-    "Defining Anxiety as the Proxy of Trust.md",
-    "Codes/attempt_1/graphs/2026-02-12_22-02-02.npz",
-    "graphs/2026-02-12_22-02-39.svg",
-    "graphs/2026-02-12_22-02-39.npz",
-    "Codes/attempt_1/2026-02-12_22-02-02.npz",
-    "graphs/2026-02-12_22-02-02.npz",
-    "graphs/2026-02-12_22-02-02.svg",
-    "Codes/attempt_1/graphs/2026-02-12_22-00-15.svg",
-    "Codes/attempt_1/graphs/2026-02-12_22-00-15.npz",
-    "graphs/2026-02-12_22-00-15.svg",
-    "graphs/2026-02-12_22-00-15.npz",
-    "Codes/attempt_1/replay_graph.py",
-    "Codes/attempt_1/graphs/2026-02-12_21-54-54.svg",
-    "Codes/attempt_1/graphs/graphs/2026-02-12_21-54-54.svg",
-    "Codes/attempt_1/graphs/graphs",
-    "graphs/2026-02-12_21-54-54.svg",
-    "Codes/attempt_1/graphs/2026-02-12_21-52-31.svg",
-    "Codes/attempt_1/graphs",
-    "AI Extractions/Consensus/Perception vs Neuroception Anxiety.md",
-    "Defining Anxiety as the Proxy of Trust - Slides.md",
     "My Extractions/Cognitive Therapy of Anxiety Disorders.md",
     "Experiment and Controller Design.md",
-    "Qs.md",
-    "templates/tpl-footer.md",
-    "AI Extractions/Consensus/Cognitive and Affective Trust in Wearable Robots.md",
-    "My Extractions/Human–Robot Interactions A Pilot Study of Psychoaffective and Cognitive Factors to Boost the Acceptance and Usability of Assistive Wearable Devices.md",
-    "AI Extractions/Consensus/State Anxiety Roots in the Brain.md",
-    "AI Extractions/GSR measurement devices.md",
-    "AI Extractions/Consensus/Anxiety and Proprioception.md",
-    "My Extractions/The Altered Somatic Brain Network in State Anxiety.md",
-    "My Extractions/Modeling dispositional and initial learned trust in automated vehicles with predictability and explainability.md",
-    "AI Extractions/Google/Polyvagal Theory.md",
-    "AI Extractions/Affective computing Objective measurements.md",
-    "AI Extractions/Consensus/Trust Bio in Brain.md",
-    "AI Extractions/Consensus/Appraisal-based definition and Components of the Appraisal Process of anxiety.md",
-    "TagSummaries/Target word 'bio or somatosensory_cortex or neurotransmitters or insula or amygdala or SNS or cortisol or cortesis or cortex or cerebellum or BNST or DAN or FPN or DMN or salience or somatic'.md",
-    "Scripts/UpdateSummaries.md",
-    "TagSummaries/KeyTags.md",
-    "TagSummaries/Target word 'cognitive or perception'.md",
-    "TagSummaries/Target word 'somatosensory_cortex or gyrus or frontal lobe or M1 or M2 or norepinephrine or adrenaline or amygdala or bio or insula'.md",
     "Untitled 1.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",

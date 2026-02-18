@@ -26,6 +26,14 @@ Consequently, we can assume that the internal model defined in FEP, is constantl
 Advanced appraisal activates specific brain areas—the medial prefrontal cortex and anterior cingulate cortex (ACC) —when we anticipate something anxiety-provoking.
 Interestingly, individual differences in the tendency to trust (self-report and behaviorally) would be associated with gray matter volume within the vmPFC (a specific subregion of prefrontal cortex), amygdala and anterior insula ([[Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction#^tr-5xflpo6il]]).
 
+Overall schematics:
+![[Pasted image 20260216235126.png]]
+
+![[Pasted image 20260216234840.png]]
+
+[Based on this](https://www.google.com/search?q=&sourceid=chrome&ie=UTF-8&udm=50&aep=48&cud=0&qsubts=1771249052245&source=chrome.crn.obic&mstk=AUtExfCQZBLpJBLj2E2vd1CsdEF7DSUJwXKesNxNbArSA5r_YzQzhT2c8P46gXnEmWLdHil3SJNzlFdxxOQa0laI3Mh_PsJphp0PYox2Z63ZUG-RDcIPyJ1HYPvtYSkq07x5XajIpGqtVxCWZFTAql-U8PmHNofb7Qzio8--0YsCrcxjdoEAW6HiS2Xhy9ntkfGg6E2p9hAmLdE5hBvVMj4MeNHfOHtEyPxR46O7D2eXR-b1zfZZLY7ldW7u2kqOjGl3WdTCEw87X6MFQzEJGhJiS76VZzzJkD90ASGY8apHpwXbyCp95d9xVQhBJbcYxq9F4mZbgiljoDShLA&csuir=1&mtid=nx2TaZjdOLKFwbkP9eOs4QI&lns_mode=cvst) 
+(so, any trust, moves from the filter of subconscious first. so, if a threat signal, we lose our shot at developing trust at first, especially if minimum priors exist. but if safety signals keep coming, making heavier cognitive safety in the cortex, then it will eventually volume down the neuro and interoception [](https://www.google.com/search?q=can+we+trust+something+that+neuroception%2Binteroception+of+our+body+detect+as+threat+%28but+may+or+may+not+the+cortex+see+it+that+way%29&sourceid=chrome&ie=UTF-8&udm=50&aep=48&cud=0&qsubts=1771253548070&source=chrome.crn.obic&mstk=AUtExfBT4GpZw8FP30t-HBy6LEbxdvelkbFG8zNvscTK4gYyuI2-5jgc0F_dCDDp7J2qOxC7xsg6tk7XLEJVqdNfcPOeYHrmxiOnnwDp9qkIt5dgzuX5Tx0yNYeZhWsUv-xPu8IZVUGQGik-lkcmSoY19dFMJWt_fjfdfr0drDbTqCLs9uXf3gzOKh8upTpHNVHnMxmaHmrXFzpKi82V_GiSBh0cXj8uRiZBd6BrAnvJi649nMBqiW3HoXIACTQXJrpti4xjB_IPhTwd9buBNd3B2Ti68t4Ranb-_lk&csuir=1&mtid=Zy-Tab65GdOawbkPhc6ryAo))
+
 #### How does this relate to trust?
 As referenced in trust in HRI literature, trust is usually easy to lose and difficult to gain, especially when the situation is unfamiliar and fewer priors exist [Kopp, T, 2024](https://doi.org/10.1007/s12369-023-01082-1). Trust is constantly updated based on new observations that may or may not match the prior expectations. 
 

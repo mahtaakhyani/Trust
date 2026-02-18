@@ -4,7 +4,7 @@
       "replaced": "->",
       "value": "→",
       "group": "Arrows",
-      "count": 3
+      "count": 6
     },
     "<-": {
       "replaced": "<-",
@@ -236,9 +236,9 @@
     },
     "gamma": {
       "replaced": "gamma",
-      "value": "γ",
+      "value": "$\\gamma$",
       "group": "Greek Letters",
-      "count": 1
+      "count": 6
     },
     "epsilon": {
       "replaced": "epsilon",
@@ -307,6 +307,26 @@
       "value": "❗️ ",
       "disabled": false,
       "group": "Miscellaneous"
+    },
+    "omega": {
+      "replaced": "omega",
+      "value": "$\\omega$",
+      "disabled": false,
+      "group": "Greek Letters",
+      "count": 1
+    },
+    "Omega": {
+      "replaced": "Omega",
+      "value": "$\\Omega$",
+      "disabled": false,
+      "group": "Greek Letters"
+    },
+    "infinity": {
+      "replaced": "infinity",
+      "value": "$\\infty$",
+      "disabled": false,
+      "group": "Greek Letters",
+      "count": 1
     }
   },
   "exclusions": [],

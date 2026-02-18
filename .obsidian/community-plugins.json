@@ -12,5 +12,8 @@
   "obsidian-version-history-diff",
   "graph-nested-tags",
   "export-graph-view",
-  "obsidian-advanced-slides"
+  "obsidian-advanced-slides",
+  "execute-code",
+  "vscode-editor",
+  "codeblock-customizer"
 ]

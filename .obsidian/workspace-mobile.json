@@ -11,24 +11,12 @@
             "id": "39523ca4f4f5c920",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "AI Extractions/unrelated to everything.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "graph-screenshot/graph-screenshot-2026-02-05-20-10-10.png"
               },
-              "icon": "lucide-file",
-              "title": "unrelated to everything"
+              "icon": "lucide-image",
+              "title": "graph-screenshot-2026-02-05-20-10-10"
             }
           }
         ]
@@ -207,6 +195,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "vscode-editor:Create Code File": false,
       "workspaces:Manage workspace layouts": false,
       "notebook-navigator:Notebook Navigator": false,
       "export-graph-view:Export graph view": false,
@@ -224,6 +213,9 @@
   },
   "active": "39523ca4f4f5c920",
   "lastOpenFiles": [
+    "graph-screenshot/graph-screenshot-2026-02-05-18-07-15.png",
+    "graph-screenshot/graph-screenshot-2026-02-05-20-10-10.png",
+    "AI Extractions/unrelated to everything.md",
     "Defining Anxiety as the Proxy of Trust.md",
     "Sensory Perceptions/perceived_risk_and_safety.md",
     "Consensus/Anxiety and Proprioception.md",
