@@ -1,0 +1,65 @@
+<svg viewBox="0 0 720 240" xmlns="http://www.w3.org/2000/svg" font-family="sans-serif">
+  <defs>
+    <marker id="arr" markerWidth="8" markerHeight="8" refX="7" refY="3.5" orient="auto">
+      <polygon points="0 0, 8 3.5, 0 7" fill="#555"/>
+    </marker>
+    <marker id="arr2" markerWidth="8" markerHeight="8" refX="7" refY="3.5" orient="auto">
+      <polygon points="0 0, 8 3.5, 0 7" fill="#aaa"/>
+    </marker>
+  </defs>
+
+  <!-- Boxes Row 1 -->
+  <rect x="10" y="90" width="110" height="48" rx="6" fill="#dce8f7" stroke="#666" stroke-width="1.3"/>
+  <text x="65" y="111" text-anchor="middle" font-size="11" font-weight="bold">Simulation</text>
+  <text x="65" y="126" text-anchor="middle" font-size="9.5" fill="#555">1-DOF hip joint</text>
+
+  <rect x="155" y="90" width="110" height="48" rx="6" fill="#fde8cc" stroke="#666" stroke-width="1.3"/>
+  <text x="210" y="111" text-anchor="middle" font-size="11" font-weight="bold">Mismatch</text>
+  <text x="210" y="126" text-anchor="middle" font-size="9.5" fill="#555">lag / error / perturb</text>
+
+  <rect x="300" y="90" width="120" height="48" rx="6" fill="#fdf5cc" stroke="#666" stroke-width="1.3"/>
+  <text x="360" y="111" text-anchor="middle" font-size="11" font-weight="bold">Anxiety Model</text>
+  <text x="360" y="126" text-anchor="middle" font-size="9.5" fill="#555">A(t) accumulation</text>
+
+  <rect x="455" y="90" width="110" height="48" rx="6" fill="#d9f0d9" stroke="#666" stroke-width="1.3"/>
+  <text x="510" y="111" text-anchor="middle" font-size="11" font-weight="bold">POMDP</text>
+  <text x="510" y="126" text-anchor="middle" font-size="9.5" fill="#555">belief → policy</text>
+
+  <!-- Top right -->
+  <rect x="455" y="18" width="110" height="42" rx="6" fill="#f7dcdc" stroke="#666" stroke-width="1.3"/>
+  <text x="510" y="36" text-anchor="middle" font-size="11" font-weight="bold">Embodiment</text>
+  <text x="510" y="51" text-anchor="middle" font-size="9.5" fill="#555">agency + integration</text>
+
+  <rect x="600" y="18" width="90" height="42" rx="6" fill="#f7dcdc" stroke="#666" stroke-width="1.3"/>
+  <text x="645" y="43" text-anchor="middle" font-size="11" font-weight="bold">Trust</text>
+
+  <!-- Immunization -->
+  <rect x="300" y="175" width="120" height="42" rx="6" fill="#ead9f5" stroke="#666" stroke-width="1.3"/>
+  <text x="360" y="194" text-anchor="middle" font-size="11" font-weight="bold">Immunization</text>
+  <text x="360" y="208" text-anchor="middle" font-size="9.5" fill="#555">escapable failures</text>
+
+  <!-- Row 1 arrows -->
+  <line x1="120" y1="114" x2="154" y2="114" stroke="#555" stroke-width="1.3" marker-end="url(#arr)"/>
+  <line x1="265" y1="114" x2="299" y2="114" stroke="#555" stroke-width="1.3" marker-end="url(#arr)"/>
+  <line x1="420" y1="114" x2="454" y2="114" stroke="#555" stroke-width="1.3" marker-end="url(#arr)"/>
+  <text x="437" y="108" text-anchor="middle" font-size="9" fill="#666">anxiety est.</text>
+
+  <!-- POMDP → Sim feedback loop (top curve) -->
+  <path d="M510 90 C510 55, 65 55, 65 90" stroke="#555" stroke-width="1.3" fill="none" marker-end="url(#arr)"/>
+  <text x="290" y="48" text-anchor="middle" font-size="9" fill="#666">assistance level</text>
+
+  <!-- Anxiety → Embodiment -->
+  <line x1="390" y1="90" x2="454" y2="55" stroke="#555" stroke-width="1.3" marker-end="url(#arr)"/>
+  <text x="405" y="64" text-anchor="middle" font-size="9" fill="#666">anxiety ↑ → embodiment ↓</text>
+
+  <!-- Embodiment → Trust -->
+  <line x1="565" y1="39" x2="599" y2="39" stroke="#555" stroke-width="1.3" marker-end="url(#arr)"/>
+
+  <!-- Immunization → Anxiety Model -->
+  <line x1="360" y1="175" x2="360" y2="139" stroke="#555" stroke-width="1.3" marker-end="url(#arr)"/>
+  <text x="388" y="160" text-anchor="middle" font-size="9" fill="#666">reduces wᵢ</text>
+
+  <!-- Mismatch → Immunization (dashed) -->
+  <path d="M210 138 C210 175, 300 185, 300 190" stroke="#aaa" stroke-width="1.1" fill="none" stroke-dasharray="4,3" marker-end="url(#arr2)"/>
+  <text x="238" y="178" text-anchor="middle" font-size="9" fill="#aaa">training input</text>
+</svg>

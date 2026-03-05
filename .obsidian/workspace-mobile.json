@@ -11,12 +11,12 @@
             "id": "39523ca4f4f5c920",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "graph-screenshot/graph-screenshot-2026-02-05-20-10-10.png"
+                "file": "Papers/Quantitative assessment of human-exoskeleton integration through a neurophysiological marker of embodiment.pdf"
               },
-              "icon": "lucide-image",
-              "title": "graph-screenshot-2026-02-05-20-10-10"
+              "icon": "lucide-file-text",
+              "title": "Quantitative assessment of human-exoskeleton integration through a neurophysiological marker of embodiment"
             }
           }
         ]
@@ -47,7 +47,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Feedback",
+            "query": "tag:#embodiment",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -66,8 +66,8 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true,
-            "showSearch": false,
-            "searchQuery": ""
+            "showSearch": true,
+            "searchQuery": "Wor"
           },
           "icon": "lucide-tags",
           "title": "Tags"
@@ -213,15 +213,20 @@
   },
   "active": "39523ca4f4f5c920",
   "lastOpenFiles": [
-    "graph-screenshot/graph-screenshot-2026-02-05-18-07-15.png",
+    "My Extractions/Quantitative assessment of human-exoskeleton integration through a neurophysiological marker of embodiment.md",
+    "My Extractions/Projecting the New Body - How Body Image Evolves During Learning to Walk with a Wearable Robot.md",
+    "My Extractions/Modeling dispositional and initial learned trust in automated vehicles with predictability and explainability.md",
+    "Generated/The Critical Role of Anxiety in Wearable Robot Acceptance and Performance.md",
+    "Papers/Measuring Trust in Real Time/Real-Time Sensing of Trust in Human-Machine Interactions.pdf",
+    "My Extractions/Predictions not commands - active inference in the motor system.md",
     "graph-screenshot/graph-screenshot-2026-02-05-20-10-10.png",
+    "graph-screenshot/graph-screenshot-2026-02-05-18-07-15.png",
     "AI Extractions/unrelated to everything.md",
     "Defining Anxiety as the Proxy of Trust.md",
     "Sensory Perceptions/perceived_risk_and_safety.md",
     "Consensus/Anxiety and Proprioception.md",
     "My Extractions/Why Anxiety?.md",
     "My Extractions/Embodiment for Robotic Lower-LimbExoskeletons A Narrative Review.md",
-    "My Extractions/Quantitative assessment of human-exoskeleton integration through a neurophysiological marker of embodiment.md",
     "Papers/Quantitative assessment of human-exoskeleton integration through a neurophysiological marker of embodiment.pdf",
     "My Extractions/Human–Robot Interactions A Pilot Study of Psychoaffective and Cognitive Factors to Boost the Acceptance and Usability of Assistive Wearable Devices.md",
     "Papers/mti-3341859-supplementary.pdf",

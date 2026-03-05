@@ -1,0 +1,36 @@
+{
+  "actr_connection": {
+    "hostname": "localhost",
+    "port": 5555,
+    "sync_mode": "async"
+  },
+  "human": {
+    "identifier": "virtual_subject_01",
+    "big_five": {
+      "agreeableness": 0.6,
+      "openness": 0.7,
+      "conscientiousness": 0.5,
+      "extraversion": 0.4,
+      "neuroticism": 0.3
+    },
+    "baseline_arousal": 0.5,
+    "fatigue_sensitivity": 0.8,
+    "trust_propensity": 0.6
+  },
+  "environment": {
+    "name": "PVT_lab",
+    "description": "Psychomotor Vigilance Task environment with ACT-R/Phi physiology enabled.",
+    "time_step_seconds": 0.5
+  },
+  "task": {
+    "name": "PVT",
+    "parameters": {
+      "session_length_minutes": 10,
+      "lapse_threshold_ms": 500,
+      "sleep_attack_threshold_ms": 30000,
+      "between_block_delay_seconds": 110,
+      "total_duration_seconds": 5280
+    }
+  }
+}
+

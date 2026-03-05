@@ -58,12 +58,13 @@
             }
           },
           {
-            "id": "cdcd5b1fe431a922",
+            "id": "40e5fb3931781000",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Generated/The Critical Role of Anxiety in Wearable Robot Acceptance and Performance.md",
+                "file": "Defining Anxiety as the Proxy of Trust.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,41 +78,30 @@
                   "unlinkedCollapsed": true
                 }
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "The Critical Role of Anxiety in Wearable Robot Acceptance and Performance"
+              "title": "Defining Anxiety as the Proxy of Trust"
             }
           },
           {
-            "id": "daea3e1b6444cf44",
+            "id": "3e0bab4537307ec4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Qs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Papers/Quantitative assessment of human-exoskeleton integration through a neurophysiological marker of embodiment.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Qs"
+              "icon": "lucide-file-text",
+              "title": "Quantitative assessment of human-exoskeleton integration through a neurophysiological marker of embodiment"
             }
           },
           {
-            "id": "61361e50461718ff",
+            "id": "240627c677342b6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modeling/Human Psychology.md",
+                "file": "Anxiety-Adaptive Exoskeleton Control.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -126,31 +116,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Human Psychology"
-            }
-          },
-          {
-            "id": "f0d77f3918fd9d38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TagsRoutes/reports/TagReport_#somatosensory_cortex.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "TagReport_#somatosensory_cortex"
+              "title": "Anxiety-Adaptive Exoskeleton Control"
             }
           }
         ],
@@ -186,8 +152,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "worklo",
-                "matchingCase": true,
+                "query": "Proprioception is the sensory mediator for the \"Sense of Agency",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -242,11 +208,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 358.5
+    "width": 366.5
   },
   "right": {
     "id": "fe52b97a82c85564",
@@ -368,120 +335,58 @@
       "obisidian-note-linker:Note Linker": false,
       "export-graph-view:Export graph view": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "tags-routes:Open tags routes": false,
-      "vscode-editor:Create Code File": false
+      "vscode-editor:Create Code File": false,
+      "tags-routes:Open tags routes": false
     }
   },
-  "floating": {
-    "id": "9e2c93585e1ee5e7",
-    "type": "floating",
-    "children": [
-      {
-        "id": "fd7b287bbf99b2e3",
-        "type": "window",
-        "children": [
-          {
-            "id": "123f0fe68bfdf7e4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "145f96ccb175c983",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
-                }
-              },
-              {
-                "id": "40e5fb3931781000",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Defining Anxiety as the Proxy of Trust.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Defining Anxiety as the Proxy of Trust"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 1819,
-        "y": 290,
-        "width": 1037,
-        "height": 789,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "61361e50461718ff",
+  "active": "240627c677342b6f",
   "lastOpenFiles": [
-    "Models/simulated actrphi human/server.py",
-    "Models/simulated actrphi human/__pycache__/human.cpython-314.pyc",
-    "Models/simulated actrphi human/__pycache__",
-    "Models/simulated actrphi human/README.md",
-    "Models/simulated actrphi human/config.example.json",
-    "Models/simulated actrphi human/human.py",
-    "Models/simulated actrphi human",
-    "Modeling/act-r_phi/user-loads/Docs/Context/Traits/Traits-Adiposity/MorbidlyObese.DOCS",
-    "Modeling/act-r_phi/user-loads/Structure/AminoAcid/TissueH2O/LymphWater/Torso_Upper_LymphWater.DES",
-    "Modeling/act-r_phi/user-loads/Structure/AminoAcid/TissueH2O/LymphWater/Torso_Lower_LymphWater.DES",
-    "Modeling/act-r_phi/user-loads/Structure/AminoAcid/TissueH2O/LymphWater/Torso_Middle_LymphWater.DES",
-    "Modeling/act-r_phi/user-loads/Structure/AminoAcid/TissueH2O/LymphWater/LymphWater.DES",
-    "Modeling/act-r_phi/environment/GUI/dialogs/what.gif",
-    "Modeling/act-r_phi/environment/GUI/dialogs/smalllogo.gif",
-    "Modeling/act-r_phi/environment/GUI/dialogs/ref-brain.gif",
-    "Modeling/act-r_phi/environment/GUI/AGI-images/ref-brain.gif",
-    "Modeling/act-r_phi/environment/GUI/AGI-images/smalllogo.gif",
-    "Modeling/act-r_phi/environment/GUI/logo.gif",
-    "Modeling/act-r_phi/README.md",
-    "Models/act-r_phi/environment/GUI/dialogs/smalllogo.gif",
-    "Models/act-r_phi/environment/GUI/dialogs/what.gif",
-    "Models/act-r_phi/environment/GUI/dialogs/ref-brain.gif",
-    "Models/act-r_phi/environment/GUI/AGI-images/ref-brain.gif",
-    "Models/act-r_phi/README.md",
-    "Modeling/Human Physiology.md",
-    "Modeling/Human Psychology.md",
-    "AI Extractions/Google/CC-POMCP.md",
-    "AI Extractions/Consensus/Dynamic Bayesian Network (DBN)-based trust model.md",
-    "To Read About.md",
+    "Anxiety-Adaptive Exoskeleton Control .pdf",
+    "Anxiety-Adaptive Exoskeleton Control.pdf",
+    "Anxiety-Adaptive Control.pdf",
+    "Sensory Perceptions/Proprioception and Sensory Dynamics in Wearable Robotics.md",
+    "Anxiety-Adaptive Exoskeleton Control.md",
+    "Papers/Learned uncertainty- The free energy principle in anxiety.pdf",
+    "My Extractions/Neuroanatomy, Somatosensory Cortex.md",
+    "Papers/Neuroanatomy, Somatosensory Cortex - StatPearls - NCBI Bookshelf.pdf",
+    "My Extractions/Sensorimotor mismatch disrupts motor automaticity and increases anxiety during a goal-directedbalance task.md",
+    "Papers/Sensorimotor mismatch disrupts motor automaticity and increases anxiety during a goal-directed balance task.pdf",
+    "My Extractions/Quantitative assessment of human-exoskeleton integration through a neurophysiological marker of embodiment.md",
+    "My Extractions/A predictive processing perspective of disrupted motor control under anxiety.md",
+    "Papers/A predictive processing perspective of disrupted motor control under anxiety .pdf",
+    "References - Notes of liquid text.txt",
+    "Notes of liquid text.docx",
     "Defining Anxiety as the Proxy of Trust.md",
-    "Defining Anxiety as the Proxy of Trust - Slides.md",
-    "AI Extractions/Google/Threat cues - LFN.md",
-    "Qs.md",
-    "AI Extractions/Consensus/Perception vs Neuroception Anxiety.md",
-    "TagSummaries/Target word 'somatosensory_cortex and anxiety or proprioception'.md",
-    "TagSummaries/Target word 'somatosensory_cortex or gyrus or frontal lobe or M1 or M2 or norepinephrine or adrenaline or amygdala or bio or insula'.md",
-    "TagsRoutes/reports/TagReport_#somatosensory_cortex.md",
-    "TagsRoutes/reports/TagReport_#Sensory_Processing__somatosensory_cortex.md",
-    "AI Extractions/Consensus/Interoception.md",
-    "Generated/The Critical Role of Anxiety in Wearable Robot Acceptance and Performance.md",
+    "Models/Anxiety+Bayesian Brain Model-Based/draft_paper1.md",
+    "system_diagram.svg",
+    "Models/Anxiety+Bayesian Brain Model-Based/proposed trust model.md",
+    "Models/4-anxiety_based_trust_model/anxiety_model.py",
+    "Models/Anxiety+Bayesian Brain Model-Based/new.md",
+    "Models/Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
+    "My Extractions/Do you feel safe with your robot? Factors influencing perceived safety in human-robot interaction based on subjective and objective measures 1.md",
+    "AI Extractions/Consensus/Anxiety and Proprioception.md",
     "My Extractions/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
-    "AI Extractions/Consensus/Anxiety Definition.md",
-    "AI Extractions/our_conversation_20260213_041044.md",
-    "AI Extractions/unrelated to everything.md",
-    "My Extractions/Cognitive Therapy of Anxiety Disorders.md",
-    "Experiment and Controller Design.md",
+    "My Extractions/Modeling dispositional and initial learned trust in automated vehicles with predictability and explainability.md",
+    "Papers/Trust in Automation- Integrating Empirical Evidence on Factors That Influence Trust.pdf",
+    "AI Extractions/Consensus/Cognitive and Affective Trust in Wearable Robots.md",
+    "AI Extractions/Consensus/Appraisal-based definition and Components of the Appraisal Process of anxiety.md",
+    "AI Extractions/Consensus/Exoskeleton Trust Predictability Dimensions.md",
+    "AI Extractions/Consensus/Evolution from embodiment to cognitive to affective trust in wearable robots.md",
+    "My Extractions/Measuring Trust for Exoskeleton Systems.md",
+    "My Extractions/Embodiment for Robotic Lower-LimbExoskeletons A Narrative Review.md",
+    "My Extractions/The Altered Somatic Brain Network in State Anxiety.md",
+    "AI Extractions/Consensus/State Anxiety Roots in the Brain.md",
+    "AI Extractions/Consensus/Body Ownership.md",
+    "My Extractions/Human–Robot Interactions A Pilot Study of Psychoaffective and Cognitive Factors to Boost the Acceptance and Usability of Assistive Wearable Devices.md",
+    "My Extractions/CBT fig. 1.1..png",
+    "Modeling/Trust-ontology/figures/trustor-trustee.png",
+    "Modeling/Trust-ontology/figures/trustor-ee.png",
+    "Modeling/Trust-ontology/figures/trust.png",
+    "Modeling/Trust-ontology/figures/trust-distrust.png",
+    "Modeling/Trust-ontology/figures/trust-distrust-act.png",
+    "Modeling/Trust-ontology/figures/social_attribute.png",
+    "Modeling/Trust-ontology/figures/soc.Att.png",
+    "Modeling/Trust-ontology/figures/dis--trust-act.png",
     "Untitled 1.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
