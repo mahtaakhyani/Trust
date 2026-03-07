@@ -64,6 +64,7 @@ class AnxietyModel:
         
     @dataclass
     class Stressor:
+        accel_data: list
         id: int = field(default_factory= lambda: next(_id_counter))
         motion_type: str = field(default_factory = '')
         time: float = field(default=0.0)
@@ -72,7 +73,7 @@ class AnxietyModel:
         unexpectedness: float = field(default=1.0)
         risk_factor: float = field(default=1.0)
         surprise: float = field(default=1.0)
-        decay: float = field(default=0.3) 
+        decay: float = field(default=0.3)
         
         
     @dataclass
@@ -86,18 +87,24 @@ class AnxietyModel:
 
     def add_stressor(self,
                     motion_type: str,
-                    start_time: float,
                     freq: float,
                     amplitude: float,
-                    lag: float,
-                    burst_start_time: float,
-                    burst_freq: float,
-                    impulse_magnitude: float,
+                    risk_factor: float,
                     duration: float,
-                    risk_factor: float):
-        
+                    decay: float = 0.02,
+                    start_time: float | None = None,
+                    lag: float | None = None,
+                    burst_start_time: float | None = None,
+                    burst_freq: float | None = None,
+                    impulse_magnitude: float | None = None,
+                    ):
         if not start_time:
             start_time = duration * 0.45
+        if burst_start_time and start_time:
+            start_time = burst_start_time
+        # Use provided burst_start_time when available, otherwise align with start_time
+        if burst_start_time is None and start_time:
+            burst_start_time = start_time
 
         # Map high-level motion labels to underlying generator types
         motion_map = {
@@ -109,9 +116,6 @@ class AnxietyModel:
         }
         generator_motion_type = motion_map.get(motion_type, motion_type)
 
-        # Use provided burst_start_time when available, otherwise align with start_time
-        if burst_start_time is None:
-            burst_start_time = start_time
 
         motion_delta = self.motion.motion.motion(
             t=self.motion.t,
@@ -132,7 +136,7 @@ class AnxietyModel:
             event_time_index=event_index,
             accel_data=self.motion.baseline_motion + motion_delta,
         )
-
+        accel_data=self.motion.baseline_motion + motion_delta
         event_time = start_time
         stressor = self.Stressor(
             motion_type=motion_type,
@@ -142,7 +146,8 @@ class AnxietyModel:
             unexpectedness=kurt,
             risk_factor=risk_factor,
             surprise=surprise,
-            decay=0.02,
+            decay=decay,
+            accel_data=accel_data
         )
         self.stressor_history.append(stressor)
         self._update_anxiety(event_time, stressor)
@@ -219,12 +224,11 @@ class MotionHandler:
         
         
 
-def test(A_baseline=0.1):
+def test(A_baseline=20):
     model = AnxietyModel(A_baseline)
     
     model.add_stressor(
         motion_type='mild vibration',
-        start_time=20.0,
         freq=2.0,
         amplitude=2.0,
         lag=0.0,
@@ -233,34 +237,31 @@ def test(A_baseline=0.1):
         impulse_magnitude=0.0,
         duration=0.10,
         risk_factor=1.0,
+        decay=0.3
     )
     model.add_stressor(
         motion_type='strong vibration',
-        start_time=20.0,
         freq=2.0,
-        amplitude=5.0,
+        amplitude=15.0,
         lag=0.0,
-        burst_start_time=20.0,
+        burst_start_time=100.0,
         burst_freq=50.0,
         impulse_magnitude=0.0,
-        duration=0.10,
+        duration=0.50,
         risk_factor=1.0,
     )
     model.add_stressor(
         motion_type='phase_lag',
-        start_time=40.0,
+        start_time=300.0,
         freq=2.0,
-        amplitude=3.0,
+        amplitude=1.0,
         lag=0.05,
-        burst_start_time=40.0,
-        burst_freq=50.0,
-        impulse_magnitude=0.0,
-        duration=0.10,
-        risk_factor=1.0,
+        duration=0.2,
+        risk_factor=2.0,
     )
     model.add_stressor(
         motion_type='sudden stop',
-        start_time=60.0,
+        start_time=600.0,
         freq=2.0,
         amplitude=2.0,
         lag=0.0,
@@ -268,65 +269,61 @@ def test(A_baseline=0.1):
         burst_freq=50.0,
         impulse_magnitude=10.0,
         duration=0.01,
-        risk_factor=3.0,
+        risk_factor=4.0,
+        decay=0.01,
     )
 
-    time = np.linspace(0, 100, 100)
+    time = np.linspace(0, 1000, 1000)
     anxiety_values = [model.get_anxiety_at(t) for t in time]
 
-    return time, anxiety_values
+    return model, time, anxiety_values
 
 
-fig, axes = plt.subplots(1, 3, figsize=(15, 4))
+fig, ax = plt.subplots(1, 1, figsize=(15, 8))
 
-baselines = [20, 30, 40]
-colors = ['steelblue', 'darkorange', 'seagreen']
-stressor_events = [
-    dict(time=20, magnitude=5, risk_factor=1.0),
-    dict(time=40, magnitude=3, risk_factor=1.0),
-    dict(time=60, magnitude=7, risk_factor=2.0),
-]
+model, time, anxiety_values = test()
+ax.plot(time, anxiety_values)
+ax.set_xlabel('Time (s)')
+from adjustText import adjust_text
+# Get the model to access stressor objects with all properties
+model, time, anxiety_values = test()
+texts =[]
+for idx, s in enumerate(model.stressor_history):
 
-for ax, A_baseline, color in zip(axes, baselines, colors):
-    time, anxiety_values = test(A_baseline)
-    ax.plot(time, anxiety_values, color=color)
-    ax.set_xlabel('Time (s)')
-    ax.set_title(f'Baseline STAI-S = {A_baseline}')
+    ax.axvline(x=s.time, color='red', linestyle='--', alpha=0.4, linewidth=0.8)
 
-    # Get the model to access stressor objects with all properties
-    model = AnxietyModel(A_baseline)
-    for ev in stressor_events:
-        s = model.add_stressor(
-            motion_type='event',
-            start_time=ev["time"],
-            freq=2.0,
-            amplitude=ev["magnitude"],
-            lag=0.0,
-            burst_start_time=ev["time"],
-            burst_freq=50.0,
-            impulse_magnitude=0.0,
-            duration=0.10,
-            risk_factor=ev["risk_factor"],
-        )
-        ax.axvline(x=s.time, color='red', linestyle='--', alpha=0.4, linewidth=0.8)
+    label = (
+        f"type={s.motion_type}\n"
+        f"t={s.time}\n"
+        f"mag={s.magnitude}\n"
+        f"risk={s.risk_factor}\n"
+        f"unexpect={s.unexpectedness}\n"
+        f"duration={s.duration}\n"
+        f"surprise={s.surprise}\n"
+        f"decay={s.decay}\n"
+        f"jerk={CreateMotion().calculate_jerk(s.accel_data)[0]:4f}"
+        
+    )
+    # Place labels at different vertical positions in axes coordinates
+    # so that annotation boxes for multiple stressors do not overlap.
+    y_frac = 0.95 - idx * 0.15
+    if y_frac < 0.15:
+        y_frac = 0.15
 
-        label = (
-            f"t={s.time}\n"
-            f"mag={s.magnitude}\n"
-            f"risk={s.risk_factor}\n"
-            f"unexpect={s.unexpectedness}\n"
-            f"decay={s.decay}"
-        )
-        ax.text(
-            s.time + 5, ax.get_ylim()[1] * 0.98,
-            label,
-            fontsize=6.5,
-            verticalalignment='top',
-            color='red',
-            alpha=0.8,
-            bbox=dict(boxstyle='round,pad=0.2', facecolor='white', edgecolor='red', alpha=0.5)
-        )
-
-axes[0].set_ylabel('Anxiety (STAI-S)')
+    t = ax.text(
+        s.time,
+        y_frac,
+        label,
+        fontsize=6.5,
+        verticalalignment='top',
+        horizontalalignment='left',
+        transform=ax.get_xaxis_transform(),
+        color='red',
+        alpha=0.8,
+        bbox=dict(boxstyle='round,pad=0.2', facecolor='white', edgecolor='red', alpha=0.5)
+    )
+    texts.append(t)
+adjust_text(texts, arrowprops=dict(arrowstyle='->', color='red'))
+ax.set_ylabel('Anxiety (STAI-S)')
 plt.tight_layout()
 plt.show()

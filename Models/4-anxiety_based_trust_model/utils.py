@@ -11,10 +11,10 @@ logging.basicConfig(level=logging.INFO)
 
 # ----------------------------------- CALCULATE SURPRISE FACTOR S_i -----------------------------------------
 
-
+SAMPLING_FREQ = 100
 class SurpriseFactorsHandler:
 
-    def __init__(self, sampling_frequency=100):  # (e.g., 100Hz)
+    def __init__(self, sampling_frequency=SAMPLING_FREQ):  # (e.g., 100Hz)
         '''
             Initiating the vars that are unique to each experiment setup, but not the same among all setups
         '''
@@ -27,22 +27,25 @@ class SurpriseFactorsHandler:
         self._calculate_event_segment(event_time_index)
         crest = self.calculate_crest()
         kurt = self.calculate_kurt(fisher=True, bias=False)
-        surprise = crest * abs(kurt)
+        surprise = 0.5*(crest * abs(kurt))
         
         return crest, kurt, surprise
         
         
     def _calculate_event_segment(self, event_time_index):
-        half_window = int(0.1 * self.sampling_frequency)  # 100ms before and 100ms after
-        start = max(0, event_time_index - half_window)
-        end = min(len(self.accel_data), event_time_index + half_window)
+        half_window = 0.025 * self.sampling_frequency  # 100ms before and 100ms after
+        start = max(0, int(event_time_index - half_window))
+        end = min(len(self.accel_data), int(event_time_index + half_window))
 
         # 1. Crop the event
         event_segment = np.array(self.accel_data[start:end])
 
+        # Ensure the window has a minimum number of samples to be statistically valid
+        if len(event_segment) < (0.05 * self.sampling_frequency): # less than 50ms
+            return # or handle as an invalid event
+        
         # 2. Remove DC Offset
         self.event_segment = event_segment - np.mean(event_segment)
-        
         
         
     def calculate_crest(self):
@@ -95,10 +98,10 @@ class CreateMotion:
         motion_type="smooth",
         freq=2.0,
         amplitude=1.0,
+        duration=0.02,
         lag=None,
         burst_freq=None,
         burst_start_time=None,
-        duration=None,
         impulse_magnitude=None,
     ):
         """
@@ -110,7 +113,7 @@ class CreateMotion:
             "vibration": self._vibration_motion,
             "sudden_stop": self._sudden_stop_motion,
         }
-
+        
         try:
             return handlers[motion_type](
                 t=t,
@@ -136,7 +139,7 @@ class CreateMotion:
                 f"Lagged motion: No lag defined. Using default lag {self.LAG}"
             )
             lag = self.LAG
-
+        
         return amplitude * np.sin(2 * np.pi * freq * (t - lag))
 
     def _vibration_motion(
@@ -375,6 +378,7 @@ def generate_event_example_signals(
     t = np.arange(n) / fs
     rng = np.random.default_rng(seed)
     motion = CreateMotion()
+    surprise_handler = SurpriseFactorsHandler(sampling_frequency=fs)
 
     baseline = motion.motion(
         t=t,
@@ -457,7 +461,22 @@ def generate_event_example_signals(
         for label, accel in signals.items()
     }
 
-    return t, signals, jerks
+    crests: dict[str, float] = {}
+    kurts: dict[str, float] = {}
+    surprises: dict[str, float] = {}
+
+    for label, accel in signals.items():
+        # Use the point of maximum absolute acceleration as the event index
+        event_index = int(np.argmax(np.abs(accel)))
+        crest, kurt, surprise_value = surprise_handler.event_handler(
+            event_time_index=event_index,
+            accel_data=accel,
+        )
+        crests[label] = crest
+        kurts[label] = kurt
+        surprises[label] = surprise_value
+
+    return t, signals, jerks, crests, kurts, surprises
 
 
 def plot_event_examples(
@@ -475,7 +494,7 @@ def plot_event_examples(
     - Top: acceleration for all event examples
     - Bottom: jerk (smoothed derivative) for all event examples
     """
-    t, signals, jerks = generate_event_example_signals(
+    t, signals, jerks, crests, kurts, surprises = generate_event_example_signals(
         duration=duration,
         fs=fs,
         noise_std=noise_std,
@@ -518,8 +537,21 @@ def plot_event_examples(
     if show:
         plt.show()
 
-    return fig, (ax_accel, ax_jerk), (t, signals, jerks)
+    return fig, (ax_accel, ax_jerk), (t, signals, jerks, crests, kurts, surprises)
 
+t, signals, jerks, crests, kurts, surprises = generate_event_example_signals()
 
+# plt.figure()
+# plt.bar(crests.keys(), crests.values())
+# plt.title("Crest factor per condition")
+
+# plt.figure()
+# plt.bar(kurts.keys(), kurts.values())
+# plt.title("Kurtosis per condition")
+
+# plt.figure()
+# plt.bar(surprises.keys(), surprises.values())
+# plt.title("Surprise per condition")
+# plt.show()
 
 plot_event_examples(duration=10.0, fs=1000, noise_std=0.05, seed=0)
