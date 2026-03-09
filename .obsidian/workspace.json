@@ -101,7 +101,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anxiety-Adaptive Exoskeleton Control.md",
+                "file": "Anxiety-Adaptive Exoskeleton Control 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -116,7 +116,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Anxiety-Adaptive Exoskeleton Control"
+              "title": "Anxiety-Adaptive Exoskeleton Control 1"
             }
           }
         ],
@@ -208,8 +208,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -341,11 +340,14 @@
   },
   "active": "240627c677342b6f",
   "lastOpenFiles": [
+    "Anxiety-Adaptive Exoskeleton Control.md",
+    "Anxiety-Adaptive Exoskeleton Control 1.md",
+    "Models/4-anxiety_based_trust_model/test.py",
+    "Models/4-anxiety_based_trust_model/__pycache__/anxiety_module.cpython-314.pyc",
     "Anxiety-Adaptive Exoskeleton Control .pdf",
     "Anxiety-Adaptive Exoskeleton Control.pdf",
     "Anxiety-Adaptive Control.pdf",
     "Sensory Perceptions/Proprioception and Sensory Dynamics in Wearable Robotics.md",
-    "Anxiety-Adaptive Exoskeleton Control.md",
     "Papers/Learned uncertainty- The free energy principle in anxiety.pdf",
     "My Extractions/Neuroanatomy, Somatosensory Cortex.md",
     "Papers/Neuroanatomy, Somatosensory Cortex - StatPearls - NCBI Bookshelf.pdf",
@@ -355,19 +357,16 @@
     "My Extractions/A predictive processing perspective of disrupted motor control under anxiety.md",
     "Papers/A predictive processing perspective of disrupted motor control under anxiety .pdf",
     "References - Notes of liquid text.txt",
-    "Notes of liquid text.docx",
     "Defining Anxiety as the Proxy of Trust.md",
     "Models/Anxiety+Bayesian Brain Model-Based/draft_paper1.md",
     "system_diagram.svg",
     "Models/Anxiety+Bayesian Brain Model-Based/proposed trust model.md",
-    "Models/4-anxiety_based_trust_model/anxiety_model.py",
     "Models/Anxiety+Bayesian Brain Model-Based/new.md",
     "Models/Anxiety+Bayesian Brain Model-Based/anxiety_mathematical_modeling.md",
     "My Extractions/Do you feel safe with your robot? Factors influencing perceived safety in human-robot interaction based on subjective and objective measures 1.md",
     "AI Extractions/Consensus/Anxiety and Proprioception.md",
     "My Extractions/Books of Foundations of Trusted Autonomy & Trust in Human-Robot Interaction.md",
     "My Extractions/Modeling dispositional and initial learned trust in automated vehicles with predictability and explainability.md",
-    "Papers/Trust in Automation- Integrating Empirical Evidence on Factors That Influence Trust.pdf",
     "AI Extractions/Consensus/Cognitive and Affective Trust in Wearable Robots.md",
     "AI Extractions/Consensus/Appraisal-based definition and Components of the Appraisal Process of anxiety.md",
     "AI Extractions/Consensus/Exoskeleton Trust Predictability Dimensions.md",
@@ -377,7 +376,6 @@
     "My Extractions/The Altered Somatic Brain Network in State Anxiety.md",
     "AI Extractions/Consensus/State Anxiety Roots in the Brain.md",
     "AI Extractions/Consensus/Body Ownership.md",
-    "My Extractions/Human–Robot Interactions A Pilot Study of Psychoaffective and Cognitive Factors to Boost the Acceptance and Usability of Assistive Wearable Devices.md",
     "My Extractions/CBT fig. 1.1..png",
     "Modeling/Trust-ontology/figures/trustor-trustee.png",
     "Modeling/Trust-ontology/figures/trustor-ee.png",

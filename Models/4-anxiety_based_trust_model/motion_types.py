@@ -3,79 +3,10 @@ from scipy.stats import kurtosis
 from scipy.signal import savgol_filter
 import matplotlib.pyplot as plt
 import logging
-
+from surprise_handler import *
 
 # Basic configuration to output INFO level messages or higher to the console
 logging.basicConfig(level=logging.INFO)
-
-
-# ----------------------------------- CALCULATE SURPRISE FACTOR S_i -----------------------------------------
-
-SAMPLING_FREQ = 100
-class SurpriseFactorsHandler:
-
-    def __init__(self, sampling_frequency=SAMPLING_FREQ):  # (e.g., 100Hz)
-        '''
-            Initiating the vars that are unique to each experiment setup, but not the same among all setups
-        '''
-        self.sampling_frequency = sampling_frequency
-        self.accel_data = np.array([])
-        self.event_segment = np.array([])
-    
-    def event_handler(self, event_time_index, accel_data):
-        self.accel_data = accel_data # update accel history based on the latest recieved data
-        self._calculate_event_segment(event_time_index)
-        crest = self.calculate_crest()
-        kurt = self.calculate_kurt(fisher=True, bias=False)
-        surprise = 0.5*(crest * abs(kurt))
-        
-        return crest, kurt, surprise
-        
-        
-    def _calculate_event_segment(self, event_time_index):
-        half_window = 0.025 * self.sampling_frequency  # 100ms before and 100ms after
-        start = max(0, int(event_time_index - half_window))
-        end = min(len(self.accel_data), int(event_time_index + half_window))
-
-        # 1. Crop the event
-        event_segment = np.array(self.accel_data[start:end])
-
-        # Ensure the window has a minimum number of samples to be statistically valid
-        if len(event_segment) < (0.05 * self.sampling_frequency): # less than 50ms
-            return # or handle as an invalid event
-        
-        # 2. Remove DC Offset
-        self.event_segment = event_segment - np.mean(event_segment)
-        
-        
-    def calculate_crest(self):
-        '''
-            Calculates Crest Factor as the event's Magnitude.
-            
-            This factor is used as the common language for comparison 
-            between different types of events (lag, vibration, etc.)
-        '''
-            
-        peak = np.max(np.abs(self.event_segment))
-        rms = np.sqrt(np.mean(self.event_segment**2)) + 1e-9
-        crest_factor = peak / rms
-        
-        return crest_factor
-
-        
-        
-
-    def calculate_kurt(self, fisher, bias):
-        '''
-            Kurtosis is used to measure the unexpectedness of an event.
-            
-            Higher values indicate extreme outliers/shocks:
-                Kurtosis for normal walking ≈ 3 (or 0 if using "excess kurtosis", aka., fisher=False)
-                Kurtosis for abnormal signal ≈ 10, 20, 100, etc.
-        '''
-        return kurtosis(a=self.event_segment, fisher=fisher, bias=bias)
-
-
 
 
 # ---------------------------------------- CREATING EVENTS --------------------------------------------------
@@ -143,8 +74,7 @@ class CreateMotion:
         return amplitude * np.sin(2 * np.pi * freq * (t - lag))
 
     def _vibration_motion(
-        self, *, t, burst_start_time, burst_freq, duration, amplitude, **_
-    ):
+        self, *, t, burst_start_time, burst_freq, duration, amplitude, **_):
         if burst_freq is None:
             logging.warning(
                 f"Vibration motion: No burst_freq defined. Using default burst_freq {self.BURST_FREQ}"
@@ -164,8 +94,7 @@ class CreateMotion:
         return delta
 
     def _sudden_stop_motion(
-        self, *, t, start_time, duration, impulse_magnitude, **_
-    ):
+        self, *, t, start_time, duration, impulse_magnitude, **_):
         if duration is None:
             logging.warning(
                 f"Stop motion: No duration defined. Using default duration {self.STOP_DURATION}"
@@ -201,33 +130,6 @@ class CreateMotion:
         if rng is None:
             rng = np.random.default_rng()
         return signal + rng.normal(0.0, std, size=signal.shape)
-
-
-    def calculate_jerk(self, accel_data, dt=0.001, window_size=11, poly_order=3):
-        """
-        Calculates jerk from acceleration data.
-        
-        Parameters:
-        accel_data (ndarray): Array of acceleration values (m/s^2).
-        dt (float): Time interval between samples (e.g., 0.001 for 1000Hz).
-        window_size (int): Number of samples for the smoothing window (must be odd, a window of 11 covers 11 milliseconds).
-        poly_order (int): The order of the polynomial to fit (3 is standard for jerk).
-        
-        Returns:
-        ndarray: The calculated jerk (m/s^3).
-        """
-        
-        # 1. Finite Difference Method (Raw/Noisy)
-        # jerk_raw = np.diff(accel_data) / dt
-        
-        # 2. Savitzky-Golay Method (Recommended for Research)
-        # This applies a smoothing filter and takes the 1st derivative of acceleration (jerk)
-        # deriv=1 means we take the first derivative of the input (acceleration)
-        jerk_filtered = savgol_filter(accel_data, window_length=window_size,
-                                    polyorder=poly_order, deriv=1, delta=dt)
-        
-        return jerk_filtered
-
 
 
 
@@ -323,7 +225,8 @@ def plot_sample_stressor_jerks(
             window_size=window_size,
             poly_order=poly_order,
         )
-        ax.plot(t, jerk, label=label, linewidth=1.0)
+        t_jerk = t[: len(jerk)]
+        ax.plot(t_jerk, jerk, label=label, linewidth=1.0)
 
     ax.set_xlabel("Time (s)")
     ax.set_ylabel("Jerk (a.u.)")
@@ -445,36 +348,30 @@ def generate_event_example_signals(
         "Lag_Low": lag_low,
         "Lag_Mid": lag_mid,
         "Lag_High": lag_high,
-        "Vibration_Burst": vib,
-        "Sudden_Stop": stop,
+        "vibration_Burst": vib,
+        "sudden_stop": stop,
         "Smooth": baseline,
     }
 
-    dt = 1.0 / fs
-    jerks = {
-        label: motion.calculate_jerk(
-            accel,
-            dt=dt,
-            window_size=window_size,
-            poly_order=poly_order,
-        )
-        for label, accel in signals.items()
-    }
+
 
     crests: dict[str, float] = {}
     kurts: dict[str, float] = {}
     surprises: dict[str, float] = {}
+    jerks: dict[str, float] = {}
 
     for label, accel in signals.items():
         # Use the point of maximum absolute acceleration as the event index
         event_index = int(np.argmax(np.abs(accel)))
-        crest, kurt, surprise_value = surprise_handler.event_handler(
+        crest, kurt, surprise_value, jerk = surprise_handler.event_handler(
             event_time_index=event_index,
             accel_data=accel,
+            duration=accel.duration
         )
         crests[label] = crest
         kurts[label] = kurt
         surprises[label] = surprise_value
+        jerks[label] = jerk
 
     return t, signals, jerks, crests, kurts, surprises
 
@@ -490,9 +387,9 @@ def plot_event_examples(
     """
     Generate and plot example event signals (acceleration + jerk).
 
-    Produces a 2-row plot:
-    - Top: acceleration for all event examples
-    - Bottom: jerk (smoothed derivative) for all event examples
+    Produces two figures (separate windows):
+    - Figure 1: acceleration for all event examples
+    - Figure 2: jerk (smoothed derivative) per condition, one subplot each
     """
     t, signals, jerks, crests, kurts, surprises = generate_event_example_signals(
         duration=duration,
@@ -503,43 +400,51 @@ def plot_event_examples(
         poly_order=poly_order,
     )
 
-    fig, (ax_accel, ax_jerk) = plt.subplots(
-        2,
-        1,
-        figsize=(12, 7),
-        sharex=True,
-        gridspec_kw={"height_ratios": [2, 1]},
-    )
-
-    for label, accel in signals.items():
-        ax_accel.plot(t, accel, label=label, linewidth=1.0)
-        jerk = jerks[label]
-        ax_jerk.plot(t, jerk, label=label, linewidth=1.0)
-
     vib_start = duration * 0.45
     vib_end = vib_start + 0.10
     stop_start = duration * 0.50
     stop_end = stop_start + 0.01
 
-    for ax in (ax_accel, ax_jerk):
-        ax.axvspan(vib_start, vib_end, color="black", alpha=0.08, label="_vibration_window")
-        ax.axvspan(stop_start, stop_end, color="red", alpha=0.08, label="_sudden_stop_window")
-        ax.grid(True, alpha=0.25)
-
+    # Figure 1: acceleration
+    fig_accel, ax_accel = plt.subplots(figsize=(12, 4))
+    for label, accel in signals.items():
+        ax_accel.plot(t, accel, label=label, linewidth=1.0)
     ax_accel.set_title("Event examples on a global timeline")
     ax_accel.set_ylabel("Acceleration (a.u.)")
-    ax_jerk.set_ylabel("Jerk (a.u.)")
-    ax_jerk.set_xlabel("Time (s)")
-
+    ax_accel.axvspan(vib_start, vib_end, color="black", alpha=0.08, label="_vibration_window")
+    ax_accel.axvspan(stop_start, stop_end, color="red", alpha=0.08, label="_sudden_stop_window")
+    ax_accel.grid(True, alpha=0.25)
     ax_accel.legend(loc="upper right", fontsize=8)
 
+    # Figure 2: jerk subplots (separate window)
+    n_conditions = len(signals)
+    fig_jerk, ax_jerks = plt.subplots(
+        n_conditions,
+        1,
+        figsize=(12, 2 * n_conditions),
+        sharex=True,
+        squeeze=True,
+    )
+    ax_jerks = np.atleast_1d(ax_jerks)
+    for ax_jerk, (label, jerk) in zip(ax_jerks, jerks.items(), strict=True):
+        t_jerk = t[: len(jerk)]
+        ax_jerk.plot(t_jerk, jerk, linewidth=1.0)
+        ax_jerk.set_ylabel(f"{label}\nJerk (a.u.)", fontsize=9)
+        ax_jerk.axvspan(vib_start, vib_end, color="black", alpha=0.08)
+        ax_jerk.axvspan(stop_start, stop_end, color="red", alpha=0.08)
+        ax_jerk.grid(True, alpha=0.25)
+    ax_jerks[-1].set_xlabel("Time (s)")
+
+    plt.figure(fig_accel.number)
+    plt.tight_layout()
+    plt.figure(fig_jerk.number)
     plt.tight_layout()
     if show:
         plt.show()
 
-    return fig, (ax_accel, ax_jerk), (t, signals, jerks, crests, kurts, surprises)
+    return (fig_accel, fig_jerk), (ax_accel, ax_jerks), (t, signals, jerks, crests, kurts, surprises)
 
-t, signals, jerks, crests, kurts, surprises = generate_event_example_signals()
+# t, signals, jerks, crests, kurts, surprises = generate_event_example_signals()
 
 # plt.figure()
 # plt.bar(crests.keys(), crests.values())
@@ -554,4 +459,4 @@ t, signals, jerks, crests, kurts, surprises = generate_event_example_signals()
 # plt.title("Surprise per condition")
 # plt.show()
 
-plot_event_examples(duration=10.0, fs=1000, noise_std=0.05, seed=0)
+# plot_event_examples(duration=10.0, fs=1000, noise_std=0.05, seed=0)
