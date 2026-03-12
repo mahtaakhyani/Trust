@@ -23,43 +23,24 @@ class SurpriseFactorsHandler:
         self.k=0.5
         self.accel_data = np.array([])
         self.event_segment = np.array([])
-        self.perception_segment = np.array([])
     
     def event_handler(self, event_time_index, accel_data, duration):
         self.accel_data = accel_data # update accel history based on the latest recieved data
         self._calculate_event_segment(event_time_index)
-        self._calculate_perception_segment(event_time_index)
         if len(self.event_segment) == 0:
             return 0.0, 0.0, 0.0, 0.0
         
-        crest = self.calculate_crest(data_segment=self.perception_segment)
-        kurt = self.calculate_kurt(data_segment=self.event_segment,fisher=True, bias=False)
+        crest = self.calculate_crest()
+        kurt = self.calculate_kurt(fisher=True, bias=False)
         ldlj = self.calculate_ldlj(duration)
         jerk_effect = 1 / (1 + np.exp(self.k * (ldlj - self.threshold)))
 
         surprise = kurt * jerk_effect
         return crest, kurt, surprise, jerk_effect
         
-    
-    def _calculate_perception_segment(self, event_time_index):
-        half_window = 0.2 * self.sampling_frequency  # 2.5 samples at 100Hz
-        start = max(0, int(event_time_index - half_window))
-        end = min(len(self.accel_data), int(event_time_index + half_window))
-
-        # 1. Crop the event
-        perception_segment = np.array(self.accel_data[start:end])
-
-        # # Ensure the window has a minimum number of samples to be statistically valid
-        # if len(event_segment) < int(0.05 * self.sampling_frequency):
-        #     self.event_segment = np.array([])
-        #     return  # invalid event window
         
-        # 2. Remove DC Offset
-        self.perception_segment = perception_segment - np.mean(perception_segment)
-    
-    
     def _calculate_event_segment(self, event_time_index):
-        half_window = 0.05 * self.sampling_frequency  # 2.5 samples at 100Hz
+        half_window = 0.025 * self.sampling_frequency  # 2.5 samples at 100Hz
         start = max(0, int(event_time_index - half_window))
         end = min(len(self.accel_data), int(event_time_index + half_window))
 
@@ -67,15 +48,15 @@ class SurpriseFactorsHandler:
         event_segment = np.array(self.accel_data[start:end])
 
         # # Ensure the window has a minimum number of samples to be statistically valid
-        if len(event_segment) < int(0.05 * self.sampling_frequency):
-            self.event_segment = np.array([])
-            return  # invalid event window
+        # if len(event_segment) < int(0.05 * self.sampling_frequency):
+        #     self.event_segment = np.array([])
+        #     return  # invalid event window
         
         # 2. Remove DC Offset
         self.event_segment = event_segment - np.mean(event_segment)
         
         
-    def calculate_crest(self, data_segment):
+    def calculate_crest(self):
         '''
             Calculates Crest Factor as the event's Magnitude.
             
@@ -83,8 +64,8 @@ class SurpriseFactorsHandler:
             between different types of events (lag, vibration, etc.)
         '''
             
-        peak = np.max(np.abs(data_segment))
-        rms = np.sqrt(np.mean(data_segment**2)) + 1e-9
+        peak = np.max(np.abs(self.event_segment))
+        rms = np.sqrt(np.mean(self.event_segment**2)) + 1e-9
         crest_factor = peak / rms
         
         return crest_factor
@@ -92,7 +73,7 @@ class SurpriseFactorsHandler:
         
         
 
-    def calculate_kurt(self, data_segment, fisher, bias):
+    def calculate_kurt(self, fisher, bias):
         '''
             Kurtosis is used to measure the unexpectedness of an event.
             
@@ -100,7 +81,7 @@ class SurpriseFactorsHandler:
                 Kurtosis for normal walking ≈ 3 (or 0 if using "excess kurtosis", aka., fisher=True)
                 Kurtosis for abnormal signal ≈ 10, 20, 100, etc.
         '''
-        k = kurtosis(data_segment, fisher=fisher, bias=bias)
+        k = kurtosis(self.event_segment, fisher=fisher, bias=bias)
         return abs(k)
 
 

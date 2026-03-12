@@ -77,6 +77,7 @@ class AnxietyModel:
         risk_factor: float = field(default=1.0)
         surprise: float = field(default=1.0)
         decay: float = field(default=0.3)
+        crest: float = field(default=0)
         
         
     @dataclass
@@ -147,11 +148,12 @@ class AnxietyModel:
             time=event_time,
             duration=duration,
             magnitude=jerk,
-            unexpectedness=kurt,
+            unexpectedness=crest,
             risk_factor=risk_factor,
             surprise=surprise,
             decay=decay,
-            accel_data=accel_data
+            accel_data=accel_data,
+            crest=crest
         )
         self.stressor_history.append(stressor)
         self._update_anxiety_over_interval(stressor)
@@ -270,6 +272,10 @@ class AnxietyModel:
         interp = PchipInterpolator(anchor_times, anchor_values, extrapolate=False)
         tonic = interp(time)
         tonic = np.where(np.isnan(tonic), self.A_baseline, tonic)
+        
+        
+        
+        
         return tonic
     
 class MotionHandler:
@@ -401,21 +407,49 @@ def test(A_baseline=20):
         risk_factor=4.0,
         decay=0.01,
     )
+    
+    model.add_stressor(
+        motion_type='strong vibration',
+        freq=2.0,
+        amplitude=15.0,
+        lag=0.0,
+        burst_start_time=200.0,
+        burst_freq=50.0,
+        impulse_magnitude=0.0,
+        duration=0.01,
+        risk_factor=1.0,
+        decay=0.9
+    )
+
+    model.add_stressor(
+        motion_type='smooth',
+        start_time=300,
+        freq=2.0,
+        amplitude=15.0,
+        lag=0.0,
+        burst_start_time=300.0,
+        burst_freq=50.0,
+        impulse_magnitude=0.0,
+        duration=0.01,
+        risk_factor=1.0,
+        decay=0.9
+    )
 
     time = np.linspace(0, 300, 300)
     anxiety_values = [model.get_anxiety_at(t) for t in time]
     # Compute tonic envelope over the full time vector
-    tonic_values = model.compute_tonic_envelope(time)
-    return model, time, anxiety_values, tonic_values
+    # tonic_values = model.compute_tonic_envelope(time)
+    return model, time, anxiety_values
 
 
 if __name__ == "__main__":
     # Single plot: anxiety (solid) and tonic envelope (dashed)
     fig, ax = plt.subplots(1, 1, figsize=(15, 8))
 
-    model, time, anxiety_values, tonic_values = test()
+    model, time, anxiety_values = test()
     ax.plot(time, anxiety_values, label="Anxiety")
-    ax.plot(time, tonic_values, linestyle="--", color="orange", label="Tonic envelope")
+    ax.plot([i.time for i in model.stressor_history], [i.crest+20 for i in model.stressor_history], linestyle="--", color="blue", label="crest")
+    ax.plot([i.time for i in model.stressor_history], [i.unexpectedness+20 for i in model.stressor_history], linestyle="--", color="orange", label="kurt")
 
     texts = []
     for idx, s in enumerate(model.stressor_history):
@@ -431,7 +465,8 @@ if __name__ == "__main__":
             f"duration={s.duration}\n"
             f"surprise={s.surprise}\n"
             f"decay={s.decay}\n"
-            f"jerk={jerk_value}"
+            f"jerk={jerk_value}\n"
+            f"crest={s.crest}\n"
         )
 
         y_frac = max(0.15, 0.95 - idx * 0.15)

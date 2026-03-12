@@ -61,7 +61,7 @@ class CreateMotion:
         except KeyError:
             raise ValueError(f"Unknown motion_type: {motion_type!r}") from None
 
-    def _smooth_motion(self, *, t, freq, amplitude, **_):
+    def _smooth_motion(self, *, t, freq=2, amplitude=1, **_):
         return amplitude * np.sin(2 * np.pi * freq * t)
 
     def _lag_motion(self, *, t, freq, amplitude, lag, **_):
@@ -279,6 +279,7 @@ def generate_event_example_signals(
 
     n = int(round(duration * fs))
     t = np.arange(n) / fs
+    print(t)
     rng = np.random.default_rng(seed)
     motion = CreateMotion()
     surprise_handler = SurpriseFactorsHandler(sampling_frequency=fs)
